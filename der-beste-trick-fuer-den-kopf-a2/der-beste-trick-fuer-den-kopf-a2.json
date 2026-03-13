@@ -1,0 +1,1264 @@
+{
+  "level": "A2",
+  "title": "Der beste Trick für den Kopf",
+  "title-Mp3": "assets/story/der-beste-trick-fuer-den-kopf-a2_title.wav",
+  "story": "Sven sitzt in der Universitätsbibliothek und ist frustriert. Er hat seit Tagen für seine wichtige Geschichteprüfung gelernt. Trotzdem fühlt er sich total überfordert. Er hat viele Notizen gemacht, aber sein Kopf ist einfach leer. Er kann sich an fast nichts erinnern. Seine Freundin Alina kommt zu seinem Tisch und sieht sein langes Gesicht. \"Was ist los?\", hat sie gefragt. \"Ich lerne und lerne, aber es funktioniert nicht\", hat Sven geantwortet. Alina hatte eine gute Idee. \"Versuch mal etwas anderes\", hat sie vorgeschlagen. \"Erklär mir das Thema in ganz einfachen Sätzen, als wäre ich ein Kind.\" Zuerst war Sven ein bisschen skeptisch, aber er hat es probiert. Er hat angefangen, ihr die wichtigsten Zusammenhänge der Weimarer Republik zu erklären. Plötzlich hat er gemerkt: Er versteht alles viel besser! Sven war nicht mehr so nervös und hatte wieder einen Plan. Manchmal ist die beste Methode für eine Prüfung, das Wissen mit anderen zu teilen.",
+  "story-Mp3": "assets/story/der-beste-trick-fuer-den-kopf-a2.wav",
+  "sentences": [
+    {
+      "id": 1, "text": "Sven sitzt in der Universitätsbibliothek und ist frustriert.",
+      "sentence-Mp3": "assets/story/s01.wav"
+    },
+    {
+      "id": 2, "text": "Er hat seit Tagen für seine wichtige Geschichteprüfung gelernt.",
+      "sentence-Mp3": "assets/story/s02.wav"
+    },
+    {
+      "id": 3, "text": "Trotzdem fühlt er sich total überfordert.",
+      "sentence-Mp3": "assets/story/s03.wav"
+    },
+    {
+      "id": 4, "text": "Er hat viele Notizen gemacht, aber sein Kopf ist einfach leer.",
+      "sentence-Mp3": "assets/story/s04.wav"
+    },
+    {
+      "id": 5, "text": "Er kann sich an fast nichts erinnern.",
+      "sentence-Mp3": "assets/story/s05.wav"
+    },
+    {
+      "id": 6, "text": "Seine Freundin Alina kommt zu seinem Tisch und sieht sein langes Gesicht.",
+      "sentence-Mp3": "assets/story/s06.wav"
+    },
+    {
+      "id": 7, "text": "\"Was ist los?\", hat sie gefragt.",
+      "sentence-Mp3": "assets/story/s07.wav"
+    },
+    {
+      "id": 8, "text": "\"Ich lerne und lerne, aber es funktioniert nicht\", hat Sven geantwortet.",
+      "sentence-Mp3": "assets/story/s08.wav"
+    },
+    {
+      "id": 9, "text": "Alina hatte eine gute Idee.",
+      "sentence-Mp3": "assets/story/s09.wav"
+    },
+    {
+      "id": 10, "text": "\"Versuch mal etwas anderes\", hat sie vorgeschlagen.",
+      "sentence-Mp3": "assets/story/s10.wav"
+    },
+    {
+      "id": 11, "text": "\"Erklär mir das Thema in ganz einfachen Sätzen, als wäre ich ein Kind.\"",
+      "sentence-Mp3": "assets/story/s11.wav"
+    },
+    {
+      "id": 12, "text": "Zuerst war Sven ein bisschen skeptisch, aber er hat es probiert.",
+      "sentence-Mp3": "assets/story/s12.wav"
+    },
+    {
+      "id": 13, "text": "Er hat angefangen, ihr die wichtigsten Zusammenhänge der Weimarer Republik zu erklären.",
+      "sentence-Mp3": "assets/story/s13.wav"
+    },
+    {
+      "id": 14, "text": "Plötzlich hat er gemerkt: Er versteht alles viel besser!",
+      "sentence-Mp3": "assets/story/s14.wav"
+    },
+    {
+      "id": 15, "text": "Sven war nicht mehr so nervös und hatte wieder einen Plan.",
+      "sentence-Mp3": "assets/story/s15.wav"
+    },
+    {
+      "id": 16, "text": "Manchmal ist die beste Methode für eine Prüfung, das Wissen mit anderen zu teilen.",
+      "sentence-Mp3": "assets/story/s16.wav"
+    }
+  ],
+  "highlight-words": ["überfordert", "sich", "erinnern", "Versuch", "vorgeschlagen", "einfachen", "skeptisch", "Zusammenhänge", "nervös", "Prüfung"],
+  "lexical-data": [
+    {
+      "word-key": "überfordert",
+      "word-key-Mp3": "assets/lexical/überfordert_01.wav",
+      "type": "adjective",
+      "morphology": "überfordert (x unterfordert)",
+      "mini-definition": "Zu viel Arbeit. Man kann nicht alles schaffen. Die Aufgabe ist zu groß.",
+      "mini-definition-Mp3": "assets/lexical/überfordert_02.wav",
+      "explanation": "Schau mal, das Wort 'überfordert' ist wichtig. Es bedeutet, dass du zu viele Aufgaben hast und nicht weißt, wie du alles schaffen sollst. Stell dir vor, du hast zehn Hausaufgaben und nur eine Stunde Zeit – dann bist du überfordert! Tipp: Wenn du dich überfordert fühlst, bitte um Hilfe oder sage 'Stopp'.",
+      "explanation-Mp3": "assets/lexical/überfordert_03.wav",
+      "examples": [
+        { "id": 1, "text": "Der Lehrer gibt uns zu viele Aufgaben, ich bin total überfordert." },
+        { "id": 2, "text": "Wenn die Arbeit zu viel ist, fühlt man sich schnell überfordert." },
+        { "id": 3, "text": "Sie war mit der neuen Situation völlig überfordert." }
+      ],
+      "examples-Mp3": "assets/lexical/überfordert_04.wav",
+      "question": "Fühlst du dich manchmal überfordert, wenn du viel lernen musst?",
+      "question-Mp3": "assets/lexical/überfordert_05.wav"
+    },
+    {
+      "word-key": "sich",
+      "word-key-Mp3": "assets/lexical/sich_01.wav",
+      "type": "pronoun",
+      "morphology": "sich",
+      "mini-definition": "Reflexivpronomen. Es zeigt auf die Person. Er wäscht sich.",
+      "mini-definition-Mp3": "assets/lexical/sich_02.wav",
+      "explanation": "Weißt du was? Das Wort 'sich' ist ein besonderes Wort. Es ist ein Reflexivpronomen. Das bedeutet, die Handlung geht zurück zur Person. Wenn jemand 'sich' wäscht, wäscht er sich selbst. Tipp: Es kommt oft mit Verben wie 'sich freuen', 'sich waschen', 'sich interessieren'.",
+      "explanation-Mp3": "assets/lexical/sich_03.wav",
+      "examples": [
+        { "id": 1, "text": "Er freut sich auf den Urlaub." },
+        { "id": 2, "text": "Sie muss sich beeilen, um den Zug zu bekommen." },
+        { "id": 3, "text": "Wir setzen uns jetzt hin." }
+      ],
+      "examples-Mp3": "assets/lexical/sich_04.wav",
+      "question": "Wann hast du dich das letzte Mal richtig gefreut?",
+      "question-Mp3": "assets/lexical/sich_05.wav"
+    },
+    {
+      "word-key": "erinnern",
+      "word-key-Mp3": "assets/lexical/erinnern_01.wav",
+      "type": "verb",
+      "morphology": "erinnern (erinnert, hat erinnert, erinnerte)",
+      "mini-definition": "Gedanken an früher. Man denkt an etwas. Ich erinnere mich.",
+      "mini-definition-Mp3": "assets/lexical/erinnern_02.wav",
+      "explanation": "Das ist interessant: Das Wort 'erinnern' bedeutet, dass du an etwas denkst, das in der Vergangenheit passiert ist. Du holst alte Gedanken zurück. Stell dir vor, du siehst ein altes Foto und erinnerst dich an den Tag. Tipp: Oft benutzt man es mit 'sich': 'Ich erinnere mich an dich'.",
+      "explanation-Mp3": "assets/lexical/erinnern_03.wav",
+      "examples": [
+        { "id": 1, "text": "Ich erinnere mich gerne an meine Kindheit." },
+        { "id": 2, "text": "Kannst du dich an unseren ersten Treffpunkt erinnern?" },
+        { "id": 3, "text": "Er erinnerte sich an den Namen der Stadt." }
+      ],
+      "examples-Mp3": "assets/lexical/erinnern_04.wav",
+      "question": "An welches schöne Erlebnis erinnerst du dich gerne?",
+      "question-Mp3": "assets/lexical/erinnern_05.wav"
+    },
+    {
+      "word-key": "Versuch",
+      "word-key-Mp3": "assets/lexical/Versuch_01.wav",
+      "type": "noun",
+      "morphology": "der Versuch (Versuche)",
+      "mini-definition": "Man probiert etwas. Einmal machen. Ein Versuch ist wichtig.",
+      "mini-definition-Mp3": "assets/lexical/Versuch_02.wav",
+      "explanation": "Gut zu wissen: Ein 'Versuch' ist, wenn du etwas Neues ausprobierst. Du versuchst, ob etwas klappt. Wenn es nicht sofort klappt, machst du einfach noch einen Versuch! Stell dir vor, du lernst Fahrrad fahren – jeder Versuch bringt dich näher zum Ziel. Tipp: Man sagt oft 'ein Versuch ist es wert'.",
+      "explanation-Mp3": "assets/lexical/Versuch_03.wav",
+      "examples": [
+        { "id": 1, "text": "Das war mein erster Versuch, Kuchen zu backen." },
+        { "id": 2, "text": "Gib nicht auf, versuche es noch einmal!" },
+        { "id": 3, "text": "Jeder Versuch macht dich besser." }
+      ],
+      "examples-Mp3": "assets/lexical/Versuch_04.wav",
+      "question": "Was hast du das letzte Mal versucht, das du noch nie gemacht hast?",
+      "question-Mp3": "assets/lexical/Versuch_05.wav"
+    },
+    {
+      "word-key": "vorgeschlagen",
+      "word-key-Mp3": "assets/lexical/vorgeschlagen_01.wav",
+      "type": "verb",
+      "morphology": "vorschlagen (schlägt vor, hat vorgeschlagen, schlug vor)",
+      "mini-definition": "Eine Idee geben. Man sagt: 'Wir machen das'. Eine Idee ist gut.",
+      "mini-definition-Mp3": "assets/lexical/vorgeschlagen_02.wav",
+      "explanation": "Aufgepasst! 'Vorgeschlagen' kommt vom Verb 'vorschlagen'. Das bedeutet, du gibst eine Idee, was man tun könnte. Du sagst, was du denkst, dass gut wäre. Stell dir vor, deine Freunde wissen nicht, was sie spielen sollen, und du schlägst 'Verstecken' vor. Tipp: Wenn jemand etwas vorschlägt, kannst du ja oder nein sagen.",
+      "explanation-Mp3": "assets/lexical/vorgeschlagen_03.wav",
+      "examples": [
+        { "id": 1, "text": "Er hat vorgeschlagen, ins Kino zu gehen." },
+        { "id": 2, "text": "Ich habe vorgeschlagen, dass wir Pizza bestellen." },
+        { "id": 3, "text": "Sie schlug einen neuen Plan vor." }
+      ],
+      "examples-Mp3": "assets/lexical/vorgeschlagen_04.wav",
+      "question": "Was hast du deinen Freunden das letzte Mal vorgeschlagen?",
+      "question-Mp3": "assets/lexical/vorgeschlagen_05.wav"
+    },
+    {
+      "word-key": "einfachen",
+      "word-key-Mp3": "assets/lexical/einfachen_01.wav",
+      "type": "adjective",
+      "morphology": "einfach (x kompliziert)",
+      "mini-definition": "Nicht schwer. Leicht zu verstehen. Ganz normal.",
+      "mini-definition-Mp3": "assets/lexical/einfachen_02.wav",
+      "explanation": "Das Wort 'einfachen' ist wichtig. Es bedeutet, dass etwas nicht kompliziert ist. Es ist leicht zu machen oder zu verstehen. Stell dir ein einfaches Spiel vor, das jeder sofort spielen kann. Tipp: Ein einfaches Brot ist nur Mehl, Wasser und Salz.",
+      "explanation-Mp3": "assets/lexical/einfachen_03.wav",
+      "examples": [
+        { "id": 1, "text": "Das ist eine einfache Frage, die jeder beantworten kann." },
+        { "id": 2, "text": "Wir brauchen eine einfache Lösung für dieses Problem." },
+        { "id": 3, "text": "Er erklärt die Regeln auf eine einfache Art." }
+      ],
+      "examples-Mp3": "assets/lexical/einfachen_04.wav",
+      "question": "Findest du es einfacher, Deutsch zu sprechen oder zu schreiben?",
+      "question-Mp3": "assets/lexical/einfachen_05.wav"
+    },
+    {
+      "word-key": "skeptisch",
+      "word-key-Mp3": "assets/lexical/skeptisch_01.wav",
+      "type": "adjective",
+      "morphology": "skeptisch (x gläubig)",
+      "mini-definition": "Nicht sicher. Zweifel haben. Man glaubt nicht sofort.",
+      "mini-definition-Mp3": "assets/lexical/skeptisch_02.wav",
+      "explanation": "Merke dir: 'Skeptisch' bedeutet, dass du nicht sofort glaubst, was jemand sagt. Du bist unsicher und denkst, es könnte anders sein. Stell dir vor, jemand sagt, er kann fliegen – du wärst wahrscheinlich skeptisch. Tipp: Wenn du skeptisch bist, fragst du nach mehr Informationen.",
+      "explanation-Mp3": "assets/lexical/skeptisch_03.wav",
+      "examples": [
+        { "id": 1, "text": "Ich bin skeptisch, ob das wirklich funktioniert." },
+        { "id": 2, "text": "Sie sah ihn mit skeptischen Augen an." },
+        { "id": 3, "text": "Er war skeptisch gegenüber dem neuen Angebot." }
+      ],
+      "examples-Mp3": "assets/lexical/skeptisch_04.wav",
+      "question": "Bist du skeptisch, wenn du eine neue Geschichte liest?",
+      "question-Mp3": "assets/lexical/skeptisch_05.wav"
+    },
+    {
+      "word-key": "Zusammenhänge",
+      "word-key-Mp3": "assets/lexical/Zusammenhänge_01.wav",
+      "type": "noun",
+      "morphology": "der Zusammenhang (Zusammenhänge)",
+      "mini-definition": "Wie Dinge verbunden sind. Die Verbindung sehen. Alles passt zusammen.",
+      "mini-definition-Mp3": "assets/lexical/Zusammenhänge_02.wav",
+      "explanation": "Super Wort! 'Zusammenhänge' sind die Verbindungen zwischen verschiedenen Dingen oder Ideen. Wenn du Zusammenhänge verstehst, siehst du, wie alles zusammenpasst. Stell dir ein Puzzle vor: Erst wenn alle Teile verbunden sind, siehst du das ganze Bild. Tipp: Gute Lehrer erklären die Zusammenhänge im Unterricht.",
+      "explanation-Mp3": "assets/lexical/Zusammenhänge_03.wav",
+      "examples": [
+        { "id": 1, "text": "Es ist wichtig, die Zusammenhänge zwischen Ursache und Wirkung zu verstehen." },
+        { "id": 2, "text": "Der Detektiv versuchte, die Zusammenhänge des Falls zu erkennen." },
+        { "id": 3, "text": "Sie erklärte die komplizierten Zusammenhänge einfach." }
+      ],
+      "examples-Mp3": "assets/lexical/Zusammenhänge_04.wav",
+      "question": "Siehst du die Zusammenhänge zwischen den Wörtern, die wir lernen?",
+      "question-Mp3": "assets/lexical/Zusammenhänge_05.wav"
+    },
+    {
+      "word-key": "nervös",
+      "word-key-Mp3": "assets/lexical/nervös_01.wav",
+      "type": "adjective",
+      "morphology": "nervös (x ruhig)",
+      "mini-definition": "Angst haben. Unruhig sein. Nicht ruhig sein.",
+      "mini-definition-Mp3": "assets/lexical/nervös_02.wav",
+      "explanation": "Hier kommt ein Tipp: 'Nervös' bedeutet, dass du dich unruhig und ein bisschen ängstlich fühlst. Dein Herz schlägt vielleicht schneller. Stell dir vor, du musst vor vielen Leuten sprechen – da kann man nervös werden. Tipp: Tief durchatmen hilft oft, wenn man nervös ist.",
+      "explanation-Mp3": "assets/lexical/nervös_03.wav",
+      "examples": [
+        { "id": 1, "text": "Vor der Prüfung war ich sehr nervös." },
+        { "id": 2, "text": "Er wurde nervös, als er die unerwartete Frage hörte." },
+        { "id": 3, "text": "Sei nicht nervös, du schaffst das!" }
+      ],
+      "examples-Mp3": "assets/lexical/nervös_04.wav",
+      "question": "Wirst du nervös, wenn du etwas Neues ausprobierst?",
+      "question-Mp3": "assets/lexical/nervös_05.wav"
+    },
+    {
+      "word-key": "Prüfung",
+      "word-key-Mp3": "assets/lexical/Prüfung_01.wav",
+      "type": "noun",
+      "morphology": "die Prüfung (Prüfungen)",
+      "mini-definition": "Test. Man zeigt, was man weiß. Eine Aufgabe.",
+      "mini-definition-Mp3": "assets/lexical/Prüfung_02.wav",
+      "explanation": "Das kennst du vielleicht schon: Eine 'Prüfung' ist ein Test. Du musst zeigen, was du gelernt hast. Das kann eine schriftliche Prüfung sein oder eine mündliche. Stell dir vor, du machst eine Prüfung in Deutsch, um zu sehen, wie gut du die Sprache kannst. Tipp: Gute Vorbereitung macht die Prüfung leichter.",
+      "explanation-Mp3": "assets/lexical/Prüfung_03.wav",
+      "examples": [
+        { "id": 1, "text": "Die Prüfung am Ende des Semesters ist wichtig." },
+        { "id": 2, "text": "Ich habe die Prüfung bestanden!" },
+        { "id": 3, "text": "Er lernt viel für seine nächste Prüfung." }
+      ],
+      "examples-Mp3": "assets/lexical/Prüfung_04.wav",
+      "question": "Was ist die wichtigste Prüfung, die du bisher gemacht hast?",
+      "question-Mp3": "assets/lexical/Prüfung_05.wav"
+    }
+  ],
+  "interaction-drills": [
+    {
+      "sentence-id": "S01",
+      "original-sentence": "Sven sitzt in der Universitätsbibliothek und ist frustriert.",
+      "drills": [
+        {
+          "id": "Q01",
+          "type": "TYPE_4_WH_QUESTION",
+          "question": "Wo sitzt Sven?",
+          "question-Mp3": "assets/drills/s01_q01_question.wav",
+          "answers": {
+            "reflex": "In der Bibliothek.",
+            "reflex-Mp3": "assets/drills/s01_q01_reflex.wav",
+            "full": "Sven sitzt in der Universitätsbibliothek.",
+            "full-Mp3": "assets/drills/s01_q01_full.wav",
+            "enriched": "Sven sitzt gerade in der Universitätsbibliothek und versucht zu lernen.",
+            "enriched-Mp3": "assets/drills/s01_q01_enriched.wav"
+          }
+        },
+        {
+          "id": "Q02",
+          "type": "TYPE_4_WH_QUESTION",
+          "question": "Wie ist Svens Zustand?",
+          "question-Mp3": "assets/drills/s01_q02_question.wav",
+          "answers": {
+            "reflex": "Frustriert.",
+            "reflex-Mp3": "assets/drills/s01_q02_reflex.wav",
+            "full": "Sven ist frustriert.",
+            "full-Mp3": "assets/drills/s01_q02_full.wav",
+            "enriched": "Sven ist sehr frustriert, weil er nicht weiterkommt.",
+            "enriched-Mp3": "assets/drills/s01_q02_enriched.wav"
+          }
+        },
+        {
+          "id": "Q03",
+          "type": "TYPE_2_EITHER_OR",
+          "question": "Sitzt Sven im Café oder in der Bibliothek?",
+          "question-Mp3": "assets/drills/s01_q03_question.wav",
+          "answers": {
+            "reflex": "In der Bibliothek.",
+            "reflex-Mp3": "assets/drills/s01_q03_reflex.wav",
+            "full": "Sven sitzt in der Universitätsbibliothek.",
+            "full-Mp3": "assets/drills/s01_q03_full.wav",
+            "enriched": "Er sitzt in der Universitätsbibliothek, nicht in einem Café.",
+            "enriched-Mp3": "assets/drills/s01_q03_enriched.wav"
+          }
+        },
+        {
+          "id": "Q04",
+          "type": "TYPE_3_CONTRAST",
+          "question": "Ist Sven glücklich oder frustriert?",
+          "question-Mp3": "assets/drills/s01_q04_question.wav",
+          "answers": {
+            "reflex": "Frustriert.",
+            "reflex-Mp3": "assets/drills/s01_q04_reflex.wav",
+            "full": "Sven ist frustriert.",
+            "full-Mp3": "assets/drills/s01_q04_full.wav",
+            "enriched": "Er ist nicht glücklich, sondern ziemlich frustriert.",
+            "enriched-Mp3": "assets/drills/s01_q04_enriched.wav"
+          }
+        },
+        {
+          "id": "Q05",
+          "type": "TYPE_1_CONFIRMATION",
+          "question": "Ist Sven entspannt?",
+          "question-Mp3": "assets/drills/s01_q05_question.wav",
+          "answers": {
+            "reflex": "Nein.",
+            "reflex-Mp3": "assets/drills/s01_q05_reflex.wav",
+            "full": "Nein, Sven ist nicht entspannt. Er ist frustriert.",
+            "full-Mp3": "assets/drills/s01_q05_full.wav",
+            "enriched": "Nein, er ist überhaupt nicht entspannt, im Gegenteil, er ist sehr frustriert.",
+            "enriched-Mp3": "assets/drills/s01_q05_enriched.wav"
+          }
+        }
+      ]
+    },
+    {
+      "sentence-id": "S02",
+      "original-sentence": "Er hat seit Tagen für seine wichtige Geschichteprüfung gelernt.",
+      "drills": [
+        {
+          "id": "Q01",
+          "type": "TYPE_4_WH_QUESTION",
+          "question": "Wofür hat Sven gelernt?",
+          "question-Mp3": "assets/drills/s02_q01_question.wav",
+          "answers": {
+            "reflex": "Für die Prüfung.",
+            "reflex-Mp3": "assets/drills/s02_q01_reflex.wav",
+            "full": "Er hat für seine wichtige Geschichteprüfung gelernt.",
+            "full-Mp3": "assets/drills/s02_q01_full.wav",
+            "enriched": "Er hat seit Tagen intensiv für seine wichtige Geschichteprüfung gelernt.",
+            "enriched-Mp3": "assets/drills/s02_q01_enriched.wav"
+          }
+        },
+        {
+          "id": "Q02",
+          "type": "TYPE_4_WH_QUESTION",
+          "question": "Wie lange hat er gelernt?",
+          "question-Mp3": "assets/drills/s02_q02_question.wav",
+          "answers": {
+            "reflex": "Seit Tagen.",
+            "reflex-Mp3": "assets/drills/s02_q02_reflex.wav",
+            "full": "Er hat seit Tagen gelernt.",
+            "full-Mp3": "assets/drills/s02_q02_full.wav",
+            "enriched": "Er hat wirklich seit mehreren Tagen für die Prüfung gelernt.",
+            "enriched-Mp3": "assets/drills/s02_q02_enriched.wav"
+          }
+        },
+        {
+          "id": "Q03",
+          "type": "TYPE_3_CONTRAST",
+          "question": "Hat er für eine Matheprüfung oder eine Geschichteprüfung gelernt?",
+          "question-Mp3": "assets/drills/s02_q03_question.wav",
+          "answers": {
+            "reflex": "Geschichteprüfung.",
+            "reflex-Mp3": "assets/drills/s02_q03_reflex.wav",
+            "full": "Er hat für seine wichtige Geschichteprüfung gelernt.",
+            "full-Mp3": "assets/drills/s02_q03_full.wav",
+            "enriched": "Er hat sich auf die Geschichteprüfung vorbereitet, nicht auf Mathe.",
+            "enriched-Mp3": "assets/drills/s02_q03_enriched.wav"
+          }
+        },
+        {
+          "id": "Q04",
+          "type": "TYPE_1_CONFIRMATION",
+          "question": "Hat Sven nur kurz für die Prüfung gelernt?",
+          "question-Mp3": "assets/drills/s02_q04_question.wav",
+          "answers": {
+            "reflex": "Nein.",
+            "reflex-Mp3": "assets/drills/s02_q04_reflex.wav",
+            "full": "Nein, er hat seit Tagen für seine wichtige Geschichteprüfung gelernt.",
+            "full-Mp3": "assets/drills/s02_q04_full.wav",
+            "enriched": "Nein, er hat sich über mehrere Tage intensiv vorbereitet.",
+            "enriched-Mp3": "assets/drills/s02_q04_enriched.wav"
+          }
+        }
+      ]
+    },
+    {
+      "sentence-id": "S03",
+      "original-sentence": "Trotzdem fühlt er sich total überfordert.",
+      "drills": [
+        {
+          "id": "Q01",
+          "type": "TYPE_4_WH_QUESTION",
+          "question": "Wie fühlt sich Sven?",
+          "question-Mp3": "assets/drills/s03_q01_question.wav",
+          "answers": {
+            "reflex": "Überfordert.",
+            "reflex-Mp3": "assets/drills/s03_q01_reflex.wav",
+            "full": "Er fühlt sich total überfordert.",
+            "full-Mp3": "assets/drills/s03_q01_full.wav",
+            "enriched": "Obwohl er gelernt hat, fühlt er sich immer noch total überfordert.",
+            "enriched-Mp3": "assets/drills/s03_q01_enriched.wav"
+          }
+        },
+        {
+          "id": "Q02",
+          "type": "TYPE_3_CONTRAST",
+          "question": "Fühlt sich Sven unterfordert oder überfordert?",
+          "question-Mp3": "assets/drills/s03_q02_question.wav",
+          "answers": {
+            "reflex": "Überfordert.",
+            "reflex-Mp3": "assets/drills/s03_q02_reflex.wav",
+            "full": "Er fühlt sich total überfordert.",
+            "full-Mp3": "assets/drills/s03_q02_full.wav",
+            "enriched": "Er ist nicht unterfordert, ganz im Gegenteil, er fühlt sich total überfordert.",
+            "enriched-Mp3": "assets/drills/s03_q02_enriched.wav"
+          }
+        },
+        {
+          "id": "Q03",
+          "type": "TYPE_1_CONFIRMATION",
+          "question": "Ist Sven mit dem Stoff zufrieden?",
+          "question-Mp3": "assets/drills/s03_q03_question.wav",
+          "answers": {
+            "reflex": "Nein.",
+            "reflex-Mp3": "assets/drills/s03_q03_reflex.wav",
+            "full": "Nein, er fühlt sich total überfordert.",
+            "full-Mp3": "assets/drills/s03_q03_full.wav",
+            "enriched": "Nein, er ist überhaupt nicht zufrieden, er fühlt sich komplett überfordert.",
+            "enriched-Mp3": "assets/drills/s03_q03_enriched.wav"
+          }
+        },
+        {
+          "id": "Q04",
+          "type": "TYPE_6_COMPLETION",
+          "question": "Obwohl er gelernt hat, fühlt er sich...",
+          "question-Mp3": "assets/drills/s03_q04_question.wav",
+          "answers": {
+            "reflex": "Überfordert.",
+            "reflex-Mp3": "assets/drills/s03_q04_reflex.wav",
+            "full": "Obwohl er gelernt hat, fühlt er sich total überfordert.",
+            "full-Mp3": "assets/drills/s03_q04_full.wav",
+            "enriched": "Obwohl er gelernt hat, fühlt er sich total überfordert, was sehr frustrierend ist.",
+            "enriched-Mp3": "assets/drills/s03_q04_enriched.wav"
+          }
+        }
+      ]
+    },
+    {
+      "sentence-id": "S04",
+      "original-sentence": "Er hat viele Notizen gemacht, aber sein Kopf ist einfach leer.",
+      "drills": [
+        {
+          "id": "Q01",
+          "type": "TYPE_4_WH_QUESTION",
+          "question": "Was hat Sven gemacht?",
+          "question-Mp3": "assets/drills/s04_q01_question.wav",
+          "answers": {
+            "reflex": "Notizen.",
+            "reflex-Mp3": "assets/drills/s04_q01_reflex.wav",
+            "full": "Er hat viele Notizen gemacht.",
+            "full-Mp3": "assets/drills/s04_q01_full.wav",
+            "enriched": "Er hat sich die Mühe gemacht und viele Notizen gemacht.",
+            "enriched-Mp3": "assets/drills/s04_q01_enriched.wav"
+          }
+        },
+        {
+          "id": "Q02",
+          "type": "TYPE_4_WH_QUESTION",
+          "question": "Was ist mit seinem Kopf?",
+          "question-Mp3": "assets/drills/s04_q02_question.wav",
+          "answers": {
+            "reflex": "Leer.",
+            "reflex-Mp3": "assets/drills/s04_q02_reflex.wav",
+            "full": "Sein Kopf ist einfach leer.",
+            "full-Mp3": "assets/drills/s04_q02_full.wav",
+            "enriched": "Trotz der Notizen ist sein Kopf einfach leer.",
+            "enriched-Mp3": "assets/drills/s04_q02_enriched.wav"
+          }
+        },
+        {
+          "id": "Q03",
+          "type": "TYPE_2_EITHER_OR",
+          "question": "Ist sein Kopf voll oder leer?",
+          "question-Mp3": "assets/drills/s04_q03_question.wav",
+          "answers": {
+            "reflex": "Leer.",
+            "reflex-Mp3": "assets/drills/s04_q03_reflex.wav",
+            "full": "Sein Kopf ist einfach leer.",
+            "full-Mp3": "assets/drills/s04_q03_full.wav",
+            "enriched": "Sein Kopf ist leider komplett leer, nicht voll mit Wissen.",
+            "enriched-Mp3": "assets/drills/s04_q03_enriched.wav"
+          }
+        },
+        {
+          "id": "Q04",
+          "type": "TYPE_3_CONTRAST",
+          "question": "Hat er wenige Notizen gemacht oder viele?",
+          "question-Mp3": "assets/drills/s04_q04_question.wav",
+          "answers": {
+            "reflex": "Viele.",
+            "reflex-Mp3": "assets/drills/s04_q04_reflex.wav",
+            "full": "Er hat viele Notizen gemacht.",
+            "full-Mp3": "assets/drills/s04_q04_full.wav",
+            "enriched": "Er hat nicht wenige, sondern eine große Menge an Notizen gemacht.",
+            "enriched-Mp3": "assets/drills/s04_q04_enriched.wav"
+          }
+        },
+        {
+          "id": "Q05",
+          "type": "TYPE_6_COMPLETION",
+          "question": "Er hat viele Notizen gemacht, aber...",
+          "question-Mp3": "assets/drills/s04_q05_question.wav",
+          "answers": {
+            "reflex": "Sein Kopf ist leer.",
+            "reflex-Mp3": "assets/drills/s04_q05_reflex.wav",
+            "full": "Er hat viele Notizen gemacht, aber sein Kopf ist einfach leer.",
+            "full-Mp3": "assets/drills/s04_q05_full.wav",
+            "enriched": "Er hat viele Notizen gemacht, aber sein Kopf ist einfach leer, was ihn sehr frustriert.",
+            "enriched-Mp3": "assets/drills/s04_q05_enriched.wav"
+          }
+        }
+      ]
+    },
+    {
+      "sentence-id": "S05",
+      "original-sentence": "Er kann sich an fast nichts erinnern.",
+      "drills": [
+        {
+          "id": "Q01",
+          "type": "TYPE_4_WH_QUESTION",
+          "question": "Worann kann sich Sven erinnern?",
+          "question-Mp3": "assets/drills/s05_q01_question.wav",
+          "answers": {
+            "reflex": "An fast nichts.",
+            "reflex-Mp3": "assets/drills/s05_q01_reflex.wav",
+            "full": "Er kann sich an fast nichts erinnern.",
+            "full-Mp3": "assets/drills/s05_q01_full.wav",
+            "enriched": "Es ist ein ernstes Problem, er kann sich an fast nichts aus dem Gelernten erinnern.",
+            "enriched-Mp3": "assets/drills/s05_q01_enriched.wav"
+          }
+        },
+        {
+          "id": "Q02",
+          "type": "TYPE_1_CONFIRMATION",
+          "question": "Erinnert sich Sven an alles?",
+          "question-Mp3": "assets/drills/s05_q02_question.wav",
+          "answers": {
+            "reflex": "Nein.",
+            "reflex-Mp3": "assets/drills/s05_q02_reflex.wav",
+            "full": "Nein, er kann sich an fast nichts erinnern.",
+            "full-Mp3": "assets/drills/s05_q02_full.wav",
+            "enriched": "Nein, er erinnert sich wirklich an fast gar nichts mehr.",
+            "enriched-Mp3": "assets/drills/s05_q02_enriched.wav"
+          }
+        },
+        {
+          "id": "Q03",
+          "type": "TYPE_3_CONTRAST",
+          "question": "Erinnert er sich an vieles oder an fast nichts?",
+          "question-Mp3": "assets/drills/s05_q03_question.wav",
+          "answers": {
+            "reflex": "An fast nichts.",
+            "reflex-Mp3": "assets/drills/s05_q03_reflex.wav",
+            "full": "Er kann sich an fast nichts erinnern.",
+            "full-Mp3": "assets/drills/s05_q03_full.wav",
+            "enriched": "Er erinnert sich nicht an vieles, sondern an fast nichts.",
+            "enriched-Mp3": "assets/drills/s05_q03_enriched.wav"
+          }
+        },
+        {
+          "id": "Q04",
+          "type": "TYPE_6_COMPLETION",
+          "question": "Er kann sich an fast nichts...",
+          "question-Mp3": "assets/drills/s05_q04_question.wav",
+          "answers": {
+            "reflex": "Erinnern.",
+            "reflex-Mp3": "assets/drills/s05_q04_reflex.wav",
+            "full": "Er kann sich an fast nichts erinnern.",
+            "full-Mp3": "assets/drills/s05_q04_full.wav",
+            "enriched": "Er kann sich an fast nichts erinnern, was die Situation sehr schwierig macht.",
+            "enriched-Mp3": "assets/drills/s05_q04_enriched.wav"
+          }
+        }
+      ]
+    },
+    {
+      "sentence-id": "S06",
+      "original-sentence": "Seine Freundin Alina kommt zu seinem Tisch und sieht sein langes Gesicht.",
+      "drills": [
+        {
+          "id": "Q01",
+          "type": "TYPE_4_WH_QUESTION",
+          "question": "Wer kommt zu Svens Tisch?",
+          "question-Mp3": "assets/drills/s06_q01_question.wav",
+          "answers": {
+            "reflex": "Alina.",
+            "reflex-Mp3": "assets/drills/s06_q01_reflex.wav",
+            "full": "Seine Freundin Alina kommt zu seinem Tisch.",
+            "full-Mp3": "assets/drills/s06_q01_full.wav",
+            "enriched": "Seine Freundin Alina bemerkt seine Situation und kommt zu seinem Tisch.",
+            "enriched-Mp3": "assets/drills/s06_q01_enriched.wav"
+          }
+        },
+        {
+          "id": "Q02",
+          "type": "TYPE_4_WH_QUESTION",
+          "question": "Was sieht Alina?",
+          "question-Mp3": "assets/drills/s06_q02_question.wav",
+          "answers": {
+            "reflex": "Sein Gesicht.",
+            "reflex-Mp3": "assets/drills/s06_q02_reflex.wav",
+            "full": "Alina sieht sein langes Gesicht.",
+            "full-Mp3": "assets/drills/s06_q02_full.wav",
+            "enriched": "Als sie näher kommt, sieht Alina sein langes, trauriges Gesicht.",
+            "enriched-Mp3": "assets/drills/s06_q02_enriched.wav"
+          }
+        },
+        {
+          "id": "Q03",
+          "type": "TYPE_2_EITHER_OR",
+          "question": "Kommt sein Freund oder seine Freundin zu ihm?",
+          "question-Mp3": "assets/drills/s06_q03_question.wav",
+          "answers": {
+            "reflex": "Seine Freundin.",
+            "reflex-Mp3": "assets/drills/s06_q03_reflex.wav",
+            "full": "Seine Freundin Alina kommt zu seinem Tisch.",
+            "full-Mp3": "assets/drills/s06_q03_full.wav",
+            "enriched": "Es ist seine Freundin Alina, die zu ihm an den Tisch kommt.",
+            "enriched-Mp3": "assets/drills/s06_q03_enriched.wav"
+          }
+        },
+        {
+          "id": "Q04",
+          "type": "TYPE_3_CONTRAST",
+          "question": "Sieht Alina ein kurzes oder ein langes Gesicht?",
+          "question-Mp3": "assets/drills/s06_q04_question.wav",
+          "answers": {
+            "reflex": "Ein langes.",
+            "reflex-Mp3": "assets/drills/s06_q04_reflex.wav",
+            "full": "Alina sieht sein langes Gesicht.",
+            "full-Mp3": "assets/drills/s06_q04_full.wav",
+            "enriched": "Sie sieht kein kurzes, fröhliches Gesicht, sondern ein langes, besorgtes.",
+            "enriched-Mp3": "assets/drills/s06_q04_enriched.wav"
+          }
+        },
+        {
+          "id": "Q05",
+          "type": "TYPE_1_CONFIRMATION",
+          "question": "Ist Sven glücklich, als Alina kommt?",
+          "question-Mp3": "assets/drills/s06_q05_question.wav",
+          "answers": {
+            "reflex": "Nein.",
+            "reflex-Mp3": "assets/drills/s06_q05_reflex.wav",
+            "full": "Nein, Alina sieht sein langes Gesicht.",
+            "full-Mp3": "assets/drills/s06_q05_full.wav",
+            "enriched": "Nein, Svens Gesichtsausdruck zeigt, dass er nicht glücklich ist.",
+            "enriched-Mp3": "assets/drills/s06_q05_enriched.wav"
+          }
+        }
+      ]
+    },
+    {
+      "sentence-id": "S07",
+      "original-sentence": "\"Was ist los?\", hat sie gefragt.",
+      "drills": [
+        {
+          "id": "Q01",
+          "type": "TYPE_4_WH_QUESTION",
+          "question": "Was hat Alina gefragt?",
+          "question-Mp3": "assets/drills/s07_q01_question.wav",
+          "answers": {
+            "reflex": "Was los ist.",
+            "reflex-Mp3": "assets/drills/s07_q01_reflex.wav",
+            "full": "Sie hat gefragt: \"Was ist los?\"",
+            "full-Mp3": "assets/drills/s07_q01_full.wav",
+            "enriched": "Alina hat sich Sorgen gemacht und gefragt: \"Was ist los?\"",
+            "enriched-Mp3": "assets/drills/s07_q01_enriched.wav"
+          }
+        },
+        {
+          "id": "Q02",
+          "type": "TYPE_1_CONFIRMATION",
+          "question": "Hat Alina Sven gratuliert?",
+          "question-Mp3": "assets/drills/s07_q02_question.wav",
+          "answers": {
+            "reflex": "Nein.",
+            "reflex-Mp3": "assets/drills/s07_q02_reflex.wav",
+            "full": "Nein, sie hat gefragt: \"Was ist los?\"",
+            "full-Mp3": "assets/drills/s07_q02_full.wav",
+            "enriched": "Nein, sie hat ihn nicht beglückwünscht, sondern nach seinem Problem gefragt.",
+            "enriched-Mp3": "assets/drills/s07_q02_enriched.wav"
+          }
+        },
+        {
+          "id": "Q03",
+          "type": "TYPE_2_EITHER_OR",
+          "question": "Hat sie gefragt, ob alles gut ist, oder was los ist?",
+          "question-Mp3": "assets/drills/s07_q03_question.wav",
+          "answers": {
+            "reflex": "Was los ist.",
+            "reflex-Mp3": "assets/drills/s07_q03_reflex.wav",
+            "full": "Sie hat gefragt: \"Was ist los?\"",
+            "full-Mp3": "assets/drills/s07_q03_full.wav",
+            "enriched": "Sie hat direkt nach dem Problem gefragt: \"Was ist los?\", nicht ob alles in Ordnung ist.",
+            "enriched-Mp3": "assets/drills/s07_q03_enriched.wav"
+          }
+        }
+      ]
+    },
+    {
+      "sentence-id": "S08",
+      "original-sentence": "\"Ich lerne und lerne, aber es funktioniert nicht\", hat Sven geantwortet.",
+      "drills": [
+        {
+          "id": "Q01",
+          "type": "TYPE_4_WH_QUESTION",
+          "question": "Was hat Sven geantwortet?",
+          "question-Mp3": "assets/drills/s08_q01_question.wav",
+          "answers": {
+            "reflex": "Es funktioniert nicht.",
+            "reflex-Mp3": "assets/drills/s08_q01_reflex.wav",
+            "full": "Sven hat geantwortet: \"Ich lerne und lerne, aber es funktioniert nicht.\"",
+            "full-Mp3": "assets/drills/s08_q01_full.wav",
+            "enriched": "Sven hat frustriert geantwortet, dass sein Lernen einfach nicht funktioniert.",
+            "enriched-Mp3": "assets/drills/s08_q01_enriched.wav"
+          }
+        },
+        {
+          "id": "Q02",
+          "type": "TYPE_1_CONFIRMATION",
+          "question": "Hat Svens Lernen funktioniert?",
+          "question-Mp3": "assets/drills/s08_q02_question.wav",
+          "answers": {
+            "reflex": "Nein.",
+            "reflex-Mp3": "assets/drills/s08_q02_reflex.wav",
+            "full": "Nein, es funktioniert nicht.",
+            "full-Mp3": "assets/drills/s08_q02_full.wav",
+            "enriched": "Nein, trotz seines intensiven Lernens funktioniert es leider nicht.",
+            "enriched-Mp3": "assets/drills/s08_q02_enriched.wav"
+          }
+        },
+        {
+          "id": "Q03",
+          "type": "TYPE_6_COMPLETION",
+          "question": "Er lernt und lernt, aber...",
+          "question-Mp3": "assets/drills/s08_q03_question.wav",
+          "answers": {
+            "reflex": "Es funktioniert nicht.",
+            "reflex-Mp3": "assets/drills/s08_q03_reflex.wav",
+            "full": "Er lernt und lernt, aber es funktioniert nicht.",
+            "full-Mp3": "assets/drills/s08_q03_full.wav",
+            "enriched": "Er lernt und lernt, aber es funktioniert einfach nicht, was ihn sehr entmutigt.",
+            "enriched-Mp3": "assets/drills/s08_q03_enriched.wav"
+          }
+        },
+        {
+          "id": "Q04",
+          "type": "TYPE_3_CONTRAST",
+          "question": "Hat er aufgehört zu lernen oder lernt er immer weiter?",
+          "question-Mp3": "assets/drills/s08_q04_question.wav",
+          "answers": {
+            "reflex": "Lernt immer weiter.",
+            "reflex-Mp3": "assets/drills/s08_q04_reflex.wav",
+            "full": "Er lernt und lernt.",
+            "full-Mp3": "assets/drills/s08_q04_full.wav",
+            "enriched": "Er hat nicht aufgehört, er lernt und lernt, aber ohne Erfolg.",
+            "enriched-Mp3": "assets/drills/s08_q04_enriched.wav"
+          }
+        }
+      ]
+    },
+    {
+      "sentence-id": "S09",
+      "original-sentence": "Alina hatte eine gute Idee.",
+      "drills": [
+        {
+          "id": "Q01",
+          "type": "TYPE_4_WH_QUESTION",
+          "question": "Wer hatte eine gute Idee?",
+          "question-Mp3": "assets/drills/s09_q01_question.wav",
+          "answers": {
+            "reflex": "Alina.",
+            "reflex-Mp3": "assets/drills/s09_q01_reflex.wav",
+            "full": "Alina hatte eine gute Idee.",
+            "full-Mp3": "assets/drills/s09_q01_full.wav",
+            "enriched": "In diesem Moment kam Alina eine wirklich gute Idee.",
+            "enriched-Mp3": "assets/drills/s09_q01_enriched.wav"
+          }
+        },
+        {
+          "id": "Q02",
+          "type": "TYPE_1_CONFIRMATION",
+          "question": "Hatte Alina eine schlechte Idee?",
+          "question-Mp3": "assets/drills/s09_q02_question.wav",
+          "answers": {
+            "reflex": "Nein.",
+            "reflex-Mp3": "assets/drills/s09_q02_reflex.wav",
+            "full": "Nein, Alina hatte eine gute Idee.",
+            "full-Mp3": "assets/drills/s09_q02_full.wav",
+            "enriched": "Nein, es war keine schlechte Idee, sondern eine gute.",
+            "enriched-Mp3": "assets/drills/s09_q02_enriched.wav"
+          }
+        },
+        {
+          "id": "Q03",
+          "type": "TYPE_3_CONTRAST",
+          "question": "Hatte Alina eine gute oder eine schlechte Idee?",
+          "question-Mp3": "assets/drills/s09_q03_question.wav",
+          "answers": {
+            "reflex": "Eine gute.",
+            "reflex-Mp3": "assets/drills/s09_q03_reflex.wav",
+            "full": "Alina hatte eine gute Idee.",
+            "full-Mp3": "assets/drills/s09_q03_full.wav",
+            "enriched": "Sie hatte keine schlechte Idee, sondern eine sehr gute.",
+            "enriched-Mp3": "assets/drills/s09_q03_enriched.wav"
+          }
+        }
+      ]
+    },
+    {
+      "sentence-id": "S10",
+      "original-sentence": "\"Versuch mal etwas anderes\", hat sie vorgeschlagen.",
+      "drills": [
+        {
+          "id": "Q01",
+          "type": "TYPE_4_WH_QUESTION",
+          "question": "Was hat Alina vorgeschlagen?",
+          "question-Mp3": "assets/drills/s10_q01_question.wav",
+          "answers": {
+            "reflex": "Etwas anderes.",
+            "reflex-Mp3": "assets/drills/s10_q01_reflex.wav",
+            "full": "Sie hat vorgeschlagen: \"Versuch mal etwas anderes.\"",
+            "full-Mp3": "assets/drills/s10_q01_full.wav",
+            "enriched": "Alina hat Sven ermutigt und vorgeschlagen, dass er mal etwas anderes versuchen soll.",
+            "enriched-Mp3": "assets/drills/s10_q01_enriched.wav"
+          }
+        },
+        {
+          "id": "Q02",
+          "type": "TYPE_1_CONFIRMATION",
+          "question": "Hat sie vorgeschlagen, weiterzumachen wie bisher?",
+          "question-Mp3": "assets/drills/s10_q02_question.wav",
+          "answers": {
+            "reflex": "Nein.",
+            "reflex-Mp3": "assets/drills/s10_q02_reflex.wav",
+            "full": "Nein, sie hat vorgeschlagen: \"Versuch mal etwas anderes.\"",
+            "full-Mp3": "assets/drills/s10_q02_full.wav",
+            "enriched": "Nein, sie hat ihm geraten, die Methode zu ändern und etwas anderes zu probieren.",
+            "enriched-Mp3": "assets/drills/s10_q02_enriched.wav"
+          }
+        },
+        {
+          "id": "Q03",
+          "type": "TYPE_2_EITHER_OR",
+          "question": "Hat sie vorgeschlagen, das Gleiche zu tun oder etwas anderes?",
+          "question-Mp3": "assets/drills/s10_q03_question.wav",
+          "answers": {
+            "reflex": "Etwas anderes.",
+            "reflex-Mp3": "assets/drills/s10_q03_reflex.wav",
+            "full": "Sie hat vorgeschlagen: \"Versuch mal etwas anderes.\"",
+            "full-Mp3": "assets/drills/s10_q03_full.wav",
+            "enriched": "Sie hat ihm geraten, etwas anderes zu versuchen, nicht das Gleiche weiterzumachen.",
+            "enriched-Mp3": "assets/drills/s10_q03_enriched.wav"
+          }
+        }
+      ]
+    },
+    {
+      "sentence-id": "S11",
+      "original-sentence": "\"Erklär mir das Thema in ganz einfachen Sätzen, als wäre ich ein Kind.\"",
+      "drills": [
+        {
+          "id": "Q01",
+          "type": "TYPE_4_WH_QUESTION",
+          "question": "Was soll Sven erklären?",
+          "question-Mp3": "assets/drills/s11_q01_question.wav",
+          "answers": {
+            "reflex": "Das Thema.",
+            "reflex-Mp3": "assets/drills/s11_q01_reflex.wav",
+            "full": "Er soll ihr das Thema erklären.",
+            "full-Mp3": "assets/drills/s11_q01_full.wav",
+            "enriched": "Sven soll ihr das schwierige Thema erklären.",
+            "enriched-Mp3": "assets/drills/s11_q01_enriched.wav"
+          }
+        },
+        {
+          "id": "Q02",
+          "type": "TYPE_4_WH_QUESTION",
+          "question": "Wie soll Sven das Thema erklären?",
+          "question-Mp3": "assets/drills/s11_q02_question.wav",
+          "answers": {
+            "reflex": "Einfach.",
+            "reflex-Mp3": "assets/drills/s11_q02_reflex.wav",
+            "full": "Er soll es in ganz einfachen Sätzen erklären.",
+            "full-Mp3": "assets/drills/s11_q02_full.wav",
+            "enriched": "Die Erklärung soll in ganz einfachen Sätzen erfolgen, fast wie für ein Kind.",
+            "enriched-Mp3": "assets/drills/s11_q02_enriched.wav"
+          }
+        },
+        {
+          "id": "Q03",
+          "type": "TYPE_1_CONFIRMATION",
+          "question": "Soll Sven das Thema kompliziert erklären?",
+          "question-Mp3": "assets/drills/s11_q03_question.wav",
+          "answers": {
+            "reflex": "Nein.",
+            "reflex-Mp3": "assets/drills/s11_q03_reflex.wav",
+            "full": "Nein, er soll es in ganz einfachen Sätzen erklären.",
+            "full-Mp3": "assets/drills/s11_q03_full.wav",
+            "enriched": "Nein, er soll es nicht kompliziert machen, sondern sehr einfach erklären.",
+            "enriched-Mp3": "assets/drills/s11_q03_enriched.wav"
+          }
+        },
+        {
+          "id": "Q04",
+          "type": "TYPE_3_CONTRAST",
+          "question": "Soll er es wie für einen Experten oder wie für ein Kind erklären?",
+          "question-Mp3": "assets/drills/s11_q04_question.wav",
+          "answers": {
+            "reflex": "Wie für ein Kind.",
+            "reflex-Mp3": "assets/drills/s11_q04_reflex.wav",
+            "full": "Er soll es erklären, als wäre sie ein Kind.",
+            "full-Mp3": "assets/drills/s11_q04_full.wav",
+            "enriched": "Er soll es so einfach erklären, als würde er mit einem Kind sprechen.",
+            "enriched-Mp3": "assets/drills/s11_q04_enriched.wav"
+          }
+        }
+      ]
+    },
+    {
+      "sentence-id": "S12",
+      "original-sentence": "Zuerst war Sven ein bisschen skeptisch, aber er hat es probiert.",
+      "drills": [
+        {
+          "id": "Q01",
+          "type": "TYPE_4_WH_QUESTION",
+          "question": "Wie war Sven zuerst?",
+          "question-Mp3": "assets/drills/s12_q01_question.wav",
+          "answers": {
+            "reflex": "Skeptisch.",
+            "reflex-Mp3": "assets/drills/s12_q01_reflex.wav",
+            "full": "Zuerst war Sven ein bisschen skeptisch.",
+            "full-Mp3": "assets/drills/s12_q01_full.wav",
+            "enriched": "Anfangs war Sven ein wenig skeptisch gegenüber Alinas Vorschlag.",
+            "enriched-Mp3": "assets/drills/s12_q01_enriched.wav"
+          }
+        },
+        {
+          "id": "Q02",
+          "type": "TYPE_1_CONFIRMATION",
+          "question": "War Sven sofort begeistert?",
+          "question-Mp3": "assets/drills/s12_q02_question.wav",
+          "answers": {
+            "reflex": "Nein.",
+            "reflex-Mp3": "assets/drills/s12_q02_reflex.wav",
+            "full": "Nein, er war zuerst ein bisschen skeptisch.",
+            "full-Mp3": "assets/drills/s12_q02_full.wav",
+            "enriched": "Nein, er war nicht sofort begeistert, sondern zuerst etwas skeptisch.",
+            "enriched-Mp3": "assets/drills/s12_q02_enriched.wav"
+          }
+        },
+        {
+          "id": "Q03",
+          "type": "TYPE_3_CONTRAST",
+          "question": "War Sven zuerst überzeugt oder skeptisch?",
+          "question-Mp3": "assets/drills/s12_q03_question.wav",
+          "answers": {
+            "reflex": "Skeptisch.",
+            "reflex-Mp3": "assets/drills/s12_q03_reflex.wav",
+            "full": "Zuerst war Sven ein bisschen skeptisch.",
+            "full-Mp3": "assets/drills/s12_q03_full.wav",
+            "enriched": "Er war nicht überzeugt, sondern zuerst ein bisschen skeptisch.",
+            "enriched-Mp3": "assets/drills/s12_q03_enriched.wav"
+          }
+        },
+        {
+          "id": "Q04",
+          "type": "TYPE_6_COMPLETION",
+          "question": "Zuerst war Sven skeptisch, aber...",
+          "question-Mp3": "assets/drills/s12_q04_question.wav",
+          "answers": {
+            "reflex": "Er hat es probiert.",
+            "reflex-Mp3": "assets/drills/s12_q04_reflex.wav",
+            "full": "Zuerst war Sven ein bisschen skeptisch, aber er hat es probiert.",
+            "full-Mp3": "assets/drills/s12_q04_full.wav",
+            "enriched": "Zuerst war Sven ein bisschen skeptisch, aber er hat sich überwunden und es probiert.",
+            "enriched-Mp3": "assets/drills/s12_q04_enriched.wav"
+          }
+        }
+      ]
+    },
+    {
+      "sentence-id": "S13",
+      "original-sentence": "Er hat angefangen, ihr die wichtigsten Zusammenhänge der Weimarer Republik zu erklären.",
+      "drills": [
+        {
+          "id": "Q01",
+          "type": "TYPE_4_WH_QUESTION",
+          "question": "Was hat Sven angefangen zu erklären?",
+          "question-Mp3": "assets/drills/s13_q01_question.wav",
+          "answers": {
+            "reflex": "Zusammenhänge.",
+            "reflex-Mp3": "assets/drills/s13_q01_reflex.wav",
+            "full": "Er hat angefangen, ihr die wichtigsten Zusammenhänge zu erklären.",
+            "full-Mp3": "assets/drills/s13_q01_full.wav",
+            "enriched": "Er hat begonnen, ihr die wichtigsten Zusammenhänge der Weimarer Republik zu erklären.",
+            "enriched-Mp3": "assets/drills/s13_q01_enriched.wav"
+          }
+        },
+        {
+          "id": "Q02",
+          "type": "TYPE_4_WH_QUESTION",
+          "question": "Welche Zusammenhänge hat er erklärt?",
+          "question-Mp3": "assets/drills/s13_q02_question.wav",
+          "answers": {
+            "reflex": "Der Weimarer Republik.",
+            "reflex-Mp3": "assets/drills/s13_q02_reflex.wav",
+            "full": "Er hat ihr die wichtigsten Zusammenhänge der Weimarer Republik erklärt.",
+            "full-Mp3": "assets/drills/s13_q02_full.wav",
+            "enriched": "Es ging um die zentralen Zusammenhänge der Weimarer Republik.",
+            "enriched-Mp3": "assets/drills/s13_q02_enriched.wav"
+          }
+        },
+        {
+          "id": "Q03",
+          "type": "TYPE_1_CONFIRMATION",
+          "question": "Hat er unwichtige Details erklärt?",
+          "question-Mp3": "assets/drills/s13_q03_question.wav",
+          "answers": {
+            "reflex": "Nein.",
+            "reflex-Mp3": "assets/drills/s13_q03_reflex.wav",
+            "full": "Nein, er hat die wichtigsten Zusammenhänge erklärt.",
+            "full-Mp3": "assets/drills/s13_q03_full.wav",
+            "enriched": "Nein, er hat sich auf die wichtigsten Zusammenhänge konzentriert.",
+            "enriched-Mp3": "assets/drills/s13_q03_enriched.wav"
+          }
+        },
+        {
+          "id": "Q04",
+          "type": "TYPE_3_CONTRAST",
+          "question": "Hat er die Zusammenhänge der Kaiserzeit oder der Weimarer Republik erklärt?",
+          "question-Mp3": "assets/drills/s13_q04_question.wav",
+          "answers": {
+            "reflex": "Weimarer Republik.",
+            "reflex-Mp3": "assets/drills/s13_q04_reflex.wav",
+            "full": "Er hat die wichtigsten Zusammenhänge der Weimarer Republik erklärt.",
+            "full-Mp3": "assets/drills/s13_q04_full.wav",
+            "enriched": "Er hat sich mit der Weimarer Republik beschäftigt, nicht mit der Kaiserzeit.",
+            "enriched-Mp3": "assets/drills/s13_q04_enriched.wav"
+          }
+        }
+      ]
+    },
+    {
+      "sentence-id": "S14",
+      "original-sentence": "Plötzlich hat er gemerkt: Er versteht alles viel besser!",
+      "drills": [
+        {
+          "id": "Q01",
+          "type": "TYPE_4_WH_QUESTION",
+          "question": "Was hat Sven plötzlich gemerkt?",
+          "question-Mp3": "assets/drills/s14_q01_question.wav",
+          "answers": {
+            "reflex": "Er versteht besser.",
+            "reflex-Mp3": "assets/drills/s14_q01_reflex.wav",
+            "full": "Er hat gemerkt, dass er alles viel besser versteht.",
+            "full-Mp3": "assets/drills/s14_q01_full.wav",
+            "enriched": "Plötzlich hat Sven eine positive Erkenntnis gehabt: Er versteht alles viel besser!",
+            "enriched-Mp3": "assets/drills/s14_q01_enriched.wav"
+          }
+        },
+        {
+          "id": "Q02",
+          "type": "TYPE_1_CONFIRMATION",
+          "question": "Versteht Sven jetzt weniger?",
+          "question-Mp3": "assets/drills/s14_q02_question.wav",
+          "answers": {
+            "reflex": "Nein.",
+            "reflex-Mp3": "assets/drills/s14_q02_reflex.wav",
+            "full": "Nein, er versteht alles viel besser.",
+            "full-Mp3": "assets/drills/s14_q02_full.wav",
+            "enriched": "Nein, im Gegenteil, er versteht jetzt alles viel besser als zuvor.",
+            "enriched-Mp3": "assets/drills/s14_q02_enriched.wav"
+          }
+        },
+        {
+          "id": "Q03",
+          "type": "TYPE_3_CONTRAST",
+          "question": "Versteht er jetzt schlechter oder viel besser?",
+          "question-Mp3": "assets/drills/s14_q03_question.wav",
+          "answers": {
+            "reflex": "Viel besser.",
+            "reflex-Mp3": "assets/drills/s14_q03_reflex.wav",
+            "full": "Er versteht alles viel besser.",
+            "full-Mp3": "assets/drills/s14_q03_full.wav",
+            "enriched": "Er versteht nicht schlechter, sondern alles viel besser.",
+            "enriched-Mp3": "assets/drills/s14_q03_enriched.wav"
+          }
+        },
+        {
+          "id": "Q04",
+          "type": "TYPE_6_COMPLETION",
+          "question": "Plötzlich hat er gemerkt: Er versteht alles...",
+          "question-Mp3": "assets/drills/s14_q04_question.wav",
+          "answers": {
+            "reflex": "Viel besser.",
+            "reflex-Mp3": "assets/drills/s14_q04_reflex.wav",
+            "full": "Plötzlich hat er gemerkt: Er versteht alles viel besser!",
+            "full-Mp3": "assets/drills/s14_q04_full.wav",
+            "enriched": "Plötzlich hat er gemerkt: Er versteht alles viel besser, was eine große Erleichterung ist.",
+            "enriched-Mp3": "assets/drills/s14_q04_enriched.wav"
+          }
+        }
+      ]
+    },
+    {
+      "sentence-id": "S15",
+      "original-sentence": "Sven war nicht mehr so nervös und hatte wieder einen Plan.",
+      "drills": [
+        {
+          "id": "Q01",
+          "type": "TYPE_4_WH_QUESTION",
+          "question": "Wie war Sven nicht mehr?",
+          "question-Mp3": "assets/drills/s15_q01_question.wav",
+          "answers": {
+            "reflex": "Nervös.",
+            "reflex-Mp3": "assets/drills/s15_q01_reflex.wav",
+            "full": "Sven war nicht mehr so nervös.",
+            "full-Mp3": "assets/drills/s15_q01_full.wav",
+            "enriched": "Nachdem er das Thema besser verstand, war Sven nicht mehr so nervös.",
+            "enriched-Mp3": "assets/drills/s15_q01_enriched.wav"
+          }
+        },
+        {
+          "id": "Q02",
+          "type": "TYPE_4_WH_QUESTION",
+          "question": "Was hatte Sven wieder?",
+          "question-Mp3": "assets/drills/s15_q02_question.wav",
+          "answers": {
+            "reflex": "Einen Plan.",
+            "reflex-Mp3": "assets/drills/s15_q02_reflex.wav",
+            "full": "Er hatte wieder einen Plan.",
+            "full-Mp3": "assets/drills/s15_q02_full.wav",
+            "enriched": "Er hatte seine Nervosität überwunden und hatte wieder einen klaren Plan.",
+            "enriched-Mp3": "assets/drills/s15_q02_enriched.wav"
+          }
+        },
+        {
+          "id": "Q03",
+          "type": "TYPE_1_CONFIRMATION",
+          "question": "War Sven immer noch sehr nervös?",
+          "question-Mp3": "assets/drills/s15_q03_question.wav",
+          "answers": {
+            "reflex": "Nein.",
+            "reflex-Mp3": "assets/drills/s15_q03_reflex.wav",
+            "full": "Nein, er war nicht mehr so nervös.",
+            "full-Mp3": "assets/drills/s15_q03_full.wav",
+            "enriched": "Nein, seine Nervosität war deutlich geringer geworden.",
+            "enriched-Mp3": "assets/drills/s15_q03_enriched.wav"
+          }
+        },
+        {
+          "id": "Q04",
+          "type": "TYPE_3_CONTRAST",
+          "question": "War Sven nervös oder hatte er einen Plan?",
+          "question-Mp3": "assets/drills/s15_q04_question.wav",
+          "answers": {
+            "reflex": "Einen Plan.",
+            "reflex-Mp3": "assets/drills/s15_q04_reflex.wav",
+            "full": "Er hatte wieder einen Plan.",
+            "full-Mp3": "assets/drills/s15_q04_full.wav",
+            "enriched": "Er war nicht mehr nervös, sondern hatte wieder einen klaren Plan.",
+            "enriched-Mp3": "assets/drills/s15_q04_enriched.wav"
+          }
+        },
+        {
+          "id": "Q05",
+          "type": "TYPE_6_COMPLETION",
+          "question": "Sven war nicht mehr nervös und...",
+          "question-Mp3": "assets/drills/s15_q05_question.wav",
+          "answers": {
+            "reflex": "Hatte einen Plan.",
+            "reflex-Mp3": "assets/drills/s15_q05_reflex.wav",
+            "full": "Sven war nicht mehr so nervös und hatte wieder einen Plan.",
+            "full-Mp3": "assets/drills/s15_q05_full.wav",
+            "enriched": "Sven war nicht mehr so nervös und hatte dank der Erklärung wieder einen klaren Plan.",
+            "enriched-Mp3": "assets/drills/s15_q05_enriched.wav"
+          }
+        }
+      ]
+    },
+    {
+      "sentence-id": "S16",
+      "original-sentence": "Manchmal ist die beste Methode für eine Prüfung, das Wissen mit anderen zu teilen.",
+      "drills": [
+        {
+          "id": "Q01",
+          "type": "TYPE_4_WH_QUESTION",
+          "question": "Was ist manchmal die beste Methode für eine Prüfung?",
+          "question-Mp3": "assets/drills/s16_q01_question.wav",
+          "answers": {
+            "reflex": "Wissen teilen.",
+            "reflex-Mp3": "assets/drills/s16_q01_reflex.wav",
+            "full": "Die beste Methode ist, das Wissen mit anderen zu teilen.",
+            "full-Mp3": "assets/drills/s16_q01_full.wav",
+            "enriched": "Manchmal ist die effektivste Methode für eine Prüfung, sein Wissen mit anderen zu teilen.",
+            "enriched-Mp3": "assets/drills/s16_q01_enriched.wav"
+          }
+        },
+        {
+          "id": "Q02",
+          "type": "TYPE_1_CONFIRMATION",
+          "question": "Ist es schlecht, Wissen mit anderen zu teilen?",
+          "question-Mp3": "assets/drills/s16_q02_question.wav",
+          "answers": {
+            "reflex": "Nein.",
+            "reflex-Mp3": "assets/drills/s16_q02_reflex.wav",
+            "full": "Nein, das Teilen von Wissen kann die beste Methode sein.",
+            "full-Mp3": "assets/drills/s16_q02_full.wav",
+            "enriched": "Nein, das Teilen von Wissen ist oft eine sehr gute Methode, um zu lernen.",
+            "enriched-Mp3": "assets/drills/s16_q02_enriched.wav"
+          }
+        },
+        {
+          "id": "Q03",
+          "type": "TYPE_3_CONTRAST",
+          "question": "Ist es besser, das Wissen für sich zu behalten oder mit anderen zu teilen?",
+          "question-Mp3": "assets/drills/s16_q03_question.wav",
+          "answers": {
+            "reflex": "Mit anderen zu teilen.",
+            "reflex-Mp3": "assets/drills/s16_q03_reflex.wav",
+            "full": "Es ist oft besser, das Wissen mit anderen zu teilen.",
+            "full-Mp3": "assets/drills/s16_q03_full.wav",
+            "enriched": "Es ist oft vorteilhafter, das Wissen mit anderen zu teilen, anstatt es für sich zu behalten.",
+            "enriched-Mp3": "assets/drills/s16_q03_enriched.wav"
+          }
+        },
+        {
+          "id": "Q04",
+          "type": "TYPE_6_COMPLETION",
+          "question": "Manchmal ist die beste Methode für eine Prüfung, das Wissen...",
+          "question-Mp3": "assets/drills/s16_q04_question.wav",
+          "answers": {
+            "reflex": "Mit anderen zu teilen.",
+            "reflex-Mp3": "assets/drills/s16_q04_reflex.wav",
+            "full": "Manchmal ist die beste Methode für eine Prüfung, das Wissen mit anderen zu teilen.",
+            "full-Mp3": "assets/drills/s16_q04_full.wav",
+            "enriched": "Manchmal ist die beste Methode für eine Prüfung, das Wissen mit anderen zu teilen, um es besser zu verstehen.",
+            "enriched-Mp3": "assets/drills/s16_q04_enriched.wav"
+          }
+        }
+      ]
+    }
+  ]
+}
