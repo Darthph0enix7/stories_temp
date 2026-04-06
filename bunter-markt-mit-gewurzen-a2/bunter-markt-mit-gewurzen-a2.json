@@ -1,0 +1,2078 @@
+{
+    "level": "A2",
+    "title": "Bunter Markt mit Gewürzen",
+    "story": "Ich bin heute durch den Markt gelaufen. Da habe ich einen Mann mit bunten Gewürzen gesehen. Er hatte rote, gelbe und grüne Sachen. Ich bin zu ihm gegangen und habe ihn gefragt. Er hat gelächelt und gesagt: „Jedes Gewürz hat eine Geschichte.“ Das war sehr interessant. Wir haben zusammen einen Tee getrunken. Er hat mir viel über die Gewürze erzählt. Zum Beispiel: Kurkuma kommt aus Indien. Und Pfeffer wächst in tropischen Ländern. Ich konnte viel Neues lernen heute. Plötzlich hat er mich gefragt: „Kennen Sie unser Würzfest?“ Ich habe den Kopf geschüttelt. Er hat gelacht und gesagt: „In meinem Dorf feiern wir jedes Jahr ein Fest. Alle bringen selbstgemachte Speisen mit. Es gibt Musik und Tanz.“ Das klingt wirklich toll. Am Abend war ich zu Hause. Ich habe alles in mein Tagebuch geschrieben. Die Geräusche vom Markt waren noch in meinen Ohren. Die Gerüche von Kurkuma und Pfeffer waren noch in meiner Nase. Ich bin so froh, dass ich diesen Mann getroffen habe.",
+    "md-text": "Ich bin heute durch den Markt gelaufen. Da habe ich einen Mann mit bunten Gewürzen gesehen. Er hatte rote, gelbe und grüne Sachen. Ich bin zu ihm gegangen und habe ihn gefragt. Er hat gelächelt und gesagt: „Jedes Gewürz hat eine Geschichte.“ Das war sehr **interessant**. Wir haben zusammen einen Tee getrunken. Er hat mir viel über die **Gewürze** erzählt. Zum Beispiel: **Kurkuma** kommt aus Indien. Und **Pfeffer** wächst in **tropischen** Ländern. Ich konnte viel Neues lernen heute. Plötzlich hat er mich gefragt: „Kennen Sie unser **Würzfest**?“ Ich habe den Kopf geschüttelt. Er hat gelacht und gesagt: „In meinem Dorf feiern wir jedes Jahr ein Fest. Alle bringen **selbstgemachte** Speisen mit. Es gibt Musik und Tanz.“ Das klingt wirklich toll. Am Abend war ich zu Hause. Ich habe alles in mein **Tagebuch** geschrieben. Die **Geräusche** vom Markt waren noch in meinen Ohren. Die **Gerüche** von Kurkuma und Pfeffer waren noch in meiner Nase. Ich bin so froh, dass ich diesen Mann getroffen habe.",
+    "sentences": [
+        {
+            "id": 1,
+            "text": "Ich bin heute durch den Markt gelaufen.",
+            "sentence-start": 3.12,
+            "sentence-end": 6.24
+        },
+        {
+            "id": 2,
+            "text": "Da habe ich einen Mann mit bunten Gewürzen gesehen.",
+            "sentence-start": 6.24,
+            "sentence-end": 10.32
+        },
+        {
+            "id": 3,
+            "text": "Er hatte rote, gelbe und grüne Sachen.",
+            "sentence-start": 10.32,
+            "sentence-end": 14.64
+        },
+        {
+            "id": 4,
+            "text": "Ich bin zu ihm gegangen und habe ihn gefragt.",
+            "sentence-start": 14.64,
+            "sentence-end": 18.168
+        },
+        {
+            "id": 5,
+            "text": "Er hat gelächelt und gesagt: „Jedes Gewürz hat eine Geschichte“.",
+            "sentence-start": 18.168,
+            "sentence-end": 23.376
+        },
+        {
+            "id": 6,
+            "text": "Das war sehr interessant.",
+            "sentence-start": 23.376,
+            "sentence-end": 25.944
+        },
+        {
+            "id": 7,
+            "text": "Wir haben zusammen einen Tee getrunken.",
+            "sentence-start": 25.944,
+            "sentence-end": 28.896
+        },
+        {
+            "id": 8,
+            "text": "Er hat mir viel über die Gewürze erzählt.",
+            "sentence-start": 28.896,
+            "sentence-end": 32.664
+        },
+        {
+            "id": 9,
+            "text": "Zum Beispiel: Kurkuma kommt aus Indien.",
+            "sentence-start": 32.664,
+            "sentence-end": 36.984
+        },
+        {
+            "id": 10,
+            "text": "Und Pfeffer wächst in tropischen Ländern.",
+            "sentence-start": 36.984,
+            "sentence-end": 40.416
+        },
+        {
+            "id": 11,
+            "text": "Ich konnte viel Neues lernen heute.",
+            "sentence-start": 40.416,
+            "sentence-end": 43.608
+        },
+        {
+            "id": 12,
+            "text": "Plötzlich hat er mich gefragt: „Kennen Sie unser Würzfest?“",
+            "sentence-start": 43.608,
+            "sentence-end": 48.648
+        },
+        {
+            "id": 13,
+            "text": "Ich habe den Kopf geschüttelt.",
+            "sentence-start": 48.648,
+            "sentence-end": 51.528
+        },
+        {
+            "id": 14,
+            "text": "Er hat gelacht und gesagt: „In meinem Dorf feiern wir jedes Jahr ein Fest.",
+            "sentence-start": 51.528,
+            "sentence-end": 57.216
+        },
+        {
+            "id": 15,
+            "text": "Alle bringen selbstgemachte Speisen mit.",
+            "sentence-start": 57.216,
+            "sentence-end": 60.504
+        },
+        {
+            "id": 16,
+            "text": "Es gibt Musik und Tanz.",
+            "sentence-start": 60.504,
+            "sentence-end": 63.216
+        },
+        {
+            "id": 17,
+            "text": "Das klingt wirklich toll.",
+            "sentence-start": 63.216,
+            "sentence-end": 65.616
+        },
+        {
+            "id": 18,
+            "text": "Am Abend war ich zu Hause.",
+            "sentence-start": 65.616,
+            "sentence-end": 68.976
+        },
+        {
+            "id": 19,
+            "text": "Ich habe alles in mein Tagebuch geschrieben.",
+            "sentence-start": 68.976,
+            "sentence-end": 72.648
+        },
+        {
+            "id": 20,
+            "text": "Die Geräusche vom Markt waren noch in meinen Ohren.",
+            "sentence-start": 72.648,
+            "sentence-end": 76.56
+        },
+        {
+            "id": 21,
+            "text": "Die Gerüche von Kurkuma und Pfeffer waren noch in meiner Nase.",
+            "sentence-start": 76.56,
+            "sentence-end": 81.6
+        },
+        {
+            "id": 22,
+            "text": "Ich bin so froh, dass ich diesen Mann getroffen habe.",
+            "sentence-start": 81.6,
+            "sentence-end": 85.032
+        }
+    ],
+    "highlight-words": [
+        "Gewürz",
+        "Kurkuma",
+        "Pfeffer",
+        "Würzfest",
+        "Selbstgemacht",
+        "tropisch",
+        "Tagebuch",
+        "Geräusch",
+        "Geruch",
+        "interessant"
+    ],
+    "lexical-data": [
+        {
+            "word-key": "Gewürz",
+            "type": "noun",
+            "morphology": "das Gewürz (die Gewürze)",
+            "mini-definition": "Etwas zum Essenmachen. Gewürze kommen von Pflanzen. Ohne Gewürze schmeckt Essen langweilig.",
+            "explanation": "Stell dir vor, du kochst Suppe. Du gibst Salz und Paprika dazu. Das macht die Suppe lecker. Gewürze geben dem Essen Geschmack und Geruch. Man findet sie im Supermarkt im Gewürzregal. Typische Gewürze sind Pfeffer, Salz, Oregano und Kurkuma.",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Dieses Gewürz macht die Suppe sehr lecker."
+                },
+                {
+                    "id": 2,
+                    "text": "Im Schrank stehen viele verschiedene Gewürze."
+                },
+                {
+                    "id": 3,
+                    "text": "Meine Mutter kauft immer frische Gewürze auf dem Markt."
+                }
+            ],
+            "question": "Welche Gewürze magst du am liebsten beim Kochen?",
+            "lexical-start": 0.0,
+            "lexical-end": 66.0
+        },
+        {
+            "word-key": "Kurkuma",
+            "type": "noun",
+            "morphology": "der Kurkuma (die Kurkuma)",
+            "mini-definition": "Ein gelbes Gewürz aus Asien. Es kommt von einer Pflanze. Man tut es oft in Curry und Reis.",
+            "explanation": "Kurkuma ist ein wichtiges Gewürz in der indischen Küche. Du erkennst es sofort an der leuchtend gelben Farbe. Es schmeckt leicht bitter und ein bisschen warm. Viele Menschen essen Kurkuma auch wegen seiner guten Eigenschaften für die Gesundheit. Du findest es im Supermarkt meistens neben den anderen Gewürzen.",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Currypulver enthält immer ein bisschen Kurkuma."
+                },
+                {
+                    "id": 2,
+                    "text": "Der Reis sieht gelb aus — da ist Kurkuma drin!"
+                },
+                {
+                    "id": 3,
+                    "text": "Kurkuma ist sehr gesund und deshalb bei vielen Menschen beliebt."
+                }
+            ],
+            "question": "Hast du schon mal etwas mit Kurkuma gekocht?",
+            "lexical-start": 66.0,
+            "lexical-end": 132.72
+        },
+        {
+            "word-key": "Pfeffer",
+            "type": "noun",
+            "morphology": "der Pfeffer (die Pfeffer)",
+            "mini-definition": "Schwarze oder weiße Körner zum Würzen. Man mahlt sie über das Essen. Ohne Pfeffer schmeckt vieles fade.",
+            "explanation": "Pfeffer ist eines der bekanntesten Gewürze auf der ganzen Welt. Du kennst sicher die kleine Pfeffermühle auf dem Tisch. Du drehst sie und kleine schwarze Körner fallen auf dein Essen. Pfeffer gibt es in verschiedenen Farben: schwarz, weiß und grün. Jede Art schmeckt ein bisschen anders.",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Ich mahle frischen Pfeffer auf mein Steak."
+                },
+                {
+                    "id": 2,
+                    "text": "Pfeffer und Salz sind die wichtigsten Gewürze in der Küche."
+                },
+                {
+                    "id": 3,
+                    "text": "Möchtest du Pfeffer auf die Suppe?"
+                }
+            ],
+            "question": "Benutzt du lieber schwarzen oder weißen Pfeffer?",
+            "lexical-start": 132.72,
+            "lexical-end": 196.776
+        },
+        {
+            "word-key": "Würzfest",
+            "type": "noun",
+            "morphology": "das Würzfest (die Würzfeste)",
+            "mini-definition": "Ein Fest nur für Gewürze. Menschen kommen zusammen und kosten verschiedene Gewürze. Es riecht dort toll.",
+            "explanation": "Das Würzfest ist ein großes Fest für alle, die Gewürze lieben. Stell dir viele Stände vor mit bunten Gewürzen aus aller Welt. Du kannst verschiedene Gewürzmischungen kosten und neue spannende Düfte entdecken. Auf dem Fest gibt es auch Live-Musik und leckeres Essen. Es ist ein Fest für die Nase und den Geschmack!",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Auf dem Würzfest gibt es viele verschiedene Gewürze zu kaufen."
+                },
+                {
+                    "id": 2,
+                    "text": "Das Fest findet jeden Sommer in der Stadtmitte statt."
+                },
+                {
+                    "id": 3,
+                    "text": "Ich habe dort eine neue leckere Gewürzmischung gefunden!"
+                }
+            ],
+            "question": "Würdest du gerne ein Würzfest besuchen?",
+            "lexical-start": 196.776,
+            "lexical-end": 265.944
+        },
+        {
+            "word-key": "Selbstgemacht",
+            "type": "adjective",
+            "morphology": "selbstgemacht (Gegenteil: gekauft, fertig)",
+            "mini-definition": "Du machst etwas allein. Du kochst oder bastelst selbst. Es ist nicht aus dem Laden.",
+            "explanation": "Wenn du etwas selbstgemacht machst, hast du es mit deinen eigenen Händen gemacht. Das kann Kuchen sein, oder Marmelade, oder eine Soße. Selbstgemacht schmeckt oft besser, weil du frische Zutaten nimmst. Außerdem weißt du genau, was drin ist. Ein selbstgemachtes Geschenk ist etwas sehr Besonderes für Freunde und Familie.",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Meine Oma macht die beste selbstgemachte Marmelade."
+                },
+                {
+                    "id": 2,
+                    "text": "Dieses Brot ist selbstgemacht — es schmeckt herrlich!"
+                },
+                {
+                    "id": 3,
+                    "text": "Ich habe selbstgemachte Schokolade zum Geburtstag bekommen."
+                }
+            ],
+            "question": "Was hast du zuletzt selbst gemacht?",
+            "lexical-start": 265.944,
+            "lexical-end": 336.984
+        },
+        {
+            "word-key": "tropisch",
+            "type": "adjective",
+            "morphology": "tropisch (Gegenteil: kalt, arktisch)",
+            "mini-definition": "Sehr heiß und feucht. Es regnet oft. Die Pflanzen wachsen schnell. Stell dir den Dschungel vor.",
+            "explanation": "Tropisch bedeutet, es kommt aus heißen Ländern nahe dem Äquator. Dort ist es das ganze Jahr über warm und feucht. Tropische Früchte wie Bananen, Mangos und Ananas wachsen dort. Die Wälder sind sehr grün und dicht. Viele bunte Vögel und Tiere leben in tropischen Regionen. Das Wetter ist immer wie im Sommer.",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Bananen wachsen in tropischen Ländern."
+                },
+                {
+                    "id": 2,
+                    "text": "Der Urlaub auf einer tropischen Insel klingt so schön!"
+                },
+                {
+                    "id": 3,
+                    "text": "In tropischen Regionen regnet es jeden Tag kurz und stark."
+                }
+            ],
+            "question": "Warst du schon mal in einem tropischen Land?",
+            "lexical-start": 336.984,
+            "lexical-end": 410.04
+        },
+        {
+            "word-key": "Tagebuch",
+            "type": "noun",
+            "morphology": "das Tagebuch (die Tagebücher)",
+            "mini-definition": "Ein Heft für deine Gedanken. Du schreibst jeden Tag hinein. Es ist nur für dich allein.",
+            "explanation": "Ein Tagebuch ist wie ein Freund aus Papier. Du schreibst hinein, was du an diesem Tag erlebt hast. Du schreibst auch, wie du dich fühlst. Am Ende hast du ein ganzes Buch voller Erinnerungen. Wenn du später darin liest, erinnerst du dich an schöne Zeiten. Viele berühmte Menschen haben Tagebücher geschrieben.",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Ich schreibe jeden Abend ein paar Seiten in mein Tagebuch."
+                },
+                {
+                    "id": 2,
+                    "text": "Das Tagebuch meiner Oma ist sehr interessant zu lesen."
+                },
+                {
+                    "id": 3,
+                    "text": "Hast du ein Tagebuch, wo du deine Geheimnisse aufschreibst?"
+                }
+            ],
+            "question": "Hast du schon mal ein Tagebuch geschrieben?",
+            "lexical-start": 410.04,
+            "lexical-end": 475.368
+        },
+        {
+            "word-key": "Geräusch",
+            "type": "noun",
+            "morphology": "das Geräusch (die Geräusche)",
+            "mini-definition": "Ein Laut in deinen Ohren. Du hörst ihn mit den Ohren. Es kann leise oder laut sein.",
+            "explanation": "Geräusche sind überall um uns herum. Der Kühlschrank in der Küche brummt leise. Draußen singen die Vögel. Es regnet auf das Dach. Manchmal sind Geräusche schön, wie Musik. Und manchmal sind Geräusche nicht schön, wie lauter Lärm. Deine Ohren hören die ganze Zeit verschiedene Geräusche, auch wenn du schläfst!",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Das Geräusch des Regens auf dem Dach ist sehr entspannend."
+                },
+                {
+                    "id": 2,
+                    "text": "Ich höre ein komisches Geräusch aus dem Keller."
+                },
+                {
+                    "id": 3,
+                    "text": "Was war das für ein Geräusch gerade?"
+                }
+            ],
+            "question": "Welches Geräusch hörst du am liebsten?",
+            "lexical-start": 475.368,
+            "lexical-end": 543.072
+        },
+        {
+            "word-key": "Geruch",
+            "type": "noun",
+            "morphology": "der Geruch (die Gerüche)",
+            "mini-definition": "Was du mit der Nase riechst. Blumengeruch ist schön. Müll riecht nicht gut.",
+            "explanation": "Gerüche sind Düfte, die du mit deiner Nase wahrnimmst. Deine Nase kann viele verschiedene Gerüche erkennen. Blumengeruch ist süß und schön. Der Geruch von frischem Kuchen ist lecker. Aber der Geruch von Müll ist nicht gut. Gerüche können dich an bestimmte Orte oder Menschen erinnern. Deshalb ist der Geruchssinn sehr wichtig.",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Der Geruch von frischem Kaffee am Morgen ist wunderbar."
+                },
+                {
+                    "id": 2,
+                    "text": "Was ist das für ein komischer Geruch hier in der Küche?"
+                },
+                {
+                    "id": 3,
+                    "text": "Der Geruch von Lavendel ist sehr beruhigend."
+                }
+            ],
+            "question": "Welchen Geruch magst du am liebsten?",
+            "lexical-start": 543.072,
+            "lexical-end": 610.824
+        },
+        {
+            "word-key": "interessant",
+            "type": "adjective",
+            "morphology": "interessant (Gegenteil: langweilig, uninteressant)",
+            "mini-definition": "Etwas zieht deine Aufmerksamkeit an. Du willst mehr wissen. Es ist spannend für dich.",
+            "explanation": "Etwas Interessantes macht dich neugierig. Du möchtest mehr darüber erfahren. Ein interessantes Buch fesselt dich, und du willst es nicht aus der Hand legen. Eine interessante Person erzählt spannende Geschichten. Wenn du etwas Interessantes siehst oder hörst, fragst du gerne nach mehr Details. Interessante Themen machen Gespräche lebendig.",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Das Buch über Tiere ist sehr interessant."
+                },
+                {
+                    "id": 2,
+                    "text": "Die Geschichte des alten Ägypten finde ich interessant."
+                },
+                {
+                    "id": 3,
+                    "text": "Er erzählt immer interessante Geschichten von seinen Reisen."
+                }
+            ],
+            "question": "Was findest du zur Zeit am interessantesten?",
+            "lexical-start": 610.824,
+            "lexical-end": 681.216
+        }
+    ],
+    "interaction-drills": [
+        {
+            "sentence-id": "S01",
+            "original-sentence": "Ich bin heute durch den Markt gelaufen.",
+            "drills": [
+                {
+                    "global_index": 1,
+                    "id": "Q01",
+                    "question": "Bin ich durch den Markt gelaufen?",
+                    "teacher-answer": "Ja, genau! Du bist durch den Markt gelaufen.",
+                    "question-start": 0.0,
+                    "question-end": 3.552,
+                    "answer-start": 3.552,
+                    "answer-end": 9.168
+                },
+                {
+                    "global_index": 2,
+                    "id": "Q02",
+                    "question": "Bist du durch den Park gelaufen?",
+                    "teacher-answer": "Nein, nein! Nicht durch den Park. Durch den Markt!",
+                    "question-start": 9.168,
+                    "question-end": 12.888,
+                    "answer-start": 12.888,
+                    "answer-end": 19.56
+                },
+                {
+                    "global_index": 3,
+                    "id": "Q03",
+                    "question": "Wer ist durch den Markt gelaufen?",
+                    "teacher-answer": "Du! Du bist durch den Markt gelaufen.",
+                    "question-start": 19.56,
+                    "question-end": 23.352,
+                    "answer-start": 23.352,
+                    "answer-end": 27.456
+                },
+                {
+                    "global_index": 4,
+                    "id": "Q04",
+                    "question": "Wann bin ich durch den Markt gelaufen?",
+                    "teacher-answer": "Heute! Du bist heute durch den Markt gelaufen.",
+                    "question-start": 27.456,
+                    "question-end": 31.248,
+                    "answer-start": 31.248,
+                    "answer-end": 35.736
+                },
+                {
+                    "global_index": 5,
+                    "id": "Q05",
+                    "question": "Bin ich gestern durch den Markt gelaufen?",
+                    "teacher-answer": "Nein! Heute. Heute bist du durch den Markt gelaufen.",
+                    "question-start": 35.736,
+                    "question-end": 39.936,
+                    "answer-start": 39.936,
+                    "answer-end": 46.224
+                },
+                {
+                    "global_index": 6,
+                    "id": "Q06",
+                    "question": "Bin ich durch den Markt gefahren?",
+                    "teacher-answer": "Nein! Nicht gefahren. Gelaufen! Du bist gelaufen.",
+                    "question-start": 46.224,
+                    "question-end": 50.112,
+                    "answer-start": 50.112,
+                    "answer-end": 58.08
+                },
+                {
+                    "global_index": 7,
+                    "id": "Q07",
+                    "question": "Bist du heute durch den Markt gelaufen?",
+                    "teacher-answer": "Ja! Genau. Ich bin heute durch den Markt gelaufen.",
+                    "question-start": 58.08,
+                    "question-end": 62.112,
+                    "answer-start": 62.112,
+                    "answer-end": 68.4
+                }
+            ]
+        },
+        {
+            "sentence-id": "S02",
+            "original-sentence": "Da habe ich einen Mann mit bunten Gewürzen gesehen.",
+            "drills": [
+                {
+                    "global_index": 8,
+                    "id": "Q01",
+                    "question": "Hast du einen Mann gesehen?",
+                    "teacher-answer": "Ja! Ich habe einen Mann gesehen.",
+                    "question-start": 68.4,
+                    "question-end": 72.672,
+                    "answer-start": 72.672,
+                    "answer-end": 76.92
+                },
+                {
+                    "global_index": 9,
+                    "id": "Q02",
+                    "question": "Hast du eine Frau gesehen?",
+                    "teacher-answer": "Nein! Einen Mann. Einen Mann habe ich gesehen.",
+                    "question-start": 76.92,
+                    "question-end": 80.4,
+                    "answer-start": 80.4,
+                    "answer-end": 86.832
+                },
+                {
+                    "global_index": 10,
+                    "id": "Q03",
+                    "question": "Was hast du gesehen?",
+                    "teacher-answer": "Einen Mann! Mit bunten Gewürzen!",
+                    "question-start": 86.832,
+                    "question-end": 90.312,
+                    "answer-start": 90.312,
+                    "answer-end": 94.08
+                },
+                {
+                    "global_index": 11,
+                    "id": "Q04",
+                    "question": "Hat sie einen Mann gesehen?",
+                    "teacher-answer": "Nein! Ich! Ich habe einen Mann gesehen.",
+                    "question-start": 94.08,
+                    "question-end": 97.488,
+                    "answer-start": 97.488,
+                    "answer-end": 102.648
+                },
+                {
+                    "global_index": 12,
+                    "id": "Q05",
+                    "question": "Einen Mann mit bunten Gewürzen?",
+                    "teacher-answer": "Ja! Ganz genau. Einen Mann mit bunten Gewürzen.",
+                    "question-start": 102.648,
+                    "question-end": 107.088,
+                    "answer-start": 107.088,
+                    "answer-end": 113.448
+                },
+                {
+                    "global_index": 13,
+                    "id": "Q06",
+                    "question": "Einen Mann mit schwarzen Gewürzen?",
+                    "teacher-answer": "Nein! Mit bunten! Bunten Gewürzen!",
+                    "question-start": 113.448,
+                    "question-end": 117.408,
+                    "answer-start": 117.408,
+                    "answer-end": 123.216
+                },
+                {
+                    "global_index": 14,
+                    "id": "Q07",
+                    "question": "Wo habe ich ihn gesehen?",
+                    "teacher-answer": "Da! Du hast ihn da gesehen. Auf dem Markt!",
+                    "question-start": 123.216,
+                    "question-end": 126.528,
+                    "answer-start": 126.528,
+                    "answer-end": 132.72
+                },
+                {
+                    "global_index": 15,
+                    "id": "Q08",
+                    "question": "Einen Mann mit bunten Gewürzen? Wirklich?",
+                    "teacher-answer": "Ja! Ja! Ich habe einen Mann mit bunten Gewürzen gesehen. Wahnsinn!",
+                    "question-start": 132.72,
+                    "question-end": 137.568,
+                    "answer-start": 137.568,
+                    "answer-end": 145.536
+                }
+            ]
+        },
+        {
+            "sentence-id": "S03",
+            "original-sentence": "Er hatte rote, gelbe und grüne Sachen.",
+            "drills": [
+                {
+                    "global_index": 16,
+                    "id": "Q01",
+                    "question": "Was hatte er?",
+                    "teacher-answer": "Sachen! Er hatte Sachen.",
+                    "question-start": 145.536,
+                    "question-end": 148.368,
+                    "answer-start": 148.368,
+                    "answer-end": 151.584
+                },
+                {
+                    "global_index": 17,
+                    "id": "Q02",
+                    "question": "Wer hatte Sachen?",
+                    "teacher-answer": "Er! Der Mann hatte Sachen.",
+                    "question-start": 151.584,
+                    "question-end": 154.512,
+                    "answer-start": 154.512,
+                    "answer-end": 158.616
+                },
+                {
+                    "global_index": 18,
+                    "id": "Q03",
+                    "question": "Had er schwarze Sachen?",
+                    "teacher-answer": "Nein! Rote, gelbe und grüne!",
+                    "question-start": 158.616,
+                    "question-end": 162.264,
+                    "answer-start": 162.264,
+                    "answer-end": 166.752
+                },
+                {
+                    "global_index": 19,
+                    "id": "Q04",
+                    "question": "Hatte er rote Sachen?",
+                    "teacher-answer": "Ja! Er hatte rote, gelbe und grüne Sachen.",
+                    "question-start": 166.752,
+                    "question-end": 170.304,
+                    "answer-start": 170.304,
+                    "answer-end": 175.2
+                },
+                {
+                    "global_index": 20,
+                    "id": "Q05",
+                    "question": "Und gelbe?",
+                    "teacher-answer": "Ja! Auch gelbe. Rote und gelbe und grüne!",
+                    "question-start": 175.2,
+                    "question-end": 178.032,
+                    "answer-start": 178.032,
+                    "answer-end": 185.424
+                },
+                {
+                    "global_index": 21,
+                    "id": "Q06",
+                    "question": "Hatte er auch grüne?",
+                    "teacher-answer": "Ja! Grüne auch. Er hatte alles!",
+                    "question-start": 185.424,
+                    "question-end": 188.904,
+                    "answer-start": 188.904,
+                    "answer-end": 194.544
+                },
+                {
+                    "global_index": 22,
+                    "id": "Q07",
+                    "question": "Welche Farben hatte er?",
+                    "teacher-answer": "Rot, gelb und grün! Ganz bunt!",
+                    "question-start": 194.544,
+                    "question-end": 198.576,
+                    "answer-start": 198.576,
+                    "answer-end": 202.92
+                },
+                {
+                    "global_index": 23,
+                    "id": "Q08",
+                    "question": "Rote, gelbe und grüne Sachen?",
+                    "teacher-answer": "Ja! Genau. Er hatte bunte Sachen.",
+                    "question-start": 202.92,
+                    "question-end": 207.36,
+                    "answer-start": 207.36,
+                    "answer-end": 213.0
+                }
+            ]
+        },
+        {
+            "sentence-id": "S04",
+            "original-sentence": "Ich bin zu ihm gegangen und habe ihn gefragt.",
+            "drills": [
+                {
+                    "global_index": 24,
+                    "id": "Q01",
+                    "question": "Bin ich zu ihm gegangen?",
+                    "teacher-answer": "Ja! Du bist zu ihm gegangen.",
+                    "question-start": 213.0,
+                    "question-end": 216.48,
+                    "answer-start": 216.48,
+                    "answer-end": 220.248
+                },
+                {
+                    "global_index": 25,
+                    "id": "Q02",
+                    "question": "Bist du zu ihr gegangen?",
+                    "teacher-answer": "Nein! Zu ihm! Zu dem Mann!",
+                    "question-start": 220.248,
+                    "question-end": 223.416,
+                    "answer-start": 223.416,
+                    "answer-end": 228.744
+                },
+                {
+                    "global_index": 26,
+                    "id": "Q03",
+                    "question": "Wohin bin ich gegangen?",
+                    "teacher-answer": "Zu ihm! Du bist zu ihm gegangen.",
+                    "question-start": 228.744,
+                    "question-end": 231.912,
+                    "answer-start": 231.912,
+                    "answer-end": 236.16
+                },
+                {
+                    "global_index": 27,
+                    "id": "Q04",
+                    "question": "Bin ich weggegangen?",
+                    "teacher-answer": "Nein! Zu ihm gegangen. Nicht weg!",
+                    "question-start": 236.16,
+                    "question-end": 239.328,
+                    "answer-start": 239.328,
+                    "answer-end": 244.728
+                },
+                {
+                    "global_index": 28,
+                    "id": "Q05",
+                    "question": "Was habe ich gemacht?",
+                    "teacher-answer": "Du hast ihn gefragt!",
+                    "question-start": 244.728,
+                    "question-end": 247.896,
+                    "answer-start": 247.896,
+                    "answer-end": 250.056
+                },
+                {
+                    "global_index": 29,
+                    "id": "Q06",
+                    "question": "Hast du ihn gefragt?",
+                    "teacher-answer": "Ja! Ich bin zu ihm gegangen und habe ihn gefragt.",
+                    "question-start": 250.056,
+                    "question-end": 253.056,
+                    "answer-start": 253.056,
+                    "answer-end": 258.36
+                },
+                {
+                    "global_index": 30,
+                    "id": "Q07",
+                    "question": "Hast du gelächelt?",
+                    "teacher-answer": "Nein! Du hast gefragt. Du wolltest etwas wissen!",
+                    "question-start": 258.36,
+                    "question-end": 261.36,
+                    "answer-start": 261.36,
+                    "answer-end": 267.312
+                },
+                {
+                    "global_index": 31,
+                    "id": "Q08",
+                    "question": "Was hast du gemacht, nachdem du gegangen bist?",
+                    "teacher-answer": "Ich habe ihn gefragt! Erst gegangen, dann gefragt.",
+                    "question-start": 267.312,
+                    "question-end": 271.752,
+                    "answer-start": 271.752,
+                    "answer-end": 277.056
+                }
+            ]
+        },
+        {
+            "sentence-id": "S05",
+            "original-sentence": "Er hat gelächelt und gesagt: „Jedes Gewürz hat eine Geschichte“.",
+            "drills": [
+                {
+                    "global_index": 32,
+                    "id": "Q01",
+                    "question": "Was hat er gemacht?",
+                    "teacher-answer": "Er hat gelächelt!",
+                    "question-start": 277.056,
+                    "question-end": 280.128,
+                    "answer-start": 280.128,
+                    "answer-end": 282.12
+                },
+                {
+                    "global_index": 33,
+                    "id": "Q02",
+                    "question": "Hat er gelächelt?",
+                    "teacher-answer": "Ja! Er hat gelächelt und etwas gesagt.",
+                    "question-start": 282.12,
+                    "question-end": 285.048,
+                    "answer-start": 285.048,
+                    "answer-end": 289.776
+                },
+                {
+                    "global_index": 34,
+                    "id": "Q03",
+                    "question": "Was hat er gesagt?",
+                    "teacher-answer": "Jedes Gewürz hat eine Geschichte.",
+                    "question-start": 289.776,
+                    "question-end": 293.184,
+                    "answer-start": 293.184,
+                    "answer-end": 296.376
+                },
+                {
+                    "global_index": 35,
+                    "id": "Q04",
+                    "question": "Hat er geweint?",
+                    "teacher-answer": "Nein! Gelächelt! Er hat gelächelt.",
+                    "question-start": 296.376,
+                    "question-end": 299.208,
+                    "answer-start": 299.208,
+                    "answer-end": 305.088
+                },
+                {
+                    "global_index": 36,
+                    "id": "Q05",
+                    "question": "Hat er geschwiegen?",
+                    "teacher-answer": "Nein! Er hat gesagt: Jedes Gewürz hat eine Geschichte.",
+                    "question-start": 305.088,
+                    "question-end": 308.088,
+                    "answer-start": 308.088,
+                    "answer-end": 313.776
+                },
+                {
+                    "global_index": 37,
+                    "id": "Q06",
+                    "question": "Was hat jede Gewürz?",
+                    "teacher-answer": "Eine Geschichte! Jedes Gewürz hat eine Geschichte.",
+                    "question-start": 313.776,
+                    "question-end": 317.736,
+                    "answer-start": 317.736,
+                    "answer-end": 322.8
+                },
+                {
+                    "global_index": 38,
+                    "id": "Q07",
+                    "question": "Hat er gelächelt? Hat er etwas gesagt?",
+                    "teacher-answer": "Ja und ja! Er hat gelächelt und gesagt.",
+                    "question-start": 322.8,
+                    "question-end": 327.168,
+                    "answer-start": 327.168,
+                    "answer-end": 333.096
+                },
+                {
+                    "global_index": 39,
+                    "id": "Q08",
+                    "question": "Hat eine Gewürz eine Geschichte?",
+                    "teacher-answer": "Nein! Jedes! Jedes Gewürz hat eine Geschichte!",
+                    "question-start": 333.096,
+                    "question-end": 337.056,
+                    "answer-start": 337.056,
+                    "answer-end": 343.824
+                }
+            ]
+        },
+        {
+            "sentence-id": "S06",
+            "original-sentence": "Das war sehr interessant.",
+            "drills": [
+                {
+                    "global_index": 40,
+                    "id": "Q01",
+                    "question": "Was war interessant?",
+                    "teacher-answer": "Das! Die Geschichte war interessant.",
+                    "question-start": 343.824,
+                    "question-end": 347.064,
+                    "answer-start": 347.064,
+                    "answer-end": 351.0
+                },
+                {
+                    "global_index": 41,
+                    "id": "Q02",
+                    "question": "War es interessant?",
+                    "teacher-answer": "Ja! Sehr interessant!",
+                    "question-start": 351.0,
+                    "question-end": 354.072,
+                    "answer-start": 354.072,
+                    "answer-end": 357.456
+                },
+                {
+                    "global_index": 42,
+                    "id": "Q03",
+                    "question": "War es langweilig?",
+                    "teacher-answer": "Nein! Sehr interessant!",
+                    "question-start": 357.456,
+                    "question-end": 361.248,
+                    "answer-start": 361.248,
+                    "answer-end": 365.112
+                },
+                {
+                    "global_index": 43,
+                    "id": "Q04",
+                    "question": "Wie interessant?",
+                    "teacher-answer": "Sehr interessant! Total spannend!",
+                    "question-start": 365.112,
+                    "question-end": 368.424,
+                    "answer-start": 368.424,
+                    "answer-end": 372.84
+                },
+                {
+                    "global_index": 44,
+                    "id": "Q05",
+                    "question": "War das interessant?",
+                    "teacher-answer": "Ja! Das war sehr interessant.",
+                    "question-start": 372.84,
+                    "question-end": 376.488,
+                    "answer-start": 376.488,
+                    "answer-end": 380.424
+                },
+                {
+                    "global_index": 45,
+                    "id": "Q06",
+                    "question": "War es neu für dich?",
+                    "teacher-answer": "Ja! Es war sehr interessant für mich.",
+                    "question-start": 380.424,
+                    "question-end": 383.976,
+                    "answer-start": 383.976,
+                    "answer-end": 388.56
+                }
+            ]
+        },
+        {
+            "sentence-id": "S07",
+            "original-sentence": "Wir haben zusammen einen Tee getrunken.",
+            "drills": [
+                {
+                    "global_index": 46,
+                    "id": "Q01",
+                    "question": "Was haben wir getrunken?",
+                    "teacher-answer": "Einen Tee! Wir haben Tee getrunken.",
+                    "question-start": 388.56,
+                    "question-end": 391.968,
+                    "answer-start": 391.968,
+                    "answer-end": 395.976
+                },
+                {
+                    "global_index": 47,
+                    "id": "Q02",
+                    "question": "Haben wir zusammen getrunken?",
+                    "teacher-answer": "Ja! Zusammen! Wir haben zusammen getrunken.",
+                    "question-start": 395.976,
+                    "question-end": 399.936,
+                    "answer-start": 399.936,
+                    "answer-end": 405.648
+                },
+                {
+                    "global_index": 48,
+                    "id": "Q03",
+                    "question": "Wer hat Tee getrunken?",
+                    "teacher-answer": "Wir! Wir beide!",
+                    "question-start": 405.648,
+                    "question-end": 409.2,
+                    "answer-start": 409.2,
+                    "answer-end": 412.968
+                },
+                {
+                    "global_index": 49,
+                    "id": "Q04",
+                    "question": "Haben wir Kaffee getrunken?",
+                    "teacher-answer": "Nein! Tee! Wir haben Tee getrunken.",
+                    "question-start": 412.968,
+                    "question-end": 416.52,
+                    "answer-start": 416.52,
+                    "answer-end": 422.16
+                },
+                {
+                    "global_index": 50,
+                    "id": "Q05",
+                    "question": "Haben wir alleine getrunken?",
+                    "teacher-answer": "Nein! Zusammen! Zusammen war es schön!",
+                    "question-start": 422.16,
+                    "question-end": 426.048,
+                    "answer-start": 426.048,
+                    "answer-end": 431.28
+                },
+                {
+                    "global_index": 51,
+                    "id": "Q06",
+                    "question": "Einen Tee zusammen?",
+                    "teacher-answer": "Ja! Ganz genau. Wir haben zusammen einen Tee getrunken.",
+                    "question-start": 431.28,
+                    "question-end": 434.688,
+                    "answer-start": 434.688,
+                    "answer-end": 441.456
+                },
+                {
+                    "global_index": 52,
+                    "id": "Q07",
+                    "question": "Wie war das? Zusammen Tee trinken?",
+                    "teacher-answer": "Schön! Wir haben zusammen einen Tee getrunken. Das war schön.",
+                    "question-start": 441.456,
+                    "question-end": 445.656,
+                    "answer-start": 445.656,
+                    "answer-end": 452.256
+                }
+            ]
+        },
+        {
+            "sentence-id": "S08",
+            "original-sentence": "Er hat mir viel über die Gewürze erzählt.",
+            "drills": [
+                {
+                    "global_index": 53,
+                    "id": "Q01",
+                    "question": "Was hat er mir erzählt?",
+                    "teacher-answer": "Viel! Über die Gewürze!",
+                    "question-start": 452.256,
+                    "question-end": 455.568,
+                    "answer-start": 455.568,
+                    "answer-end": 459.336
+                },
+                {
+                    "global_index": 54,
+                    "id": "Q02",
+                    "question": "Hat er viel erzählt?",
+                    "teacher-answer": "Ja! Viel! Sehr viel sogar!",
+                    "question-start": 459.336,
+                    "question-end": 462.576,
+                    "answer-start": 462.576,
+                    "answer-end": 468.048
+                },
+                {
+                    "global_index": 55,
+                    "id": "Q03",
+                    "question": "Wem hat er erzählt?",
+                    "teacher-answer": "Mir! Er hat mir erzählt.",
+                    "question-start": 468.048,
+                    "question-end": 471.216,
+                    "answer-start": 471.216,
+                    "answer-end": 475.152
+                },
+                {
+                    "global_index": 56,
+                    "id": "Q04",
+                    "question": "Hat er mir über die Farben erzählt?",
+                    "teacher-answer": "Nein! Über die Gewürze!",
+                    "question-start": 475.152,
+                    "question-end": 478.944,
+                    "answer-start": 478.944,
+                    "answer-end": 482.808
+                },
+                {
+                    "global_index": 57,
+                    "id": "Q05",
+                    "question": "Was hat er mir über die Gewürze erzählt?",
+                    "teacher-answer": "Viel! Er hat mir viel erzählt.",
+                    "question-start": 482.808,
+                    "question-end": 486.768,
+                    "answer-start": 486.768,
+                    "answer-end": 490.632
+                },
+                {
+                    "global_index": 58,
+                    "id": "Q06",
+                    "question": "Wer hat dir erzählt?",
+                    "teacher-answer": "Er! Der Mann hat mir erzählt.",
+                    "question-start": 490.632,
+                    "question-end": 493.8,
+                    "answer-start": 493.8,
+                    "answer-end": 497.736
+                },
+                {
+                    "global_index": 59,
+                    "id": "Q07",
+                    "question": "Hat er wenig erzählt?",
+                    "teacher-answer": "Nein! Viel! Er hat mir viel erzählt über die Gewürze.",
+                    "question-start": 497.736,
+                    "question-end": 501.048,
+                    "answer-start": 501.048,
+                    "answer-end": 507.408
+                }
+            ]
+        },
+        {
+            "sentence-id": "S09",
+            "original-sentence": "Zum Beispiel: Kurkuma kommt aus Indien.",
+            "drills": [
+                {
+                    "global_index": 60,
+                    "id": "Q01",
+                    "question": "Was kommt aus Indien?",
+                    "teacher-answer": "Kurkuma! Kurkuma kommt aus Indien.",
+                    "question-start": 507.408,
+                    "question-end": 510.816,
+                    "answer-start": 510.816,
+                    "answer-end": 515.64
+                },
+                {
+                    "global_index": 61,
+                    "id": "Q02",
+                    "question": "Woher kommt Kurkuma?",
+                    "teacher-answer": "Aus Indien! Kurkuma kommt aus Indien.",
+                    "question-start": 515.64,
+                    "question-end": 518.952,
+                    "answer-start": 518.952,
+                    "answer-end": 523.44
+                },
+                {
+                    "global_index": 62,
+                    "id": "Q03",
+                    "question": "Kommt Kurkuma aus China?",
+                    "teacher-answer": "Nein! Aus Indien!",
+                    "question-start": 523.44,
+                    "question-end": 527.328,
+                    "answer-start": 527.328,
+                    "answer-end": 530.616
+                },
+                {
+                    "global_index": 63,
+                    "id": "Q04",
+                    "question": "Ist Kurkuma aus Amerika?",
+                    "teacher-answer": "Nein! Aus Indien! Kurkuma kommt aus Indien.",
+                    "question-start": 530.616,
+                    "question-end": 534.504,
+                    "answer-start": 534.504,
+                    "answer-end": 541.272
+                },
+                {
+                    "global_index": 64,
+                    "id": "Q05",
+                    "question": "Was ist ein Beispiel?",
+                    "teacher-answer": "Kurkuma! Kurkuma kommt aus Indien.",
+                    "question-start": 541.272,
+                    "question-end": 544.752,
+                    "answer-start": 544.752,
+                    "answer-end": 549.888
+                },
+                {
+                    "global_index": 65,
+                    "id": "Q06",
+                    "question": "Kommt Pfeffer aus Indien?",
+                    "teacher-answer": "Nein! Kurkuma! Kurkuma kommt aus Indien.",
+                    "question-start": 549.888,
+                    "question-end": 553.368,
+                    "answer-start": 553.368,
+                    "answer-end": 560.616
+                },
+                {
+                    "global_index": 66,
+                    "id": "Q07",
+                    "question": "Aus welchem Land kommt Kurkuma?",
+                    "teacher-answer": "Aus Indien! Kurkuma kommt aus Indien.",
+                    "question-start": 560.616,
+                    "question-end": 564.888,
+                    "answer-start": 564.888,
+                    "answer-end": 570.192
+                }
+            ]
+        },
+        {
+            "sentence-id": "S10",
+            "original-sentence": "Und Pfeffer wächst in tropischen Ländern.",
+            "drills": [
+                {
+                    "global_index": 67,
+                    "id": "Q01",
+                    "question": "Wo wächst Pfeffer?",
+                    "teacher-answer": "In tropischen Ländern! Pfeffer wächst dort.",
+                    "question-start": 570.192,
+                    "question-end": 573.504,
+                    "answer-start": 573.504,
+                    "answer-end": 577.608
+                },
+                {
+                    "global_index": 68,
+                    "id": "Q02",
+                    "question": "Wächst Pfeffer in Deutschland?",
+                    "teacher-answer": "Nein! In tropischen Ländern!",
+                    "question-start": 577.608,
+                    "question-end": 581.64,
+                    "answer-start": 581.64,
+                    "answer-end": 585.888
+                },
+                {
+                    "global_index": 69,
+                    "id": "Q03",
+                    "question": "Was wächst in tropischen Ländern?",
+                    "teacher-answer": "Pfeffer! Pfeffer wächst in tropischen Ländern.",
+                    "question-start": 585.888,
+                    "question-end": 589.68,
+                    "answer-start": 589.68,
+                    "answer-end": 594.504
+                },
+                {
+                    "global_index": 70,
+                    "id": "Q04",
+                    "question": "Wächst Kurkuma in tropischen Ländern?",
+                    "teacher-answer": "Nein! Pfeffer! Pfeffer wächst dort.",
+                    "question-start": 594.504,
+                    "question-end": 598.944,
+                    "answer-start": 598.944,
+                    "answer-end": 605.064
+                },
+                {
+                    "global_index": 71,
+                    "id": "Q05",
+                    "question": "Wächst der Pfeffer?",
+                    "teacher-answer": "Ja! Pfeffer wächst in tropischen Ländern.",
+                    "question-start": 605.064,
+                    "question-end": 608.136,
+                    "answer-start": 608.136,
+                    "answer-end": 612.624
+                },
+                {
+                    "global_index": 72,
+                    "id": "Q06",
+                    "question": "In welchen Ländern?",
+                    "teacher-answer": "In tropischen Ländern! Pfeffer wächst dort.",
+                    "question-start": 612.624,
+                    "question-end": 616.104,
+                    "answer-start": 616.104,
+                    "answer-end": 620.76
+                }
+            ]
+        },
+        {
+            "sentence-id": "S11",
+            "original-sentence": "Ich konnte viel Neues lernen heute.",
+            "drills": [
+                {
+                    "global_index": 73,
+                    "id": "Q01",
+                    "question": "Konntest du viel lernen?",
+                    "teacher-answer": "Ja! Viel Neues! Ich konnte viel Neues lernen.",
+                    "question-start": 620.76,
+                    "question-end": 624.072,
+                    "answer-start": 624.072,
+                    "answer-end": 631.152
+                },
+                {
+                    "global_index": 74,
+                    "id": "Q02",
+                    "question": "Was konnte ich lernen?",
+                    "teacher-answer": "Viel Neues! Ich konnte viel Neues lernen.",
+                    "question-start": 631.152,
+                    "question-end": 634.8,
+                    "answer-start": 634.8,
+                    "answer-end": 640.008
+                },
+                {
+                    "global_index": 75,
+                    "id": "Q03",
+                    "question": "Konnte ich etwas Altes lernen?",
+                    "teacher-answer": "Nein! Neues! Viele neue Sachen!",
+                    "question-start": 640.008,
+                    "question-end": 643.8,
+                    "answer-start": 643.8,
+                    "answer-end": 649.92
+                },
+                {
+                    "global_index": 76,
+                    "id": "Q04",
+                    "question": "Wer konnte viel lernen?",
+                    "teacher-answer": "Ich! Du! Wir alle!",
+                    "question-start": 649.92,
+                    "question-end": 653.472,
+                    "answer-start": 653.472,
+                    "answer-end": 658.32
+                },
+                {
+                    "global_index": 77,
+                    "id": "Q05",
+                    "question": "Hast du viel Neues gelernt?",
+                    "teacher-answer": "Ja! Ich konnte viel Neues lernen heute.",
+                    "question-start": 658.32,
+                    "question-end": 662.04,
+                    "answer-start": 662.04,
+                    "answer-end": 666.696
+                },
+                {
+                    "global_index": 78,
+                    "id": "Q06",
+                    "question": "Wann habe ich viel gelernt?",
+                    "teacher-answer": "Heute! Heute konnte ich viel Neues lernen.",
+                    "question-start": 666.696,
+                    "question-end": 670.656,
+                    "answer-start": 670.656,
+                    "answer-end": 675.24
+                },
+                {
+                    "global_index": 79,
+                    "id": "Q07",
+                    "question": "Konntest du heute viel Neues lernen?",
+                    "teacher-answer": "Ja! Ich konnte viel Neues lernen heute. Wahnsinn!",
+                    "question-start": 675.24,
+                    "question-end": 679.44,
+                    "answer-start": 679.44,
+                    "answer-end": 685.728
+                }
+            ]
+        },
+        {
+            "sentence-id": "S12",
+            "original-sentence": "Plötzlich hat er mich gefragt: „Kennen Sie unser Würzfest?“",
+            "drills": [
+                {
+                    "global_index": 80,
+                    "id": "Q01",
+                    "question": "Was hat er gefragt?",
+                    "teacher-answer": "Ob ich das Würzfest kenne!",
+                    "question-start": 685.728,
+                    "question-end": 689.136,
+                    "answer-start": 689.136,
+                    "answer-end": 691.368
+                },
+                {
+                    "global_index": 81,
+                    "id": "Q02",
+                    "question": "Hat er mich gefragt?",
+                    "teacher-answer": "Ja! Plötzlich hat er mich gefragt.",
+                    "question-start": 691.368,
+                    "question-end": 694.536,
+                    "answer-start": 694.536,
+                    "answer-end": 698.784
+                },
+                {
+                    "global_index": 82,
+                    "id": "Q03",
+                    "question": "Wann hat er gefragt?",
+                    "teacher-answer": "Plötzlich! Ganz plötzlich!",
+                    "question-start": 698.784,
+                    "question-end": 702.192,
+                    "answer-start": 702.192,
+                    "answer-end": 706.68
+                },
+                {
+                    "global_index": 83,
+                    "id": "Q04",
+                    "question": "Wen hat er gefragt?",
+                    "teacher-answer": "Mich! Er hat mich gefragt.",
+                    "question-start": 706.68,
+                    "question-end": 710.088,
+                    "answer-start": 710.088,
+                    "answer-end": 713.784
+                },
+                {
+                    "global_index": 84,
+                    "id": "Q05",
+                    "question": "Hat er mich gegrüßt?",
+                    "teacher-answer": "Nein! Er hat mich gefragt: Kennen Sie unser Würzfest?",
+                    "question-start": 713.784,
+                    "question-end": 717.024,
+                    "answer-start": 717.024,
+                    "answer-end": 722.472
+                },
+                {
+                    "global_index": 85,
+                    "id": "Q06",
+                    "question": "Was hat er gefragt? Wörtlich?",
+                    "teacher-answer": "Kennen Sie unser Würzfest?",
+                    "question-start": 722.472,
+                    "question-end": 727.704,
+                    "answer-start": 727.704,
+                    "answer-end": 730.344
+                },
+                {
+                    "global_index": 86,
+                    "id": "Q07",
+                    "question": "Plötzlich? Wirklich?",
+                    "teacher-answer": "Ja! Plötzlich hat er mich gefragt: Kennen Sie unser Würzfest?",
+                    "question-start": 730.344,
+                    "question-end": 734.232,
+                    "answer-start": 734.232,
+                    "answer-end": 740.568
+                },
+                {
+                    "global_index": 87,
+                    "id": "Q08",
+                    "question": "Kannte ich das Würzfest?",
+                    "teacher-answer": "Nein! Er hat gefragt. Ich sollte es kennenlernen!",
+                    "question-start": 740.568,
+                    "question-end": 744.048,
+                    "answer-start": 744.048,
+                    "answer-end": 750.24
+                }
+            ]
+        },
+        {
+            "sentence-id": "S13",
+            "original-sentence": "Ich habe den Kopf geschüttelt.",
+            "drills": [
+                {
+                    "global_index": 88,
+                    "id": "Q01",
+                    "question": "Was habe ich gemacht?",
+                    "teacher-answer": "Den Kopf geschüttelt!",
+                    "question-start": 750.24,
+                    "question-end": 753.408,
+                    "answer-start": 753.408,
+                    "answer-end": 755.568
+                },
+                {
+                    "global_index": 89,
+                    "id": "Q02",
+                    "question": "Habe ich genickt?",
+                    "teacher-answer": "Nein! Geschüttelt! Ich habe den Kopf geschüttelt.",
+                    "question-start": 755.568,
+                    "question-end": 758.64,
+                    "answer-start": 758.64,
+                    "answer-end": 764.688
+                },
+                {
+                    "global_index": 90,
+                    "id": "Q03",
+                    "question": "Was habe ich mit dem Kopf gemacht?",
+                    "teacher-answer": "Geschüttelt! Den Kopf geschüttelt.",
+                    "question-start": 764.688,
+                    "question-end": 768.48,
+                    "answer-start": 768.48,
+                    "answer-end": 772.416
+                },
+                {
+                    "global_index": 91,
+                    "id": "Q04",
+                    "question": "Habe ich gelächelt?",
+                    "teacher-answer": "Nein! Ich habe den Kopf geschüttelt.",
+                    "question-start": 772.416,
+                    "question-end": 775.728,
+                    "answer-start": 775.728,
+                    "answer-end": 779.904
+                },
+                {
+                    "global_index": 92,
+                    "id": "Q05",
+                    "question": "Habe ich Ja gesagt?",
+                    "teacher-answer": "Nein! Ich habe den Kopf geschüttelt. Nein!",
+                    "question-start": 779.904,
+                    "question-end": 783.072,
+                    "answer-start": 783.072,
+                    "answer-end": 789.432
+                },
+                {
+                    "global_index": 93,
+                    "id": "Q06",
+                    "question": "Warum habe ich den Kopf geschüttelt?",
+                    "teacher-answer": "Weil ich das Fest nicht kannte!",
+                    "question-start": 789.432,
+                    "question-end": 793.944,
+                    "answer-start": 793.944,
+                    "answer-end": 796.896
+                },
+                {
+                    "global_index": 94,
+                    "id": "Q07",
+                    "question": "Ich habe den Kopf geschüttelt. Was bedeutet das?",
+                    "teacher-answer": "Nein! Ich kannte das Fest nicht.",
+                    "question-start": 796.896,
+                    "question-end": 802.56,
+                    "answer-start": 802.56,
+                    "answer-end": 806.328
+                }
+            ]
+        },
+        {
+            "sentence-id": "S14",
+            "original-sentence": "Er hat gelacht und gesagt: „In meinem Dorf feiern wir jedes Jahr ein Fest.“",
+            "drills": [
+                {
+                    "global_index": 95,
+                    "id": "Q01",
+                    "question": "Was hat er gemacht?",
+                    "teacher-answer": "Er hat gelacht und gesagt.",
+                    "question-start": 806.328,
+                    "question-end": 809.808,
+                    "answer-start": 809.808,
+                    "answer-end": 812.448
+                },
+                {
+                    "global_index": 96,
+                    "id": "Q02",
+                    "question": "Hat er geweint?",
+                    "teacher-answer": "Nein! Er hat gelacht!",
+                    "question-start": 812.448,
+                    "question-end": 815.448,
+                    "answer-start": 815.448,
+                    "answer-end": 818.736
+                },
+                {
+                    "global_index": 97,
+                    "id": "Q03",
+                    "question": "Was hat er gesagt?",
+                    "teacher-answer": "Über sein Dorf! Über das Fest!",
+                    "question-start": 818.736,
+                    "question-end": 821.976,
+                    "answer-start": 821.976,
+                    "answer-end": 825.672
+                },
+                {
+                    "global_index": 98,
+                    "id": "Q04",
+                    "question": "Wo feiert ihr ein Fest?",
+                    "teacher-answer": "In meinem Dorf! In seinem Dorf!",
+                    "question-start": 825.672,
+                    "question-end": 829.464,
+                    "answer-start": 829.464,
+                    "answer-end": 833.712
+                },
+                {
+                    "global_index": 99,
+                    "id": "Q05",
+                    "question": "Feiert ihr jedes Jahr?",
+                    "teacher-answer": "Ja! Jedes Jahr! Ein Fest!",
+                    "question-start": 833.712,
+                    "question-end": 837.36,
+                    "answer-start": 837.36,
+                    "answer-end": 842.592
+                },
+                {
+                    "global_index": 100,
+                    "id": "Q06",
+                    "question": "Was hat er über das Fest gesagt?",
+                    "teacher-answer": "Dass sie jedes Jahr ein Fest feiern!",
+                    "question-start": 842.592,
+                    "question-end": 846.552,
+                    "answer-start": 846.552,
+                    "answer-end": 849.984
+                },
+                {
+                    "global_index": 101,
+                    "id": "Q07",
+                    "question": "Hat er gelacht? Hat er etwas gesagt?",
+                    "teacher-answer": "Ja! Er hat gelacht und gesagt: In meinem Dorf feiern wir jedes Jahr ein Fest.",
+                    "question-start": 849.984,
+                    "question-end": 854.904,
+                    "answer-start": 854.904,
+                    "answer-end": 861.72
+                },
+                {
+                    "global_index": 102,
+                    "id": "Q08",
+                    "question": "Was feiert ihr in seinem Dorf?",
+                    "teacher-answer": "Ein Fest! Jedes Jahr ein Fest!",
+                    "question-start": 861.72,
+                    "question-end": 865.68,
+                    "answer-start": 865.68,
+                    "answer-end": 870.024
+                }
+            ]
+        },
+        {
+            "sentence-id": "S15",
+            "original-sentence": "Alle bringen selbstgemachte Speisen mit.",
+            "drills": [
+                {
+                    "global_index": 103,
+                    "id": "Q01",
+                    "question": "Was bringen alle mit?",
+                    "teacher-answer": "Selbstgemachte Speisen!",
+                    "question-start": 870.024,
+                    "question-end": 873.432,
+                    "answer-start": 873.432,
+                    "answer-end": 876.0
+                },
+                {
+                    "global_index": 104,
+                    "id": "Q02",
+                    "question": "Wer bringt Speisen mit?",
+                    "teacher-answer": "Alle! Alle bringen Speisen mit!",
+                    "question-start": 876.0,
+                    "question-end": 879.312,
+                    "answer-start": 879.312,
+                    "answer-end": 883.728
+                },
+                {
+                    "global_index": 105,
+                    "id": "Q03",
+                    "question": "Bringen alle Essen mit?",
+                    "teacher-answer": "Ja! Selbstgemachte Speisen!",
+                    "question-start": 883.728,
+                    "question-end": 887.04,
+                    "answer-start": 887.04,
+                    "answer-end": 891.048
+                },
+                {
+                    "global_index": 106,
+                    "id": "Q04",
+                    "question": "Bringen sie gekaufte Speisen mit?",
+                    "teacher-answer": "Nein! Selbstgemachte! Alle bringen selbstgemachte Speisen mit.",
+                    "question-start": 891.048,
+                    "question-end": 895.248,
+                    "answer-start": 895.248,
+                    "answer-end": 902.4
+                },
+                {
+                    "global_index": 107,
+                    "id": "Q05",
+                    "question": "Was für Speisen?",
+                    "teacher-answer": "Selbstgemachte! Alle bringen selbstgemachte Speisen mit.",
+                    "question-start": 902.4,
+                    "question-end": 905.712,
+                    "answer-start": 905.712,
+                    "answer-end": 911.016
+                },
+                {
+                    "global_index": 108,
+                    "id": "Q06",
+                    "question": "Was machen alle mit?",
+                    "teacher-answer": "Sie bringen selbstgemachte Speisen mit!",
+                    "question-start": 911.016,
+                    "question-end": 914.184,
+                    "answer-start": 914.184,
+                    "answer-end": 917.472
+                }
+            ]
+        },
+        {
+            "sentence-id": "S16",
+            "original-sentence": "Es gibt Musik und Tanz.",
+            "drills": [
+                {
+                    "global_index": 109,
+                    "id": "Q01",
+                    "question": "Was gibt es?",
+                    "teacher-answer": "Musik und Tanz!",
+                    "question-start": 917.472,
+                    "question-end": 921.192,
+                    "answer-start": 921.192,
+                    "answer-end": 923.832
+                },
+                {
+                    "global_index": 110,
+                    "id": "Q02",
+                    "question": "Gibt es Musik?",
+                    "teacher-answer": "Ja! Musik und Tanz!",
+                    "question-start": 923.832,
+                    "question-end": 927.0,
+                    "answer-start": 927.0,
+                    "answer-end": 931.008
+                },
+                {
+                    "global_index": 111,
+                    "id": "Q03",
+                    "question": "Gibt es auch Tanz?",
+                    "teacher-answer": "Ja! Es gibt Musik und Tanz.",
+                    "question-start": 931.008,
+                    "question-end": 934.176,
+                    "answer-start": 934.176,
+                    "answer-end": 938.28
+                },
+                {
+                    "global_index": 112,
+                    "id": "Q04",
+                    "question": "Gibt es Essen?",
+                    "teacher-answer": "Nein! Musik und Tanz!",
+                    "question-start": 938.28,
+                    "question-end": 941.448,
+                    "answer-start": 941.448,
+                    "answer-end": 945.456
+                },
+                {
+                    "global_index": 113,
+                    "id": "Q05",
+                    "question": "Was gibt es beim Fest?",
+                    "teacher-answer": "Musik und Tanz! Es gibt Musik und Tanz.",
+                    "question-start": 945.456,
+                    "question-end": 948.936,
+                    "answer-start": 948.936,
+                    "answer-end": 953.592
+                },
+                {
+                    "global_index": 114,
+                    "id": "Q06",
+                    "question": "Gibt es nur Musik?",
+                    "teacher-answer": "Nein! Musik und Tanz! Beides!",
+                    "question-start": 953.592,
+                    "question-end": 957.0,
+                    "answer-start": 957.0,
+                    "answer-end": 963.12
+                },
+                {
+                    "global_index": 115,
+                    "id": "Q07",
+                    "question": "Musik und Tanz? Das klingt gut!",
+                    "teacher-answer": "Ja! Es gibt Musik und Tanz. Super!",
+                    "question-start": 963.12,
+                    "question-end": 968.112,
+                    "answer-start": 968.112,
+                    "answer-end": 973.824
+                }
+            ]
+        },
+        {
+            "sentence-id": "S17",
+            "original-sentence": "Das klingt wirklich toll.",
+            "drills": [
+                {
+                    "global_index": 116,
+                    "id": "Q01",
+                    "question": "Wie klingt das?",
+                    "teacher-answer": "Toll! Wirklich toll!",
+                    "question-start": 973.824,
+                    "question-end": 976.656,
+                    "answer-start": 976.656,
+                    "answer-end": 980.04
+                },
+                {
+                    "global_index": 117,
+                    "id": "Q02",
+                    "question": "Klingt es langweilig?",
+                    "teacher-answer": "Nein! Toll! Wirklich toll!",
+                    "question-start": 980.04,
+                    "question-end": 983.352,
+                    "answer-start": 983.352,
+                    "answer-end": 989.232
+                },
+                {
+                    "global_index": 118,
+                    "id": "Q03",
+                    "question": "Klingt es schlecht?",
+                    "teacher-answer": "Nein! Toll! Das klingt wirklich toll.",
+                    "question-start": 989.232,
+                    "question-end": 993.36,
+                    "answer-start": 993.36,
+                    "answer-end": 998.928
+                },
+                {
+                    "global_index": 119,
+                    "id": "Q04",
+                    "question": "Was klingt toll?",
+                    "teacher-answer": "Das Fest! Das klingt wirklich toll.",
+                    "question-start": 998.928,
+                    "question-end": 1002.24,
+                    "answer-start": 1002.24,
+                    "answer-end": 1006.488
+                },
+                {
+                    "global_index": 120,
+                    "id": "Q05",
+                    "question": "Klingt es nicht gut?",
+                    "teacher-answer": "Doch! Es klingt wirklich toll!",
+                    "question-start": 1006.488,
+                    "question-end": 1009.656,
+                    "answer-start": 1009.656,
+                    "answer-end": 1014.384
+                },
+                {
+                    "global_index": 121,
+                    "id": "Q06",
+                    "question": "Ist es wirklich toll?",
+                    "teacher-answer": "Ja! Das klingt wirklich toll. Wow!",
+                    "question-start": 1014.384,
+                    "question-end": 1017.696,
+                    "answer-start": 1017.696,
+                    "answer-end": 1023.576
+                }
+            ]
+        },
+        {
+            "sentence-id": "S18",
+            "original-sentence": "Am Abend war ich zu Hause.",
+            "drills": [
+                {
+                    "global_index": 122,
+                    "id": "Q01",
+                    "question": "Wo war ich am Abend?",
+                    "teacher-answer": "Zu Hause! Ich war zu Hause.",
+                    "question-start": 1023.576,
+                    "question-end": 1027.368,
+                    "answer-start": 1027.368,
+                    "answer-end": 1031.472
+                },
+                {
+                    "global_index": 123,
+                    "id": "Q02",
+                    "question": "Wann war ich zu Hause?",
+                    "teacher-answer": "Am Abend! Am Abend war ich zu Hause.",
+                    "question-start": 1031.472,
+                    "question-end": 1034.784,
+                    "answer-start": 1034.784,
+                    "answer-end": 1038.96
+                },
+                {
+                    "global_index": 124,
+                    "id": "Q03",
+                    "question": "War ich unterwegs?",
+                    "teacher-answer": "Nein! Zu Hause! Ich war zu Hause.",
+                    "question-start": 1038.96,
+                    "question-end": 1041.96,
+                    "answer-start": 1041.96,
+                    "answer-end": 1047.6
+                },
+                {
+                    "global_index": 125,
+                    "id": "Q04",
+                    "question": "War ich morgens zu Hause?",
+                    "teacher-answer": "Nein! Am Abend! Ich war am Abend zu Hause.",
+                    "question-start": 1047.6,
+                    "question-end": 1051.488,
+                    "answer-start": 1051.488,
+                    "answer-end": 1057.92
+                },
+                {
+                    "global_index": 126,
+                    "id": "Q05",
+                    "question": "Wo warst du?",
+                    "teacher-answer": "Zu Hause! Am Abend war ich zu Hause.",
+                    "question-start": 1057.92,
+                    "question-end": 1060.992,
+                    "answer-start": 1060.992,
+                    "answer-end": 1065.816
+                },
+                {
+                    "global_index": 127,
+                    "id": "Q06",
+                    "question": "Am Abend? Zu Hause?",
+                    "teacher-answer": "Ja! Ganz genau. Am Abend war ich zu Hause.",
+                    "question-start": 1065.816,
+                    "question-end": 1070.184,
+                    "answer-start": 1070.184,
+                    "answer-end": 1076.376
+                }
+            ]
+        },
+        {
+            "sentence-id": "S19",
+            "original-sentence": "Ich habe alles in mein Tagebuch geschrieben.",
+            "drills": [
+                {
+                    "global_index": 128,
+                    "id": "Q01",
+                    "question": "Was habe ich geschrieben?",
+                    "teacher-answer": "Alles! Ich habe alles geschrieben.",
+                    "question-start": 1076.376,
+                    "question-end": 1079.616,
+                    "answer-start": 1079.616,
+                    "answer-end": 1083.624
+                },
+                {
+                    "global_index": 129,
+                    "id": "Q02",
+                    "question": "Wohin habe ich geschrieben?",
+                    "teacher-answer": "In mein Tagebuch! Ich habe alles in mein Tagebuch geschrieben.",
+                    "question-start": 1083.624,
+                    "question-end": 1087.032,
+                    "answer-start": 1087.032,
+                    "answer-end": 1092.168
+                },
+                {
+                    "global_index": 130,
+                    "id": "Q03",
+                    "question": "Habe ich alles aufgeschrieben?",
+                    "teacher-answer": "Ja! Alles! In mein Tagebuch!",
+                    "question-start": 1092.168,
+                    "question-end": 1095.576,
+                    "answer-start": 1095.576,
+                    "answer-end": 1100.904
+                },
+                {
+                    "global_index": 131,
+                    "id": "Q04",
+                    "question": "Hast du in ein Buch geschrieben?",
+                    "teacher-answer": "Nein! In mein Tagebuch!",
+                    "question-start": 1100.904,
+                    "question-end": 1104.936,
+                    "answer-start": 1104.936,
+                    "answer-end": 1108.8
+                },
+                {
+                    "global_index": 132,
+                    "id": "Q05",
+                    "question": "Was ist ein Tagebuch?",
+                    "teacher-answer": "Ein Tagebuch! Wo man alles aufschreibt!",
+                    "question-start": 1108.8,
+                    "question-end": 1112.52,
+                    "answer-start": 1112.52,
+                    "answer-end": 1117.104
+                },
+                {
+                    "global_index": 133,
+                    "id": "Q06",
+                    "question": "Hast du alles geschrieben?",
+                    "teacher-answer": "Ja! Ich habe alles in mein Tagebuch geschrieben. Alles!",
+                    "question-start": 1117.104,
+                    "question-end": 1120.416,
+                    "answer-start": 1120.416,
+                    "answer-end": 1126.848
+                },
+                {
+                    "global_index": 134,
+                    "id": "Q07",
+                    "question": "Hast du etwas vergessen?",
+                    "teacher-answer": "Nein! Ich habe alles geschrieben!",
+                    "question-start": 1126.848,
+                    "question-end": 1130.328,
+                    "answer-start": 1130.328,
+                    "answer-end": 1134.264
+                }
+            ]
+        },
+        {
+            "sentence-id": "S20",
+            "original-sentence": "Die Geräusche vom Markt waren noch in meinen Ohren.",
+            "drills": [
+                {
+                    "global_index": 135,
+                    "id": "Q01",
+                    "question": "Was war in deinen Ohren?",
+                    "teacher-answer": "Die Geräusche! Die Geräusche vom Markt!",
+                    "question-start": 1134.264,
+                    "question-end": 1137.912,
+                    "answer-start": 1137.912,
+                    "answer-end": 1142.016
+                },
+                {
+                    "global_index": 136,
+                    "id": "Q02",
+                    "question": "Woher kamen die Geräusche?",
+                    "teacher-answer": "Vom Markt! Sie waren noch in meinen Ohren.",
+                    "question-start": 1142.016,
+                    "question-end": 1145.808,
+                    "answer-start": 1145.808,
+                    "answer-end": 1150.464
+                },
+                {
+                    "global_index": 137,
+                    "id": "Q03",
+                    "question": "War der Klang noch da?",
+                    "teacher-answer": "Ja! Die Geräusche waren noch da!",
+                    "question-start": 1150.464,
+                    "question-end": 1153.872,
+                    "answer-start": 1153.872,
+                    "answer-end": 1157.976
+                },
+                {
+                    "global_index": 138,
+                    "id": "Q04",
+                    "question": "War alles noch in deinen Ohren?",
+                    "teacher-answer": "Ja! Die Geräusche vom Markt waren noch in meinen Ohren.",
+                    "question-start": 1157.976,
+                    "question-end": 1161.768,
+                    "answer-start": 1161.768,
+                    "answer-end": 1166.976
+                },
+                {
+                    "global_index": 139,
+                    "id": "Q05",
+                    "question": "Was für Geräusche?",
+                    "teacher-answer": "Vom Markt! Die Geräusche vom Markt waren noch da.",
+                    "question-start": 1166.976,
+                    "question-end": 1170.528,
+                    "answer-start": 1170.528,
+                    "answer-end": 1175.736
+                },
+                {
+                    "global_index": 140,
+                    "id": "Q06",
+                    "question": "War es still in deinen Ohren?",
+                    "teacher-answer": "Nein! Die Geräusche vom Markt waren noch in meinen Ohren.",
+                    "question-start": 1175.736,
+                    "question-end": 1179.216,
+                    "answer-start": 1179.216,
+                    "answer-end": 1184.592
+                },
+                {
+                    "global_index": 141,
+                    "id": "Q07",
+                    "question": "Wo waren die Geräusche?",
+                    "teacher-answer": "In meinen Ohren! Sie waren noch da!",
+                    "question-start": 1184.592,
+                    "question-end": 1188.144,
+                    "answer-start": 1188.144,
+                    "answer-end": 1192.152
+                }
+            ]
+        },
+        {
+            "sentence-id": "S21",
+            "original-sentence": "Die Gerüche von Kurkuma und Pfeffer waren noch in meiner Nase.",
+            "drills": [
+                {
+                    "global_index": 142,
+                    "id": "Q01",
+                    "question": "Was war in deiner Nase?",
+                    "teacher-answer": "Die Gerüche! Von Kurkuma und Pfeffer!",
+                    "question-start": 1192.152,
+                    "question-end": 1195.56,
+                    "answer-start": 1195.56,
+                    "answer-end": 1200.288
+                },
+                {
+                    "global_index": 143,
+                    "id": "Q02",
+                    "question": "Welche Gerüche?",
+                    "teacher-answer": "Von Kurkuma und Pfeffer!",
+                    "question-start": 1200.288,
+                    "question-end": 1203.528,
+                    "answer-start": 1203.528,
+                    "answer-end": 1206.336
+                },
+                {
+                    "global_index": 144,
+                    "id": "Q03",
+                    "question": "War der Geruch noch da?",
+                    "teacher-answer": "Ja! Die Gerüche waren noch in meiner Nase.",
+                    "question-start": 1206.336,
+                    "question-end": 1209.984,
+                    "answer-start": 1209.984,
+                    "answer-end": 1214.808
+                },
+                {
+                    "global_index": 145,
+                    "id": "Q04",
+                    "question": "War der Kuchen in deiner Nase?",
+                    "teacher-answer": "Nein! Kurkuma und Pfeffer! Die Gerüche!",
+                    "question-start": 1214.808,
+                    "question-end": 1218.6,
+                    "answer-start": 1218.6,
+                    "answer-end": 1224.888
+                },
+                {
+                    "global_index": 146,
+                    "id": "Q05",
+                    "question": "Wo waren die Gerüche?",
+                    "teacher-answer": "In meiner Nase! Sie waren noch da!",
+                    "question-start": 1224.888,
+                    "question-end": 1227.96,
+                    "answer-start": 1227.96,
+                    "answer-end": 1232.688
+                },
+                {
+                    "global_index": 147,
+                    "id": "Q06",
+                    "question": "Kurkuma und Pfeffer? Noch in der Nase?",
+                    "teacher-answer": "Ja! Die Gerüche waren noch in meiner Nase.",
+                    "question-start": 1232.688,
+                    "question-end": 1237.2,
+                    "answer-start": 1237.2,
+                    "answer-end": 1242.264
+                },
+                {
+                    "global_index": 148,
+                    "id": "Q07",
+                    "question": "Hast du die Gerüche vergessen?",
+                    "teacher-answer": "Nein! Sie waren noch in meiner Nase!",
+                    "question-start": 1242.264,
+                    "question-end": 1246.056,
+                    "answer-start": 1246.056,
+                    "answer-end": 1250.712
+                }
+            ]
+        },
+        {
+            "sentence-id": "S22",
+            "original-sentence": "Ich bin so froh, dass ich diesen Mann getroffen habe.",
+            "drills": [
+                {
+                    "global_index": 149,
+                    "id": "Q01",
+                    "question": "Bist du froh?",
+                    "teacher-answer": "Ja! So froh! Ich bin so froh!",
+                    "question-start": 1250.712,
+                    "question-end": 1253.784,
+                    "answer-start": 1253.784,
+                    "answer-end": 1259.352
+                },
+                {
+                    "global_index": 150,
+                    "id": "Q02",
+                    "question": "Warum bist du froh?",
+                    "teacher-answer": "Weil ich diesen Mann getroffen habe!",
+                    "question-start": 1259.352,
+                    "question-end": 1262.664,
+                    "answer-start": 1262.664,
+                    "answer-end": 1265.544
+                },
+                {
+                    "global_index": 151,
+                    "id": "Q03",
+                    "question": "Wen hast du getroffen?",
+                    "teacher-answer": "Diesen Mann! Den Mann mit den Gewürzen!",
+                    "question-start": 1265.544,
+                    "question-end": 1269.024,
+                    "answer-start": 1269.024,
+                    "answer-end": 1272.96
+                },
+                {
+                    "global_index": 152,
+                    "id": "Q04",
+                    "question": "Hast du einen Mann getroffen?",
+                    "teacher-answer": "Ja! DiesEN Mann! Ich bin so froh, dass ich diesen Mann getroffen habe.",
+                    "question-start": 1272.96,
+                    "question-end": 1276.368,
+                    "answer-start": 1276.368,
+                    "answer-end": 1283.928
+                },
+                {
+                    "global_index": 153,
+                    "id": "Q05",
+                    "question": "Bist du traurig?",
+                    "teacher-answer": "Nein! Froh! So froh, dass ich ihn getroffen habe!",
+                    "question-start": 1283.928,
+                    "question-end": 1287.336,
+                    "answer-start": 1287.336,
+                    "answer-end": 1294.176
+                },
+                {
+                    "global_index": 154,
+                    "id": "Q06",
+                    "question": "Wie froh?",
+                    "teacher-answer": "So froh! Ich bin SO froh!",
+                    "question-start": 1294.176,
+                    "question-end": 1296.864,
+                    "answer-start": 1296.864,
+                    "answer-end": 1300.728
+                },
+                {
+                    "global_index": 155,
+                    "id": "Q07",
+                    "question": "Bist du froh, dass du den Mann getroffen hast?",
+                    "teacher-answer": "Ja! So froh! Ich bin so froh, dass ich diesen Mann getroffen habe. Wow!",
+                    "question-start": 1300.728,
+                    "question-end": 1305.096,
+                    "answer-start": 1305.096,
+                    "answer-end": 1313.952
+                }
+            ]
+        }
+    ]
+}

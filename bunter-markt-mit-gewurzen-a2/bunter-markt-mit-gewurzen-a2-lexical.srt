@@ -1,0 +1,50 @@
+﻿1
+00:00:00,000 --> 00:01:06,000
+Gewürz (noun)
+Etwas zum Essenmachen. Gewürze kommen von Pflanzen. Ohne Gewürze schmeckt Essen langweilig.
+
+2
+00:01:06,000 --> 00:02:12,720
+Kurkuma (noun)
+Ein gelbes Gewürz aus Asien. Es kommt von einer Pflanze. Man tut es oft in Curry und Reis.
+
+3
+00:02:12,720 --> 00:03:16,776
+Pfeffer (noun)
+Schwarze oder weiße Körner zum Würzen. Man mahlt sie über das Essen. Ohne Pfeffer schmeckt vieles fade.
+
+4
+00:03:16,776 --> 00:04:25,944
+Würzfest (noun)
+Ein Fest nur für Gewürze. Menschen kommen zusammen und kosten verschiedene Gewürze. Es riecht dort toll.
+
+5
+00:04:25,944 --> 00:05:36,984
+Selbstgemacht (adjective)
+Du machst etwas allein. Du kochst oder bastelst selbst. Es ist nicht aus dem Laden.
+
+6
+00:05:36,984 --> 00:06:50,040
+tropisch (adjective)
+Sehr heiß und feucht. Es regnet oft. Die Pflanzen wachsen schnell. Stell dir den Dschungel vor.
+
+7
+00:06:50,040 --> 00:07:55,368
+Tagebuch (noun)
+Ein Heft für deine Gedanken. Du schreibst jeden Tag hinein. Es ist nur für dich allein.
+
+8
+00:07:55,368 --> 00:09:03,072
+Geräusch (noun)
+Ein Laut in deinen Ohren. Du hörst ihn mit den Ohren. Es kann leise oder laut sein.
+
+9
+00:09:03,072 --> 00:10:10,824
+Geruch (noun)
+Was du mit der Nase riechst. Blumengeruch ist schön. Müll riecht nicht gut.
+
+10
+00:10:10,824 --> 00:11:21,216
+interessant (adjective)
+Etwas zieht deine Aufmerksamkeit an. Du willst mehr wissen. Es ist spannend für dich.
+
