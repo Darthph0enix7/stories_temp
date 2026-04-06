@@ -1,0 +1,1334 @@
+{
+    "level": "A2",
+    "title": "Bilderrätsel: Das geheime Erbe",
+    "story": "Die Erben sind ins alte Haus gekommen und haben viele Bilder gesehen. Hinter jedem Bild haben sie eine geheime Buchstabenfolge gefunden. In einem Bild haben sie unter Licht neue Farben gesehen. Die Farbreste haben ein verborgenes Bild gezeigt, das früher unsichtbar war. Der Museumsdirektor hatte in der letzten Woche zwei Bilder ausgetauscht. Er hat gestanden, dass er die Gemälde heimlich durch Kopien ersetzt hat. Ein altes Tagebuch hat in der Schublade gelegen. Es hat gezeigt, dass der Familienname ein Anagramm war. Die Erben mussten die Buchstaben neu anordnen, um den Code zu lesen. Sie konnten die richtige Reihenfolge der drei Bilder bestimmen. Das erste Bild muss links hängen, das zweite in der Mitte. Das dritte Bild muss rechts kommen, damit die Buchstaben ein Wort ergeben. Als sie die Bilder so aufgehängt haben, hat sich eine Tür geöffnet. Dahinter hat ein alter Koffer mit dem vollständigen Erbe gelegen. Die Erben waren glücklich, denn sie hatten das Rätsel gelöst.",
+    "md-text": "Die **Erben** sind ins alte Haus gekommen und haben viele **Bilder** gesehen. Hinter jedem Bild haben sie eine geheime **Buchstabenfolge** gefunden. In einem Bild haben sie unter Licht neue Farben gesehen. Die **Farbreste** haben ein verborgenes Bild gezeigt, das früher unsichtbar war. Der Museumsdirektor hatte in der letzten Woche zwei Bilder ausgetauscht. Er hat gestanden, dass er die **Gemälde** heimlich durch Kopien ersetzt hat. Ein altes **Tagebuch** hat in der Schublade gelegen. Es hat gezeigt, dass der Familienname ein **Anagramm** war. Die Erben mussten die Buchstaben neu anordnen, um den Code zu lesen. Sie konnten die richtige **Reihenfolge** der drei Bilder bestimmen. Das erste Bild muss links hängen, das zweite in der Mitte. Das dritte Bild muss rechts kommen, damit die Buchstaben ein Wort ergeben. Als sie die Bilder so aufgehängt haben, hat sich eine Tür geöffnet. Dahinter hat ein alter **Koffer** mit dem vollständigen Erbe gelegen. Die Erben waren glücklich, denn sie hatten das **Rätsel** gelöst.",
+    "sentences": [
+        {
+            "id": 1,
+            "text": "Die Erben sind ins alte Haus gekommen und haben viele Bilder gesehen.",
+            "sentence-start": 3.432,
+            "sentence-end": 8.712
+        },
+        {
+            "id": 2,
+            "text": "Hinter jedem Bild haben sie eine geheime Buchstabenfolge gefunden.",
+            "sentence-start": 8.712,
+            "sentence-end": 13.104
+        },
+        {
+            "id": 3,
+            "text": "In einem Bild haben sie unter Licht neue Farben gesehen.",
+            "sentence-start": 13.104,
+            "sentence-end": 17.184
+        },
+        {
+            "id": 4,
+            "text": "Die Farbreste haben ein verborgenes Bild gezeigt, das früher unsichtbar war.",
+            "sentence-start": 17.184,
+            "sentence-end": 23.112
+        },
+        {
+            "id": 5,
+            "text": "Der Museumsdirektor hatte in der letzten Woche zwei Bilder ausgetauscht.",
+            "sentence-start": 23.112,
+            "sentence-end": 28.32
+        },
+        {
+            "id": 6,
+            "text": "Er hat gestanden, dass er die Gemälde heimlich durch Kopien ersetzt hat.",
+            "sentence-start": 28.32,
+            "sentence-end": 33.528
+        },
+        {
+            "id": 7,
+            "text": "Ein altes Tagebuch hat in der Schublade gelegen.",
+            "sentence-start": 33.528,
+            "sentence-end": 37.296
+        },
+        {
+            "id": 8,
+            "text": "Es hat gezeigt, dass der Familienname ein Anagramm war.",
+            "sentence-start": 37.296,
+            "sentence-end": 41.688
+        },
+        {
+            "id": 9,
+            "text": "Die Erben mussten die Buchstaben neu anordnen, um den Code zu lesen.",
+            "sentence-start": 41.688,
+            "sentence-end": 46.728
+        },
+        {
+            "id": 10,
+            "text": "Sie konnten die richtige Reihenfolge der drei Bilder bestimmen.",
+            "sentence-start": 46.728,
+            "sentence-end": 51.12
+        },
+        {
+            "id": 11,
+            "text": "Das erste Bild muss links hängen, das zweite in der Mitte.",
+            "sentence-start": 51.12,
+            "sentence-end": 55.608
+        },
+        {
+            "id": 12,
+            "text": "Das dritte Bild muss rechts kommen, damit die Buchstaben ein Wort ergeben.",
+            "sentence-start": 55.608,
+            "sentence-end": 60.576
+        },
+        {
+            "id": 13,
+            "text": "Als sie die Bilder so aufgehängt haben, hat sich eine Tür geöffnet.",
+            "sentence-start": 60.576,
+            "sentence-end": 65.064
+        },
+        {
+            "id": 14,
+            "text": "Dahinter hat ein alter Koffer mit dem vollständigen Erbe gelegen.",
+            "sentence-start": 65.064,
+            "sentence-end": 69.552
+        },
+        {
+            "id": 15,
+            "text": "Die Erben waren glücklich, denn sie hatten das Rätsel gelöst.",
+            "sentence-start": 69.552,
+            "sentence-end": 74.28
+        }
+    ],
+    "highlight-words": [
+        "Erbe",
+        "Bild",
+        "Buchstabenfolge",
+        "Farbreste",
+        "Gemälde",
+        "Tagebuch",
+        "Anagramm",
+        "Reihenfolge",
+        "Koffer",
+        "Rätsel"
+    ],
+    "lexical-data": [
+        {
+            "word-key": "Erbe",
+            "type": "Nomen",
+            "morphology": "das Erbe (die Erbschaften)",
+            "mini-definition": "Geld von Familie nach dem Tod. Die Oma gibt Geld an die Kinder. Es ist wie ein Geschenk.",
+            "explanation": "Schau mal: Das Erbe ist Geld oder Besitz von der Familie. Wenn ein Mensch stirbt, bekommen die Kinder oder Enkelkinder dieses Geld. Es ist wie ein Geschenk von der Familie. Tipp: „Erbschaft“ und „Erbe“ sind verwandte Wörter!",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Die Oma hat viel Erbe an ihre Kinder gegeben."
+                },
+                {
+                    "id": 2,
+                    "text": "Er bekommt das Erbe von seinem verstorbenen Onkel."
+                },
+                {
+                    "id": 3,
+                    "text": "Das Erbe war eine große Summe Geld."
+                }
+            ],
+            "question": "Würdest du lieber Geld oder ein Haus als Erbe bekommen?",
+            "lexical-start": 0.0,
+            "lexical-end": 60.672
+        },
+        {
+            "word-key": "Bild",
+            "type": "Nomen",
+            "morphology": "das Bild (die Bilder)",
+            "mini-definition": "Ein Foto oder Foto. Du siehst es an der Wand. Bilder zeigen Personen oder Orte.",
+            "explanation": "Stell dir vor: Ein Bild ist etwas, das du mit den Augen siehst. Es kann ein Foto sein oder ein gemaltes Bild. Bilder hängen an Wänden in Häusern oder Museen. Gut zu wissen: „das Foto“ und „das Bild“ sind fast gleichbedeutend!",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Das Bild von meiner Familie hängt im Wohnzimmer."
+                },
+                {
+                    "id": 2,
+                    "text": "Ich mache ein Bild von meiner Katze."
+                },
+                {
+                    "id": 3,
+                    "text": "„Schau mal, das ist ein schönes Bild!“, sagt die Mutter."
+                }
+            ],
+            "question": "Hast du ein Lieblingsbild in deinem Zimmer?",
+            "lexical-start": 60.672,
+            "lexical-end": 120.552
+        },
+        {
+            "word-key": "Buchstabenfolge",
+            "type": "Nomen",
+            "morphology": "die Buchstabenfolge (die Buchstabenfolgen)",
+            "mini-definition": "Buchstaben nacheinander. A-B-C-D – das ist eine Buchstabenfolge. Wörter haben Buchstabenfolgen.",
+            "explanation": "Gut zu wissen: Die Buchstabenfolge zeigt, wie Buchstaben nacheinander kommen. Zum Beispiel: A-B-C-D. Das ist eine Buchstabenfolge! Schau mal auf deine Tastatur – dort siehst du die Buchstabenfolge Q-W-E-R-T-Z. Kinder lernen zuerst die Buchstabenfolge A-B-C.",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Die Buchstabenfolge von A bis Z ist das Alphabet."
+                },
+                {
+                    "id": 2,
+                    "text": "Ein Kind schreibt die Buchstabenfolge in der Schule."
+                },
+                {
+                    "id": 3,
+                    "text": "Die Buchstabenfolge in „Haus“ ist H-A-U-S."
+                }
+            ],
+            "question": "Kannst du die Buchstabenfolge des Alphabets schnell aufsagen?",
+            "lexical-start": 120.552,
+            "lexical-end": 191.064
+        },
+        {
+            "word-key": "Farbreste",
+            "type": "Nomen",
+            "morphology": "die Farbreste (die Farbreste)",
+            "mini-definition": "Alte Farbe. Farbe, die übrig bleibt. Man kann sie noch benutzen für neue Bilder.",
+            "explanation": "Stell dir vor: Du malst ein Bild und am Ende bleibt Farbe übrig. Das sind Farbreste! Es ist Verschwendung, sie wegzuwerfen. Kunststudenten bewahren Farbreste auf. Sie nutzen sie für neue kleine Bilder oder Experimente. Tipp: Farbe auf dem Pinsel ist auch ein Farbrest!",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Ich bewahre die Farbreste für das nächste Projekt auf."
+                },
+                {
+                    "id": 2,
+                    "text": "Die Farbreste auf dem Pinsel sind noch zu schade zum Wegwerfen."
+                },
+                {
+                    "id": 3,
+                    "text": "Mit den Farbresten malt die Studentin ein abstraktes Bild."
+                }
+            ],
+            "question": "Malst du auch gern mit verschiedenen Farben?",
+            "lexical-start": 191.064,
+            "lexical-end": 257.52
+        },
+        {
+            "word-key": "Gemälde",
+            "type": "Nomen",
+            "morphology": "das Gemälde (die Gemälde)",
+            "mini-definition": "Ein großes, schönes Bild. Ein Künstler malt es mit Pinsel und Farbe. Museen zeigen teure Gemälde.",
+            "explanation": "Schau mal: Ein Gemälde ist ein großes, künstlerisches Bild. Ein echter Künstler malt es mit Pinsel und Farbe auf Leinwand. Museen zeigen viele berühmte Gemälde – zum Beispiel von Picasso oder Monet. Gut zu wissen: Ein Gemälde ist wertvoller als ein normales Bild!",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Das Gemälde an der Wand ist sehr berühmt."
+                },
+                {
+                    "id": 2,
+                    "text": "Der Künstler hat das Gemälde in einem Jahr gemalt."
+                },
+                {
+                    "id": 3,
+                    "text": "Museen zeigen viele berühmte Gemälde aus aller Welt."
+                }
+            ],
+            "question": "Hast du schon einmal ein echtes Gemälde in einem Museum gesehen?",
+            "lexical-start": 257.52,
+            "lexical-end": 324.384
+        },
+        {
+            "word-key": "Tagebuch",
+            "type": "Nomen",
+            "morphology": "das Tagebuch (die Tagebücher)",
+            "mini-definition": "Ein Buch. Du schreibst jeden Tag deine Gedanken und Erlebnisse hinein. Es ist wie ein Freund.",
+            "explanation": "Stell dir vor: Du hast ein besonderes Buch nur für dich. Jeden Tag schreibst du hinein, was du erlebt hast oder was du fühlst. Das ist ein Tagebuch! Es ist wie ein Freund auf Papier. Viele berühmte Menschen haben Tagebücher geschrieben. Heute schreiben auch Teenager gern Tagebuch.",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Ich schreibe jeden Abend in mein Tagebuch."
+                },
+                {
+                    "id": 2,
+                    "text": "Das Tagebuch ist für persönliche Gedanken und Geheimnisse."
+                },
+                {
+                    "id": 3,
+                    "text": "Anne Frank hat ein berühmtes Tagebuch geschrieben."
+                }
+            ],
+            "question": "Schreibst du auch manchmal ein Tagebuch?",
+            "lexical-start": 324.384,
+            "lexical-end": 389.808
+        },
+        {
+            "word-key": "Anagramm",
+            "type": "Nomen",
+            "morphology": "das Anagramm (die Anagramme)",
+            "mini-definition": "Die Buchstaben haben eine neue Reihenfolge. MANN wird zu NNAM – das ist ein Anagramm.",
+            "explanation": "Tipp: Ein Anagramm ist ein lustiges Wortspiel! Man nimmt die Buchstaben von einem Wort und ändert ihre Reihenfolge. So entsteht ein neues Wort. „Hund“ wird zu „Dhun“ – das ist kein Anagramm. Aber „Leid“ wird zu „Diel“ – auch kein Anagramm. Schau dir das Beispiel an: „MANN“ hat die Buchstaben M-A-N-N. Wenn du sie umstellst, kannst du... na ja, „NNAM“ machen. Es ist ein kleines Worträtsel!",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Die Buchstaben von „Tor“ sind auch in „Rot“ – das ist ein Anagramm!"
+                },
+                {
+                    "id": 2,
+                    "text": "Anagramme sind lustige Wortspiele in der Schule."
+                },
+                {
+                    "id": 3,
+                    "text": "„Die Alte“ wird zu „Heil du“ – das ist ein Anagramm!"
+                }
+            ],
+            "question": "Magst du Anagramme und Wortspiele?",
+            "lexical-start": 389.808,
+            "lexical-end": 468.072
+        },
+        {
+            "word-key": "Reihenfolge",
+            "type": "Nomen",
+            "morphology": "die Reihenfolge (die Reihenfolgen)",
+            "mini-definition": "Ordnung. Dinge kommen nacheinander. Zum Beispiel: Eins, zwei, drei. Oder A vor B vor C.",
+            "explanation": "Gut zu wissen: Die Reihenfolge zeigt, wie Dinge nacheinander kommen. Es ist wie eine Ordnung! Schüler stehen in einer Reihenfolge vor der Tür. Buchstaben kommen auch in einer Reihenfolge – A kommt vor B, B kommt vor C. Tipp: „Reihenfolge“ und „Ordnung“ passen gut zusammen!",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Die Reihenfolge der Buchstaben ist wichtig zum Lesen."
+                },
+                {
+                    "id": 2,
+                    "text": "Die Kinder stehen in einer Reihenfolge vor dem Lehrer."
+                },
+                {
+                    "id": 3,
+                    "text": "Schreib die Wörter in der richtigen Reihenfolge!"
+                }
+            ],
+            "question": "Ist dir die Reihenfolge von Dingen wichtig?",
+            "lexical-start": 468.072,
+            "lexical-end": 535.824
+        },
+        {
+            "word-key": "Koffer",
+            "type": "Nomen",
+            "morphology": "der Koffer (die Koffer)",
+            "mini-definition": "Gepäck. Man packt Kleidung hinein. Auf Reisen ist ein Koffer sehr wichtig. Er hat einen Griff.",
+            "explanation": "Stell dir vor: Du fährst in den Urlaub. Du brauchst einen Koffer! Ein Koffer ist ein Behälter mit Griff zum Tragen. Du packst deine Kleidung, Schuhe und Zahnbürste hinein. Am Flughafen siehst du viele Koffer auf dem Gepäckband. Tipp: Es gibt große Koffer und kleine Koffer!",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Ich packe meinen Koffer für die Reise nach Berlin."
+                },
+                {
+                    "id": 2,
+                    "text": "Der Koffer ist schwer, weil ich zu viele Bücher mitgenommen habe."
+                },
+                {
+                    "id": 3,
+                    "text": "Am Flughafen hole ich meinen Koffer vom Gepäckband."
+                }
+            ],
+            "question": "Hast du einen Lieblingskoffer für deine Reisen?",
+            "lexical-start": 535.824,
+            "lexical-end": 604.2
+        },
+        {
+            "word-key": "Rätsel",
+            "type": "Nomen",
+            "morphology": "das Rätsel (die Rätsel)",
+            "mini-definition": "Eine Frage. Die Antwort ist nicht einfach. Man muss lange nachdenken. Rätsel sind wie kleine Geheimnisse.",
+            "explanation": "Schau mal: Ein Rätsel ist eine Frage mit einer versteckten Antwort. Die Antwort ist nicht einfach zu finden – man muss lange nachdenken! Kinder mögen Rätsel besonders gern. Es gibt auch Rätsel in Zeitungen und Apps. Ein berühmtes Rätsel: „Was hat vier Beine morgens, zwei am Mittag und drei abends?“ Die Antwort: Der Mensch!",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Das Rätsel ist schwer – ich brauche mehr Zeit zum Denken."
+                },
+                {
+                    "id": 2,
+                    "text": "Kinder lösen gern Rätsel mit Freunden am Wochenende."
+                },
+                {
+                    "id": 3,
+                    "text": "In der Zeitschrift gibt es viele interessante Rätsel."
+                }
+            ],
+            "question": "Löst du gern Rätsel? Welches ist dein Lieblingsrätsel?",
+            "lexical-start": 604.2,
+            "lexical-end": 680.352
+        }
+    ],
+    "interaction-drills": [
+        {
+            "sentence-id": "S01",
+            "original-sentence": "Die Erben sind ins alte Haus gekommen und haben viele Bilder gesehen.",
+            "drills": [
+                {
+                    "global_index": 1,
+                    "id": "Q01",
+                    "question": "Sind die Erben ins alte Haus gekommen?",
+                    "teacher-answer": "Ja, genau! Die Erben sind ins alte Haus gekommen.",
+                    "question-start": 0.0,
+                    "question-end": 4.032,
+                    "answer-start": 4.032,
+                    "answer-end": 9.168
+                },
+                {
+                    "global_index": 2,
+                    "id": "Q02",
+                    "question": "Sind sie ins neue Haus gekommen?",
+                    "teacher-answer": "Nein, nein! Nicht ins neue Haus. Ins alte Haus!",
+                    "question-start": 9.168,
+                    "question-end": 12.816,
+                    "answer-start": 12.816,
+                    "answer-end": 20.064
+                },
+                {
+                    "global_index": 3,
+                    "id": "Q03",
+                    "question": "Wer ist ins alte Haus gekommen?",
+                    "teacher-answer": "Die Erben! Die Erben sind ins alte Haus gekommen.",
+                    "question-start": 20.064,
+                    "question-end": 23.784,
+                    "answer-start": 23.784,
+                    "answer-end": 28.44
+                },
+                {
+                    "global_index": 4,
+                    "id": "Q04",
+                    "question": "Wer? Wer ist gekommen?",
+                    "teacher-answer": "Die Erben! Ganz genau, die Erben!",
+                    "question-start": 28.44,
+                    "question-end": 32.328,
+                    "answer-start": 32.328,
+                    "answer-end": 36.672
+                },
+                {
+                    "global_index": 5,
+                    "id": "Q05",
+                    "question": "Was haben sie gesehen?",
+                    "teacher-answer": "Viele Bilder! Sie haben viele Bilder gesehen.",
+                    "question-start": 36.672,
+                    "question-end": 40.56,
+                    "answer-start": 40.56,
+                    "answer-end": 45.864
+                },
+                {
+                    "global_index": 6,
+                    "id": "Q06",
+                    "question": "Habt ihr viele Bilder oder ein Bild gesehen?",
+                    "teacher-answer": "Viele Bilder! Sie haben viele Bilder gesehen.",
+                    "question-start": 45.864,
+                    "question-end": 50.304,
+                    "answer-start": 50.304,
+                    "answer-end": 55.128
+                },
+                {
+                    "global_index": 7,
+                    "id": "Q07",
+                    "question": "Was haben die Erben gemacht?",
+                    "teacher-answer": "Sie sind ins alte Haus gekommen und haben viele Bilder gesehen!",
+                    "question-start": 55.128,
+                    "question-end": 58.68,
+                    "answer-start": 58.68,
+                    "answer-end": 62.928
+                }
+            ]
+        },
+        {
+            "sentence-id": "S02",
+            "original-sentence": "Hinter jedem Bild haben sie eine geheime Buchstabenfolge gefunden.",
+            "drills": [
+                {
+                    "global_index": 8,
+                    "id": "Q01",
+                    "question": "Haben sie eine geheime Buchstabenfolge gefunden?",
+                    "teacher-answer": "Ja! Sie haben eine geheime Buchstabenfolge gefunden.",
+                    "question-start": 62.928,
+                    "question-end": 67.848,
+                    "answer-start": 67.848,
+                    "answer-end": 73.392
+                },
+                {
+                    "global_index": 9,
+                    "id": "Q02",
+                    "question": "Was haben sie gefunden?",
+                    "teacher-answer": "Eine geheime Buchstabenfolge! Sie haben eine geheime Buchstabenfolge gefunden.",
+                    "question-start": 73.392,
+                    "question-end": 76.704,
+                    "answer-start": 76.704,
+                    "answer-end": 83.208
+                },
+                {
+                    "global_index": 10,
+                    "id": "Q03",
+                    "question": "Eine offene oder eine geheime Buchstabenfolge?",
+                    "teacher-answer": "Eine geheime! Eine geheime Buchstabenfolge!",
+                    "question-start": 83.208,
+                    "question-end": 87.888,
+                    "answer-start": 87.888,
+                    "answer-end": 92.856
+                },
+                {
+                    "global_index": 11,
+                    "id": "Q04",
+                    "question": "Wo haben sie die Buchstabenfolge gefunden?",
+                    "teacher-answer": "Hinter jedem Bild! Sie haben sie hinter jedem Bild gefunden.",
+                    "question-start": 92.856,
+                    "question-end": 98.256,
+                    "answer-start": 98.256,
+                    "answer-end": 103.944
+                },
+                {
+                    "global_index": 12,
+                    "id": "Q05",
+                    "question": "Hinter welchem Bild? Hinter jedem Bild!",
+                    "teacher-answer": "Hinter jedem Bild! Ja, hinter jedem einzelnen Bild!",
+                    "question-start": 103.944,
+                    "question-end": 108.792,
+                    "answer-start": 108.792,
+                    "answer-end": 114.48
+                },
+                {
+                    "global_index": 13,
+                    "id": "Q06",
+                    "question": "Wer hat die Buchstabenfolge gefunden?",
+                    "teacher-answer": "Die Erben! Die Erben haben sie gefunden.",
+                    "question-start": 114.48,
+                    "question-end": 119.328,
+                    "answer-start": 119.328,
+                    "answer-end": 123.984
+                }
+            ]
+        },
+        {
+            "sentence-id": "S03",
+            "original-sentence": "In einem Bild haben sie unter Licht neue Farben gesehen.",
+            "drills": [
+                {
+                    "global_index": 14,
+                    "id": "Q01",
+                    "question": "Haben sie neue Farben gesehen?",
+                    "teacher-answer": "Ja! Sie haben neue Farben gesehen.",
+                    "question-start": 123.984,
+                    "question-end": 127.776,
+                    "answer-start": 127.776,
+                    "answer-end": 132.672
+                },
+                {
+                    "global_index": 15,
+                    "id": "Q02",
+                    "question": "Alte Farben oder neue Farben?",
+                    "teacher-answer": "Neue Farben! Sie haben neue Farben gesehen.",
+                    "question-start": 132.672,
+                    "question-end": 136.8,
+                    "answer-start": 136.8,
+                    "answer-end": 141.528
+                },
+                {
+                    "global_index": 16,
+                    "id": "Q03",
+                    "question": "Wo haben sie die neuen Farben gesehen?",
+                    "teacher-answer": "In einem Bild! Unter Licht haben sie sie gesehen.",
+                    "question-start": 141.528,
+                    "question-end": 145.488,
+                    "answer-start": 145.488,
+                    "answer-end": 151.032
+                },
+                {
+                    "global_index": 17,
+                    "id": "Q04",
+                    "question": "Unter welchem Licht?",
+                    "teacher-answer": "Unter Licht! Sie haben unter Licht neue Farben gesehen.",
+                    "question-start": 151.032,
+                    "question-end": 154.104,
+                    "answer-start": 154.104,
+                    "answer-end": 159.48
+                },
+                {
+                    "global_index": 18,
+                    "id": "Q05",
+                    "question": "In einem Bild? In welchem Bild?",
+                    "teacher-answer": "In einem Bild! Sie haben in einem Bild neue Farben gesehen.",
+                    "question-start": 159.48,
+                    "question-end": 163.512,
+                    "answer-start": 163.512,
+                    "answer-end": 168.96
+                }
+            ]
+        },
+        {
+            "sentence-id": "S04",
+            "original-sentence": "Die Farbreste haben ein verborgenes Bild gezeigt, das früher unsichtbar war.",
+            "drills": [
+                {
+                    "global_index": 19,
+                    "id": "Q01",
+                    "question": "Was haben die Farbreste gezeigt?",
+                    "teacher-answer": "Ein verborgenes Bild! Sie haben ein verborgenes Bild gezeigt.",
+                    "question-start": 168.96,
+                    "question-end": 172.752,
+                    "answer-start": 172.752,
+                    "answer-end": 178.608
+                },
+                {
+                    "global_index": 20,
+                    "id": "Q02",
+                    "question": "Ein sichtbares oder ein verborgenes Bild?",
+                    "teacher-answer": "Ein verborgenes Bild! Ein verborgenes!",
+                    "question-start": 178.608,
+                    "question-end": 183.048,
+                    "answer-start": 183.048,
+                    "answer-end": 187.392
+                },
+                {
+                    "global_index": 21,
+                    "id": "Q03",
+                    "question": "Was war das Bild?",
+                    "teacher-answer": "Verborgen! Es war ein verborgenes Bild.",
+                    "question-start": 187.392,
+                    "question-end": 190.464,
+                    "answer-start": 190.464,
+                    "answer-end": 194.952
+                },
+                {
+                    "global_index": 22,
+                    "id": "Q04",
+                    "question": "War das Bild sichtbar?",
+                    "teacher-answer": "Nein! Es war nicht sichtbar. Es war verborgen und früher unsichtbar.",
+                    "question-start": 194.952,
+                    "question-end": 198.432,
+                    "answer-start": 198.432,
+                    "answer-end": 205.2
+                },
+                {
+                    "global_index": 23,
+                    "id": "Q05",
+                    "question": "Wann war es unsichtbar?",
+                    "teacher-answer": "Früher! Es war früher unsichtbar.",
+                    "question-start": 205.2,
+                    "question-end": 208.848,
+                    "answer-start": 208.848,
+                    "answer-end": 213.096
+                },
+                {
+                    "global_index": 24,
+                    "id": "Q06",
+                    "question": "Was hat ein verborgenes Bild gezeigt?",
+                    "teacher-answer": "Die Farbreste! Die Farbreste haben ein verborgenes Bild gezeigt!",
+                    "question-start": 213.096,
+                    "question-end": 217.056,
+                    "answer-start": 217.056,
+                    "answer-end": 223.224
+                },
+                {
+                    "global_index": 25,
+                    "id": "Q07",
+                    "question": "War es früher sichtbar?",
+                    "teacher-answer": "Nein, nein! Früher war es unsichtbar. Erst jetzt ist es sichtbar!",
+                    "question-start": 223.224,
+                    "question-end": 227.352,
+                    "answer-start": 227.352,
+                    "answer-end": 234.984
+                }
+            ]
+        },
+        {
+            "sentence-id": "S05",
+            "original-sentence": "Der Museumsdirektor hatte in der letzten Woche zwei Bilder ausgetauscht.",
+            "drills": [
+                {
+                    "global_index": 26,
+                    "id": "Q01",
+                    "question": "Hat der Museumsdirektor zwei Bilder ausgetauscht?",
+                    "teacher-answer": "Ja! Er hat zwei Bilder ausgetauscht.",
+                    "question-start": 234.984,
+                    "question-end": 240.072,
+                    "answer-start": 240.072,
+                    "answer-end": 244.488
+                },
+                {
+                    "global_index": 27,
+                    "id": "Q02",
+                    "question": "Hat er ein Bild oder zwei Bilder ausgetauscht?",
+                    "teacher-answer": "Zwei Bilder! Er hat zwei Bilder ausgetauscht.",
+                    "question-start": 244.488,
+                    "question-end": 248.688,
+                    "answer-start": 248.688,
+                    "answer-end": 253.656
+                },
+                {
+                    "global_index": 28,
+                    "id": "Q03",
+                    "question": "Wer hat zwei Bilder ausgetauscht?",
+                    "teacher-answer": "Der Museumsdirektor! Er hat zwei Bilder ausgetauscht.",
+                    "question-start": 253.656,
+                    "question-end": 257.448,
+                    "answer-start": 257.448,
+                    "answer-end": 263.232
+                },
+                {
+                    "global_index": 29,
+                    "id": "Q04",
+                    "question": "Wann hat er die Bilder ausgetauscht?",
+                    "teacher-answer": "In der letzten Woche! In der letzten Woche hat er sie ausgetauscht.",
+                    "question-start": 263.232,
+                    "question-end": 267.024,
+                    "answer-start": 267.024,
+                    "answer-end": 272.472
+                },
+                {
+                    "global_index": 30,
+                    "id": "Q05",
+                    "question": "In dieser Woche oder in der letzten Woche?",
+                    "teacher-answer": "In der letzten Woche! Nicht in dieser Woche!",
+                    "question-start": 272.472,
+                    "question-end": 277.152,
+                    "answer-start": 277.152,
+                    "answer-end": 281.736
+                },
+                {
+                    "global_index": 31,
+                    "id": "Q06",
+                    "question": "Was hat der Museumsdirektor gemacht?",
+                    "teacher-answer": "Er hat zwei Bilder ausgetauscht. In der letzten Woche!",
+                    "question-start": 281.736,
+                    "question-end": 286.104,
+                    "answer-start": 286.104,
+                    "answer-end": 291.408
+                }
+            ]
+        },
+        {
+            "sentence-id": "S06",
+            "original-sentence": "Er hat gestanden, dass er die Gemälde heimlich durch Kopien ersetzt hat.",
+            "drills": [
+                {
+                    "global_index": 32,
+                    "id": "Q01",
+                    "question": "Was hat er getan?",
+                    "teacher-answer": "Er hat gestanden! Er hat gestanden.",
+                    "question-start": 291.408,
+                    "question-end": 294.888,
+                    "answer-start": 294.888,
+                    "answer-end": 299.064
+                },
+                {
+                    "global_index": 33,
+                    "id": "Q02",
+                    "question": "Hat er die Gemälde ersetzt?",
+                    "teacher-answer": "Ja! Er hat die Gemälde ersetzt.",
+                    "question-start": 299.064,
+                    "question-end": 302.952,
+                    "answer-start": 302.952,
+                    "answer-end": 306.72
+                },
+                {
+                    "global_index": 34,
+                    "id": "Q03",
+                    "question": "Was hat er durch Kopien ersetzt?",
+                    "teacher-answer": "Die Gemälde! Er hat die Gemälde durch Kopien ersetzt.",
+                    "question-start": 306.72,
+                    "question-end": 310.992,
+                    "answer-start": 310.992,
+                    "answer-end": 316.2
+                },
+                {
+                    "global_index": 35,
+                    "id": "Q04",
+                    "question": "Offen oder heimlich?",
+                    "teacher-answer": "Heimlich! Er hat sie heimlich ersetzt.",
+                    "question-start": 316.2,
+                    "question-end": 319.608,
+                    "answer-start": 319.608,
+                    "answer-end": 324.096
+                },
+                {
+                    "global_index": 36,
+                    "id": "Q05",
+                    "question": "Was hat er gestanden, dass...?",
+                    "teacher-answer": "...dass er die Gemälde heimlich durch Kopien ersetzt hat! Ganz genau!",
+                    "question-start": 324.096,
+                    "question-end": 327.816,
+                    "answer-start": 327.816,
+                    "answer-end": 333.6
+                },
+                {
+                    "global_index": 37,
+                    "id": "Q06",
+                    "question": "Er hat gestanden, dass er was gemacht hat?",
+                    "teacher-answer": "Dass er die Gemälde heimlich durch Kopien ersetzt hat!",
+                    "question-start": 333.6,
+                    "question-end": 338.112,
+                    "answer-start": 338.112,
+                    "answer-end": 342.12
+                }
+            ]
+        },
+        {
+            "sentence-id": "S07",
+            "original-sentence": "Ein altes Tagebuch hat in der Schublade gelegen.",
+            "drills": [
+                {
+                    "global_index": 38,
+                    "id": "Q01",
+                    "question": "Was hat in der Schublade gelegen?",
+                    "teacher-answer": "Ein altes Tagebuch! Es hat in der Schublade gelegen.",
+                    "question-start": 342.12,
+                    "question-end": 346.008,
+                    "answer-start": 346.008,
+                    "answer-end": 351.144
+                },
+                {
+                    "global_index": 39,
+                    "id": "Q02",
+                    "question": "Ein neues oder ein altes Tagebuch?",
+                    "teacher-answer": "Ein altes Tagebuch! Ganz genau, ein altes!",
+                    "question-start": 351.144,
+                    "question-end": 355.896,
+                    "answer-start": 355.896,
+                    "answer-end": 361.104
+                },
+                {
+                    "global_index": 40,
+                    "id": "Q03",
+                    "question": "Wo hat es gelegen?",
+                    "teacher-answer": "In der Schublade! Es hat in der Schublade gelegen.",
+                    "question-start": 361.104,
+                    "question-end": 364.272,
+                    "answer-start": 364.272,
+                    "answer-end": 369.24
+                },
+                {
+                    "global_index": 41,
+                    "id": "Q04",
+                    "question": "Hat es auf dem Tisch gelegen?",
+                    "teacher-answer": "Nein! Nicht auf dem Tisch. In der Schublade!",
+                    "question-start": 369.24,
+                    "question-end": 372.96,
+                    "answer-start": 372.96,
+                    "answer-end": 378.432
+                },
+                {
+                    "global_index": 42,
+                    "id": "Q05",
+                    "question": "Was war in der Schublade?",
+                    "teacher-answer": "Ein altes Tagebuch! Es hat dort gelegen.",
+                    "question-start": 378.432,
+                    "question-end": 382.08,
+                    "answer-start": 382.08,
+                    "answer-end": 387.216
+                }
+            ]
+        },
+        {
+            "sentence-id": "S08",
+            "original-sentence": "Es hat gezeigt, dass der Familienname ein Anagramm war.",
+            "drills": [
+                {
+                    "global_index": 43,
+                    "id": "Q01",
+                    "question": "Was hat es gezeigt?",
+                    "teacher-answer": "Dass der Familienname ein Anagramm war!",
+                    "question-start": 387.216,
+                    "question-end": 390.456,
+                    "answer-start": 390.456,
+                    "answer-end": 394.128
+                },
+                {
+                    "global_index": 44,
+                    "id": "Q02",
+                    "question": "Was war der Familienname?",
+                    "teacher-answer": "Ein Anagramm! Der Familienname war ein Anagramm.",
+                    "question-start": 394.128,
+                    "question-end": 397.776,
+                    "answer-start": 397.776,
+                    "answer-end": 402.984
+                },
+                {
+                    "global_index": 45,
+                    "id": "Q03",
+                    "question": "War der Familienname ein Wort?",
+                    "teacher-answer": "Nein! Er war ein Anagramm. Ein Anagramm!",
+                    "question-start": 402.984,
+                    "question-end": 406.704,
+                    "answer-start": 406.704,
+                    "answer-end": 412.656
+                },
+                {
+                    "global_index": 46,
+                    "id": "Q04",
+                    "question": "Was hat es gezeigt, dass...?",
+                    "teacher-answer": "...dass der Familienname ein Anagramm war! Richtig!",
+                    "question-start": 412.656,
+                    "question-end": 416.448,
+                    "answer-start": 416.448,
+                    "answer-end": 421.416
+                },
+                {
+                    "global_index": 47,
+                    "id": "Q05",
+                    "question": "Das Tagebuch hat gezeigt, dass was war?",
+                    "teacher-answer": "Dass der Familienname ein Anagramm war!",
+                    "question-start": 421.416,
+                    "question-end": 426.576,
+                    "answer-start": 426.576,
+                    "answer-end": 429.864
+                }
+            ]
+        },
+        {
+            "sentence-id": "S09",
+            "original-sentence": "Die Erben mussten die Buchstaben neu anordnen, um den Code zu lesen.",
+            "drills": [
+                {
+                    "global_index": 48,
+                    "id": "Q01",
+                    "question": "Was mussten die Erben tun?",
+                    "teacher-answer": "Sie mussten die Buchstaben neu anordnen!",
+                    "question-start": 429.864,
+                    "question-end": 434.136,
+                    "answer-start": 434.136,
+                    "answer-end": 437.496
+                },
+                {
+                    "global_index": 49,
+                    "id": "Q02",
+                    "question": "Wer musste die Buchstaben anordnen?",
+                    "teacher-answer": "Die Erben! Sie mussten die Buchstaben neu anordnen.",
+                    "question-start": 437.496,
+                    "question-end": 441.528,
+                    "answer-start": 441.528,
+                    "answer-end": 446.736
+                },
+                {
+                    "global_index": 50,
+                    "id": "Q03",
+                    "question": "Mussten sie die Bilder oder die Buchstaben anordnen?",
+                    "teacher-answer": "Die Buchstaben! Sie mussten die Buchstaben neu anordnen.",
+                    "question-start": 446.736,
+                    "question-end": 451.824,
+                    "answer-start": 451.824,
+                    "answer-end": 456.792
+                },
+                {
+                    "global_index": 51,
+                    "id": "Q04",
+                    "question": "Warum mussten sie die Buchstaben anordnen?",
+                    "teacher-answer": "Um den Code zu lesen! Sie mussten den Code lesen!",
+                    "question-start": 456.792,
+                    "question-end": 461.64,
+                    "answer-start": 461.64,
+                    "answer-end": 466.776
+                },
+                {
+                    "global_index": 52,
+                    "id": "Q05",
+                    "question": "Haben sie die Buchstaben neu angeordnet?",
+                    "teacher-answer": "Ja! Sie haben die Buchstaben neu angeordnet.",
+                    "question-start": 466.776,
+                    "question-end": 471.048,
+                    "answer-start": 471.048,
+                    "answer-end": 475.944
+                },
+                {
+                    "global_index": 53,
+                    "id": "Q06",
+                    "question": "Was haben sie gemacht, um den Code zu lesen?",
+                    "teacher-answer": "Sie haben die Buchstaben neu angeordnet!",
+                    "question-start": 475.944,
+                    "question-end": 481.272,
+                    "answer-start": 481.272,
+                    "answer-end": 484.632
+                }
+            ]
+        },
+        {
+            "sentence-id": "S10",
+            "original-sentence": "Sie konnten die richtige Reihenfolge der drei Bilder bestimmen.",
+            "drills": [
+                {
+                    "global_index": 54,
+                    "id": "Q01",
+                    "question": "Konnten sie die Reihenfolge bestimmen?",
+                    "teacher-answer": "Ja! Sie konnten die richtige Reihenfolge bestimmen.",
+                    "question-start": 484.632,
+                    "question-end": 489.0,
+                    "answer-start": 489.0,
+                    "answer-end": 494.136
+                },
+                {
+                    "global_index": 55,
+                    "id": "Q02",
+                    "question": "Die falsche oder die richtige Reihenfolge?",
+                    "teacher-answer": "Die richtige! Ganz genau, die richtige Reihenfolge!",
+                    "question-start": 494.136,
+                    "question-end": 498.648,
+                    "answer-start": 498.648,
+                    "answer-end": 504.192
+                },
+                {
+                    "global_index": 56,
+                    "id": "Q03",
+                    "question": "Die Reihenfolge wovon?",
+                    "teacher-answer": "Der drei Bilder! Sie konnten die Reihenfolge der drei Bilder bestimmen.",
+                    "question-start": 504.192,
+                    "question-end": 507.744,
+                    "answer-start": 507.744,
+                    "answer-end": 514.152
+                },
+                {
+                    "global_index": 57,
+                    "id": "Q04",
+                    "question": "Wie viele Bilder?",
+                    "teacher-answer": "Drei! Die Reihenfolge der drei Bilder!",
+                    "question-start": 514.152,
+                    "question-end": 517.56,
+                    "answer-start": 517.56,
+                    "answer-end": 522.216
+                },
+                {
+                    "global_index": 58,
+                    "id": "Q05",
+                    "question": "Wer konnte die Reihenfolge bestimmen?",
+                    "teacher-answer": "Sie! Die Erben konnten die Reihenfolge bestimmen.",
+                    "question-start": 522.216,
+                    "question-end": 526.104,
+                    "answer-start": 526.104,
+                    "answer-end": 530.76
+                }
+            ]
+        },
+        {
+            "sentence-id": "S11",
+            "original-sentence": "Das erste Bild muss links hängen, das zweite in der Mitte.",
+            "drills": [
+                {
+                    "global_index": 59,
+                    "id": "Q01",
+                    "question": "Wo muss das erste Bild hängen?",
+                    "teacher-answer": "Links! Es muss links hängen.",
+                    "question-start": 530.76,
+                    "question-end": 534.552,
+                    "answer-start": 534.552,
+                    "answer-end": 538.416
+                },
+                {
+                    "global_index": 60,
+                    "id": "Q02",
+                    "question": "Links oder rechts?",
+                    "teacher-answer": "Links! Das erste Bild muss links hängen.",
+                    "question-start": 538.416,
+                    "question-end": 541.824,
+                    "answer-start": 541.824,
+                    "answer-end": 546.792
+                },
+                {
+                    "global_index": 61,
+                    "id": "Q03",
+                    "question": "Wo muss das zweite Bild hängen?",
+                    "teacher-answer": "In der Mitte! Es muss in der Mitte hängen.",
+                    "question-start": 546.792,
+                    "question-end": 550.512,
+                    "answer-start": 550.512,
+                    "answer-end": 554.928
+                },
+                {
+                    "global_index": 62,
+                    "id": "Q04",
+                    "question": "Und das zweite? Wo?",
+                    "teacher-answer": "In der Mitte! Ja, in der Mitte!",
+                    "question-start": 554.928,
+                    "question-end": 559.2,
+                    "answer-start": 559.2,
+                    "answer-end": 562.968
+                },
+                {
+                    "global_index": 63,
+                    "id": "Q05",
+                    "question": "Das erste muss links, das zweite...?",
+                    "teacher-answer": "...in der Mitte! Das zweite muss in der Mitte hängen!",
+                    "question-start": 562.968,
+                    "question-end": 567.648,
+                    "answer-start": 567.648,
+                    "answer-end": 572.136
+                },
+                {
+                    "global_index": 64,
+                    "id": "Q06",
+                    "question": "Was muss links hängen?",
+                    "teacher-answer": "Das erste Bild! Das erste muss links hängen.",
+                    "question-start": 572.136,
+                    "question-end": 575.544,
+                    "answer-start": 575.544,
+                    "answer-end": 580.512
+                }
+            ]
+        },
+        {
+            "sentence-id": "S12",
+            "original-sentence": "Das dritte Bild muss rechts kommen, damit die Buchstaben ein Wort ergeben.",
+            "drills": [
+                {
+                    "global_index": 65,
+                    "id": "Q01",
+                    "question": "Wo muss das dritte Bild kommen?",
+                    "teacher-answer": "Rechts! Es muss rechts kommen.",
+                    "question-start": 580.512,
+                    "question-end": 584.472,
+                    "answer-start": 584.472,
+                    "answer-end": 588.408
+                },
+                {
+                    "global_index": 66,
+                    "id": "Q02",
+                    "question": "Rechts oder links?",
+                    "teacher-answer": "Rechts! Das dritte muss rechts kommen.",
+                    "question-start": 588.408,
+                    "question-end": 591.576,
+                    "answer-start": 591.576,
+                    "answer-end": 595.752
+                },
+                {
+                    "global_index": 67,
+                    "id": "Q03",
+                    "question": "Was muss rechts kommen?",
+                    "teacher-answer": "Das dritte Bild! Es muss rechts kommen.",
+                    "question-start": 595.752,
+                    "question-end": 599.064,
+                    "answer-start": 599.064,
+                    "answer-end": 603.168
+                },
+                {
+                    "global_index": 68,
+                    "id": "Q04",
+                    "question": "Was ergibt sich aus den Buchstaben?",
+                    "teacher-answer": "Ein Wort! Die Buchstaben ergeben ein Wort.",
+                    "question-start": 603.168,
+                    "question-end": 606.96,
+                    "answer-start": 606.96,
+                    "answer-end": 611.544
+                },
+                {
+                    "global_index": 69,
+                    "id": "Q05",
+                    "question": "Warum muss das dritte Bild rechts kommen?",
+                    "teacher-answer": "Damit die Buchstaben ein Wort ergeben!",
+                    "question-start": 611.544,
+                    "question-end": 615.912,
+                    "answer-start": 615.912,
+                    "answer-end": 619.104
+                },
+                {
+                    "global_index": 70,
+                    "id": "Q06",
+                    "question": "Das dritte Bild muss rechts kommen, damit...?",
+                    "teacher-answer": "...damit die Buchstaben ein Wort ergeben! Ganz genau!",
+                    "question-start": 619.104,
+                    "question-end": 623.952,
+                    "answer-start": 623.952,
+                    "answer-end": 629.016
+                }
+            ]
+        },
+        {
+            "sentence-id": "S13",
+            "original-sentence": "Als sie die Bilder so aufgehängt haben, hat sich eine Tür geöffnet.",
+            "drills": [
+                {
+                    "global_index": 71,
+                    "id": "Q01",
+                    "question": "Was haben sie aufgehängt?",
+                    "teacher-answer": "Die Bilder! Sie haben die Bilder aufgehängt.",
+                    "question-start": 629.016,
+                    "question-end": 632.328,
+                    "answer-start": 632.328,
+                    "answer-end": 636.744
+                },
+                {
+                    "global_index": 72,
+                    "id": "Q02",
+                    "question": "Wer hat die Bilder aufgehängt?",
+                    "teacher-answer": "Sie! Die Erben haben die Bilder aufgehängt.",
+                    "question-start": 636.744,
+                    "question-end": 640.224,
+                    "answer-start": 640.224,
+                    "answer-end": 644.568
+                },
+                {
+                    "global_index": 73,
+                    "id": "Q03",
+                    "question": "Wie haben sie die Bilder aufgehängt?",
+                    "teacher-answer": "So! Sie haben die Bilder so aufgehängt. Richtig!",
+                    "question-start": 644.568,
+                    "question-end": 648.36,
+                    "answer-start": 648.36,
+                    "answer-end": 654.792
+                },
+                {
+                    "global_index": 74,
+                    "id": "Q04",
+                    "question": "Was hat sich geöffnet?",
+                    "teacher-answer": "Eine Tür! Sich eine Tür hat geöffnet.",
+                    "question-start": 654.792,
+                    "question-end": 658.032,
+                    "answer-start": 658.032,
+                    "answer-end": 663.168
+                },
+                {
+                    "global_index": 75,
+                    "id": "Q05",
+                    "question": "Was hat sich geöffnet, als sie die Bilder aufgehängt haben?",
+                    "teacher-answer": "Eine Tür! Als sie die Bilder so aufgehängt haben, hat sich eine Tür geöffnet!",
+                    "question-start": 663.168,
+                    "question-end": 668.256,
+                    "answer-start": 668.256,
+                    "answer-end": 674.664
+                },
+                {
+                    "global_index": 76,
+                    "id": "Q06",
+                    "question": "Als sie die Bilder so aufgehängt haben, was ist passiert?",
+                    "teacher-answer": "Eine Tür hat sich geöffnet! Wow!",
+                    "question-start": 674.664,
+                    "question-end": 680.232,
+                    "answer-start": 680.232,
+                    "answer-end": 684.48
+                },
+                {
+                    "global_index": 77,
+                    "id": "Q07",
+                    "question": "Als sie die Bilder aufgehängt haben, hat sich...?",
+                    "teacher-answer": "...eine Tür geöffnet! Ja! Eine Tür!",
+                    "question-start": 684.48,
+                    "question-end": 689.328,
+                    "answer-start": 689.328,
+                    "answer-end": 694.896
+                }
+            ]
+        },
+        {
+            "sentence-id": "S14",
+            "original-sentence": "Dahinter hat ein alter Koffer mit dem vollständigen Erbe gelegen.",
+            "drills": [
+                {
+                    "global_index": 78,
+                    "id": "Q01",
+                    "question": "Was hat dahinter gelegen?",
+                    "teacher-answer": "Ein alter Koffer! Er hat dort gelegen.",
+                    "question-start": 694.896,
+                    "question-end": 698.784,
+                    "answer-start": 698.784,
+                    "answer-end": 703.272
+                },
+                {
+                    "global_index": 79,
+                    "id": "Q02",
+                    "question": "Ein neuer oder ein alter Koffer?",
+                    "teacher-answer": "Ein alter Koffer! Ganz genau, ein alter!",
+                    "question-start": 703.272,
+                    "question-end": 707.064,
+                    "answer-start": 707.064,
+                    "answer-end": 712.2
+                },
+                {
+                    "global_index": 80,
+                    "id": "Q03",
+                    "question": "Wo hat der Koffer gelegen?",
+                    "teacher-answer": "Dahinter! Er hat dahinter gelegen.",
+                    "question-start": 712.2,
+                    "question-end": 716.16,
+                    "answer-start": 716.16,
+                    "answer-end": 720.264
+                },
+                {
+                    "global_index": 81,
+                    "id": "Q04",
+                    "question": "Was war im Koffer?",
+                    "teacher-answer": "Das vollständige Erbe! Der Koffer hatte das vollständige Erbe!",
+                    "question-start": 720.264,
+                    "question-end": 723.984,
+                    "answer-start": 723.984,
+                    "answer-end": 729.672
+                },
+                {
+                    "global_index": 82,
+                    "id": "Q05",
+                    "question": "Mit was für einem Erbe?",
+                    "teacher-answer": "Mit dem vollständigen Erbe! Oh wow!",
+                    "question-start": 729.672,
+                    "question-end": 733.32,
+                    "answer-start": 733.32,
+                    "answer-end": 737.664
+                },
+                {
+                    "global_index": 83,
+                    "id": "Q06",
+                    "question": "Was hat ein alter Koffer mit dem vollständigen Erbe gemacht?",
+                    "teacher-answer": "Dahinter gelegen! Er hat dahinter gelegen mit dem vollständigen Erbe!",
+                    "question-start": 737.664,
+                    "question-end": 742.992,
+                    "answer-start": 742.992,
+                    "answer-end": 749.256
+                }
+            ]
+        },
+        {
+            "sentence-id": "S15",
+            "original-sentence": "Die Erben waren glücklich, denn sie hatten das Rätsel gelöst.",
+            "drills": [
+                {
+                    "global_index": 84,
+                    "id": "Q01",
+                    "question": "Wie waren die Erben?",
+                    "teacher-answer": "Glücklich! Sie waren glücklich.",
+                    "question-start": 749.256,
+                    "question-end": 752.736,
+                    "answer-start": 752.736,
+                    "answer-end": 756.264
+                },
+                {
+                    "global_index": 85,
+                    "id": "Q02",
+                    "question": "Warum waren sie glücklich?",
+                    "teacher-answer": "Weil sie das Rätsel gelöst hatten!",
+                    "question-start": 756.264,
+                    "question-end": 759.576,
+                    "answer-start": 759.576,
+                    "answer-end": 762.456
+                },
+                {
+                    "global_index": 86,
+                    "id": "Q03",
+                    "question": "Warum? Warum waren sie glücklich?",
+                    "teacher-answer": "Denn sie hatten das Rätsel gelöst! Ganz genau!",
+                    "question-start": 762.456,
+                    "question-end": 766.896,
+                    "answer-start": 766.896,
+                    "answer-end": 771.624
+                },
+                {
+                    "global_index": 87,
+                    "id": "Q04",
+                    "question": "Was hatten sie gelöst?",
+                    "teacher-answer": "Das Rätsel! Sie hatten das Rätsel gelöst.",
+                    "question-start": 771.624,
+                    "question-end": 775.176,
+                    "answer-start": 775.176,
+                    "answer-end": 779.832
+                },
+                {
+                    "global_index": 88,
+                    "id": "Q05",
+                    "question": "Die Erben waren glücklich, denn...?",
+                    "teacher-answer": "...denn sie hatten das Rätsel gelöst! Mega!",
+                    "question-start": 779.832,
+                    "question-end": 783.96,
+                    "answer-start": 783.96,
+                    "answer-end": 788.448
+                },
+                {
+                    "global_index": 89,
+                    "id": "Q06",
+                    "question": "Hatten sie das Rätsel gelöst oder nicht?",
+                    "teacher-answer": "Doch! Sie hatten das Rätsel gelöst. Deshalb waren sie glücklich!",
+                    "question-start": 788.448,
+                    "question-end": 792.816,
+                    "answer-start": 792.816,
+                    "answer-end": 800.208
+                }
+            ]
+        }
+    ]
+}
