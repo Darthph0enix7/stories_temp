@@ -1,0 +1,424 @@
+﻿1
+00:00:00,000 --> 00:00:03,480
+Hat sich der Mann verändert?
+
+2
+00:00:03,480 --> 00:00:08,376
+Ja, leider! Er hat sich sehr verändert.
+
+3
+00:00:08,376 --> 00:00:14,904
+Hat er sich nach 39 Jahren oder nach 3 Jahren verändert?
+
+4
+00:00:14,904 --> 00:00:19,488
+Nach 39 Jahren! Ganz genau!
+
+5
+00:00:19,488 --> 00:00:23,448
+Wie lange war die Ehe?
+
+6
+00:00:23,448 --> 00:00:28,032
+39 Jahre! Eine sehr lange Zeit!
+
+7
+00:00:28,032 --> 00:00:32,304
+Hat er sich sehr oder nur ein bisschen verändert?
+
+8
+00:00:32,304 --> 00:00:36,408
+Sehr! Leider sehr!
+
+9
+00:00:36,408 --> 00:00:40,128
+Zeigt er ihr Zärtlichkeit?
+
+10
+00:00:40,128 --> 00:00:44,376
+Nein, nein! Keine Zärtlichkeit mehr!
+
+11
+00:00:44,376 --> 00:00:48,504
+Zeigt er ihr Zärtlichkeit oder Kälte?
+
+12
+00:00:48,504 --> 00:00:52,200
+Kälte! Leider Kälte!
+
+13
+00:00:52,200 --> 00:00:55,440
+Umarmen sie sich oft?
+
+14
+00:00:55,440 --> 00:00:59,136
+Nein, nein! Fast nie!
+
+15
+00:00:59,136 --> 00:01:03,096
+Wie oft umarmen sie sich?
+
+16
+00:01:03,096 --> 00:01:05,087
+Fast nie!
+
+17
+00:01:05,087 --> 00:01:09,528
+Umarmen sie sich nie oder fast nie?
+
+18
+00:01:09,528 --> 00:01:14,352
+Fast nie! Nicht nie, aber fast nie.
+
+19
+00:01:14,352 --> 00:01:20,064
+Zeigt er ihr Zärtlichkeit? Zeigt er ihr Zärtlichkeit?
+
+20
+00:01:20,064 --> 00:01:23,928
+Nein! Keine Zärtlichkeit mehr!
+
+21
+00:01:23,928 --> 00:01:27,816
+Wer zeigt keine Zärtlichkeit?
+
+22
+00:01:27,816 --> 00:01:30,960
+Er! Der Mann!
+
+23
+00:01:30,960 --> 00:01:34,848
+Wem zeigt er keine Zärtlichkeit?
+
+24
+00:01:34,848 --> 00:01:38,232
+Ihr! Seiner Frau!
+
+25
+00:01:38,232 --> 00:01:42,360
+Hat sie ihn durch Krankheiten begleitet?
+
+26
+00:01:42,360 --> 00:01:46,368
+Ja! Durch schwere Krankheiten!
+
+27
+00:01:46,368 --> 00:01:50,880
+Welche Krankheiten hatte er?
+
+28
+00:01:50,880 --> 00:01:53,352
+Krebs und Diabetes!
+
+29
+00:01:53,352 --> 00:01:56,592
+Krebs und Grippe?
+
+30
+00:01:56,592 --> 00:02:00,936
+Nein, nein! Krebs und Diabetes!
+
+31
+00:02:00,936 --> 00:02:04,248
+Wer hat ihn begleitet?
+
+32
+00:02:04,248 --> 00:02:07,632
+Sie! Die Frau!
+
+33
+00:02:07,632 --> 00:02:11,039
+Hat sie ihn auch unterstützt?
+
+34
+00:02:11,039 --> 00:02:14,424
+Ja! Immer unterstützt!
+
+35
+00:02:14,424 --> 00:02:18,312
+Hat sie ihn manchmal oder immer unterstützt?
+
+36
+00:02:18,312 --> 00:02:22,416
+Immer! Die ganze Zeit!
+
+37
+00:02:22,416 --> 00:02:25,968
+Durch was für Krankheiten?
+
+38
+00:02:25,968 --> 00:02:28,776
+Schwere Krankheiten!
+
+39
+00:02:28,776 --> 00:02:32,328
+Sie hat ihn begleitet und...?
+
+40
+00:02:32,328 --> 00:02:36,504
+...und unterstützt! Richtig!
+
+41
+00:02:36,504 --> 00:02:39,744
+Haben sie Kinder?
+
+42
+00:02:39,744 --> 00:02:43,272
+Ja! Vier Kinder!
+
+43
+00:02:43,272 --> 00:02:47,400
+Haben sie zwei oder vier Kinder?
+
+44
+00:02:47,400 --> 00:02:50,856
+Vier! Ganz genau!
+
+45
+00:02:50,856 --> 00:02:54,168
+Sind die Kinder erwachsen?
+
+46
+00:02:54,168 --> 00:02:57,552
+Ja! Alle erwachsen!
+
+47
+00:02:57,552 --> 00:03:01,344
+Besuchen sie eine Therapie?
+
+48
+00:03:01,344 --> 00:03:04,800
+Ja! Eine Therapie!
+
+49
+00:03:04,800 --> 00:03:08,592
+Besuchen sie die Therapie zusammen?
+
+50
+00:03:08,592 --> 00:03:12,048
+Ja! Gemeinsam!
+
+51
+00:03:12,048 --> 00:03:16,080
+Seit wann besuchen sie die Therapie?
+
+52
+00:03:16,080 --> 00:03:19,032
+Seit anderthalb Jahren!
+
+53
+00:03:19,032 --> 00:03:23,952
+Seit einem Jahr oder anderthalb Jahren?
+
+54
+00:03:23,952 --> 00:03:28,200
+Anderthalb Jahren! Länger!
+
+55
+00:03:28,200 --> 00:03:32,160
+Wer besucht die Therapie?
+
+56
+00:03:32,160 --> 00:03:35,856
+Sie beide! Zusammen!
+
+57
+00:03:35,856 --> 00:03:39,888
+Ist er noch freundlich?
+
+58
+00:03:39,888 --> 00:03:44,304
+Ja! Weiterhin freundlich!
+
+59
+00:03:44,304 --> 00:03:48,744
+Ist er freundlich und großzügig?
+
+60
+00:03:48,744 --> 00:03:51,960
+Ja! Beides!
+
+61
+00:03:51,960 --> 00:03:54,960
+Was fehlt ihr?
+
+62
+00:03:54,960 --> 00:03:58,896
+Die Komplimente! Und der Humor!
+
+63
+00:03:58,896 --> 00:04:03,504
+Fehlen ihr die Komplimente oder die Kinder?
+
+64
+00:04:03,504 --> 00:04:05,424
+Die Komplimente!
+
+65
+00:04:05,424 --> 00:04:08,832
+Was für Humor fehlt?
+
+66
+00:04:08,832 --> 00:04:11,160
+Unser alter Humor!
+
+67
+00:04:11,160 --> 00:04:16,079
+Fehlt ihr der Humor oder die Geduld?
+
+68
+00:04:16,079 --> 00:04:17,928
+Der Humor!
+
+69
+00:04:17,928 --> 00:04:22,055
+Fehlt ihr der neue oder der alte Humor?
+
+70
+00:04:22,055 --> 00:04:24,144
+Der alte Humor!
+
+71
+00:04:24,144 --> 00:04:28,584
+Er ist zwar freundlich, aber...?
+
+72
+00:04:28,584 --> 00:04:32,352
+...aber ihr fehlen die Komplimente und der Humor!
+
+73
+00:04:32,352 --> 00:04:36,240
+Versichert er ihr etwas?
+
+74
+00:04:36,240 --> 00:04:40,248
+Ja! Er versichert ihr!
+
+75
+00:04:40,248 --> 00:04:43,656
+Was versichert er?
+
+76
+00:04:43,656 --> 00:04:46,056
+Dass er keine Affäre hat!
+
+77
+00:04:46,056 --> 00:04:49,536
+Hat er eine Affäre?
+
+78
+00:04:49,536 --> 00:04:53,160
+Nein! Keine Affäre!
+
+79
+00:04:53,160 --> 00:04:57,528
+Hat er eine Affäre oder keine Affäre?
+
+80
+00:04:57,528 --> 00:04:59,448
+Keine Affäre!
+
+81
+00:04:59,448 --> 00:05:04,440
+Kann er erklären, warum er distanziert ist?
+
+82
+00:05:04,440 --> 00:05:08,304
+Nein! Er kann nicht erklären!
+
+83
+00:05:08,304 --> 00:05:11,952
+Was kann er nicht erklären?
+
+84
+00:05:11,952 --> 00:05:15,144
+Warum er so distanziert geworden ist!
+
+85
+00:05:15,144 --> 00:05:18,144
+Wie ist er geworden?
+
+86
+00:05:18,144 --> 00:05:20,136
+Distanziert!
+
+87
+00:05:20,136 --> 00:05:23,856
+Er versichert mir, dass...?
+
+88
+00:05:23,856 --> 00:05:26,736
+...dass er keine Affäre hat!
+
+89
+00:05:26,736 --> 00:05:32,136
+Er versichert mir, dass er keine Affäre hat, aber...?
+
+90
+00:05:32,136 --> 00:05:35,904
+...aber er kann nicht erklären, warum er distanziert ist!
+
+91
+00:05:35,904 --> 00:05:39,144
+Hat sie eine Idee?
+
+92
+00:05:39,144 --> 00:05:43,488
+Ja! Sie fragt nach einer Idee!
+
+93
+00:05:43,488 --> 00:05:47,040
+Was möchte sie wissen?
+
+94
+00:05:47,040 --> 00:05:49,680
+Ob ich eine Idee habe!
+
+95
+00:05:49,680 --> 00:05:53,808
+Was könnte das Problem sein?
+
+96
+00:05:53,808 --> 00:05:56,280
+Woran das liegen könnte!
+
+97
+00:05:56,280 --> 00:05:59,520
+Was könnte sie tun?
+
+98
+00:05:59,520 --> 00:06:01,608
+Was sie tun kann!
+
+99
+00:06:01,608 --> 00:06:05,568
+Fragt sie nach Ideen?
+
+100
+00:06:05,568 --> 00:06:09,744
+Ja! Vielleicht eine Idee!
+
+101
+00:06:09,744 --> 00:06:13,296
+Was fragt sie noch?
+
+102
+00:06:13,296 --> 00:06:15,384
+Was sie tun kann!
+
+103
+00:06:15,384 --> 00:06:18,936
+Worüber fragt sie?
+
+104
+00:06:18,936 --> 00:06:21,168
+Ob ich Ideen habe!
+
+105
+00:06:21,168 --> 00:06:25,920
+Sie fragt, ob Sie eine Idee haben oder nicht?
+
+106
+00:06:25,920 --> 00:06:28,560
+Sie fragt nach einer Idee!
+
