@@ -1,0 +1,1662 @@
+{
+    "level": "A2",
+    "title": "Ein Kuss",
+    "story": "Carlos kauft ein neues Auto. Es ist ein sehr teures Auto. Es ist ein riesiges, blaues, schnelles Auto. Während er die Straße entlangfährt, sieht Carlos ein Mädchen auf einem Fahrrad. Sie hat lange blonde Haare und ist schön. Er ruft ihr zu: „Was gibt's?“ Sie ignoriert ihn. Er ruft: „Wie geht's?“ Sie fährt weiter und ignoriert ihn. Er ruft: „Hey, warum sprichst du nicht mit mir? Ich möchte mit dir essen gehen. Ich lade dich in ein teures Restaurant ein.“ Das Mädchen dreht sich um, steigt vom Fahrrad und sieht ihn an. Sie sagt: „Ich möchte nicht essen gehen. Aber wenn du mir dein Auto gibst, gebe ich dir eine Überraschung.“ Carlos sagt: „Okay!“ Er springt aus dem Auto. Er gibt ihr die Schlüssel und sagt: „Hier sind die Schlüssel.“ Die schöne Blondine nimmt die Schlüssel und dann küsst sie Carlos auf die Wange. Dann springt sie in das Auto und fährt weg. Carlos steht auf dem Bürgersteig. Jetzt hat er kein Auto und kein Mädchen. Er sagt: „Das ist alles, nur ein Kuss auf die Wange?“ Er steigt auf ihr Fahrrad und fährt nach Hause.",
+    "md-text": "Carlos kauft ein neues Auto. Es ist ein sehr teures Auto. Es ist ein riesiges, blaues, schnelles Auto. Während er die Straße entlangfährt, sieht Carlos ein Mädchen auf einem **Fahrrad**. Sie hat lange blonde Haare und ist schön. Er ruft ihr zu: „Was gibt's?“ Sie ignoriert ihn. Er ruft: „Wie geht's?“ Sie fährt weiter und ignoriert ihn. Er ruft: „Hey, warum sprichst du nicht mit mir? Ich möchte mit dir essen gehen. Ich lade dich in ein teures **Restaurant** ein.“ Das Mädchen dreht sich um, steigt vom Fahrrad und sieht ihn an. Sie sagt: „Ich möchte nicht essen gehen. Aber wenn du mir dein Auto gibst, gebe ich dir eine **Überraschung**.“ Carlos sagt: „Okay!“ Er springt aus dem Auto. Er gibt ihr die **Schlüssel** und sagt: „Hier sind die Schlüssel.“ Die schöne Blondine nimmt die Schlüssel und dann küsst sie Carlos auf die Wange. Dann springt sie in das Auto und fährt weg. Carlos steht auf dem **Bürgersteig**. Jetzt hat er kein Auto und kein Mädchen. Er sagt: „Das ist alles, nur ein Kuss auf die Wange?“ Er steigt auf ihr Fahrrad und fährt nach Hause.",
+    "sentences": [
+        {
+            "id": 1,
+            "text": "Carlos kauft ein neues Auto.",
+            "sentence-start": 2.088,
+            "sentence-end": 5.376
+        },
+        {
+            "id": 2,
+            "text": "Es ist ein sehr teures Auto.",
+            "sentence-start": 5.376,
+            "sentence-end": 8.424
+        },
+        {
+            "id": 3,
+            "text": "Es ist ein riesiges, blaues, schnelles Auto.",
+            "sentence-start": 8.424,
+            "sentence-end": 12.504
+        },
+        {
+            "id": 4,
+            "text": "Während er die Straße entlangfährt, sieht Carlos ein Mädchen auf einem Fahrrad.",
+            "sentence-start": 12.504,
+            "sentence-end": 18.336
+        },
+        {
+            "id": 5,
+            "text": "Sie hat lange blonde Haare und ist schön.",
+            "sentence-start": 18.336,
+            "sentence-end": 21.624
+        },
+        {
+            "id": 6,
+            "text": "Er ruft ihr zu: „Was gibt's?“",
+            "sentence-start": 21.624,
+            "sentence-end": 24.912
+        },
+        {
+            "id": 7,
+            "text": "Sie ignoriert ihn.",
+            "sentence-start": 24.912,
+            "sentence-end": 27.0
+        },
+        {
+            "id": 8,
+            "text": "Er ruft: „Wie geht's?“",
+            "sentence-start": 27.0,
+            "sentence-end": 29.952
+        },
+        {
+            "id": 9,
+            "text": "Sie fährt weiter und ignoriert ihn.",
+            "sentence-start": 29.952,
+            "sentence-end": 33.24
+        },
+        {
+            "id": 10,
+            "text": "Er ruft: „Hey, warum sprichst du nicht mit mir?“",
+            "sentence-start": 33.24,
+            "sentence-end": 38.112
+        },
+        {
+            "id": 11,
+            "text": "Ich möchte mit dir essen gehen.",
+            "sentence-start": 38.112,
+            "sentence-end": 40.992
+        },
+        {
+            "id": 12,
+            "text": "Ich lade dich in ein teures Restaurant ein.",
+            "sentence-start": 40.992,
+            "sentence-end": 44.76
+        },
+        {
+            "id": 13,
+            "text": "Das Mädchen dreht sich um, steigt vom Fahrrad und sieht ihn an.",
+            "sentence-start": 44.76,
+            "sentence-end": 49.728
+        },
+        {
+            "id": 14,
+            "text": "Sie sagt: „Ich möchte nicht essen gehen.",
+            "sentence-start": 49.728,
+            "sentence-end": 53.088
+        },
+        {
+            "id": 15,
+            "text": "Aber wenn du mir dein Auto gibst, gebe ich dir eine Überraschung.",
+            "sentence-start": 53.088,
+            "sentence-end": 57.648
+        },
+        {
+            "id": 16,
+            "text": "Carlos sagt: „Okay!“",
+            "sentence-start": 57.648,
+            "sentence-end": 60.6
+        },
+        {
+            "id": 17,
+            "text": "Er springt aus dem Auto.",
+            "sentence-start": 60.6,
+            "sentence-end": 63.072
+        },
+        {
+            "id": 18,
+            "text": "Er gibt ihr die Schlüssel und sagt: „Hier sind die Schlüssel.“",
+            "sentence-start": 63.072,
+            "sentence-end": 67.224
+        },
+        {
+            "id": 19,
+            "text": "Die schöne Blondine nimmt die Schlüssel und dann küsst sie Carlos auf die Wange.",
+            "sentence-start": 67.224,
+            "sentence-end": 72.576
+        },
+        {
+            "id": 20,
+            "text": "Dann springt sie in das Auto und fährt weg.",
+            "sentence-start": 72.576,
+            "sentence-end": 76.104
+        },
+        {
+            "id": 21,
+            "text": "Carlos steht auf dem Bürgersteig.",
+            "sentence-start": 76.104,
+            "sentence-end": 79.224
+        },
+        {
+            "id": 22,
+            "text": "Jetzt hat er kein Auto und kein Mädchen.",
+            "sentence-start": 79.224,
+            "sentence-end": 82.752
+        },
+        {
+            "id": 23,
+            "text": "Er sagt: „Das ist alles, nur ein Kuss auf die Wange?“",
+            "sentence-start": 82.752,
+            "sentence-end": 87.792
+        },
+        {
+            "id": 24,
+            "text": "Er steigt auf ihr Fahrrad und fährt nach Hause.",
+            "sentence-start": 87.792,
+            "sentence-end": 91.704
+        }
+    ],
+    "highlight-words": [
+        "Fahrrad",
+        "Bürgersteig",
+        "Schlüssel",
+        "Überraschung",
+        "ignorieren",
+        "wegfahren",
+        "umdrehen",
+        "einladen",
+        "blond",
+        "Restaurant"
+    ],
+    "lexical-data": [
+        {
+            "word-key": "Fahrrad",
+            "type": "noun",
+            "morphology": "das Fahrrad (die Fahrräder)",
+            "mini-definition": "Ein Fahrrad hat zwei Räder. Man fährt damit ohne Benzin. Es ist gut für die Umwelt.",
+            "explanation": "Ein Fahrrad ist ein beliebtes Verkehrsmittel. Stell dir vor: Du fährst damit zur Schule oder zur Arbeit. Das Fahrrad hat Pedale, einen Sattel und Lenker. In Deutschland fahren viele Menschen Fahrrad, besonders im Sommer. Es gibt auch spezielle Wege nur für Fahrräder. Tipp: Ein gutes Fahrrad muss nicht teuer sein!",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Mein Sohn bekommt ein neues Fahrrad zum Geburtstag."
+                },
+                {
+                    "id": 2,
+                    "text": "Ich fahre jeden Tag mit dem Fahrrad zur Arbeit."
+                },
+                {
+                    "id": 3,
+                    "text": "Wir machen am Wochenende eine Fahrradtour im Park."
+                }
+            ],
+            "question": "Hast du auch ein Fahrrad oder möchtest du eines haben?",
+            "lexical-start": 0.0,
+            "lexical-end": 69.288
+        },
+        {
+            "word-key": "Bürgersteig",
+            "type": "noun",
+            "morphology": "der Bürgersteig (die Bürgersteige)",
+            "mini-definition": "Der Bürgersteig ist der Weg für Fußgänger. Autos fahren dort nicht. Er liegt neben der Straße.",
+            "explanation": "Der Bürgersteig ist der Gehweg an der Straße. Schau mal: Wenn du zu Fuß gehst, läufst du meistens auf dem Bürgersteig. Autos und Fahrräder dürfen dort normalerweise nicht fahren. Der Bürgersteig ist also ein sicherer Weg für Menschen. Manchmal gibt es dort auch Geschäfte oder Bäume.",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Der Bürgersteig ist heute nass, weil es geregnet hat."
+                },
+                {
+                    "id": 2,
+                    "text": "Pass auf! Ein Hund läuft auf dem Bürgersteig."
+                },
+                {
+                    "id": 3,
+                    "text": "Auf dem Bürgersteig stehen viele Blumen in Töpfen."
+                }
+            ],
+            "question": "Läufst du lieber auf dem Bürgersteig oder auf der Straße?",
+            "lexical-start": 69.288,
+            "lexical-end": 138.936
+        },
+        {
+            "word-key": "Schlüssel",
+            "type": "noun",
+            "morphology": "der Schlüssel (die Schlüssel)",
+            "mini-definition": "Ein Schlüssel öffnet die Tür. Man braucht ihn für das Haus. Ohne Schlüssel kommt man nicht rein.",
+            "explanation": "Der Schlüssel ist sehr wichtig für das tägliche Leben. Stell dir vor: Du kommst nach Hause und öffnest die Tür mit dem Schlüssel. Es gibt verschiedene Schlüssel: für die Haustür, die Autotür oder den Keller. Tipp: Mach immer eine Kopie von deinem Schlüssel! So hast du einen Ersatz, wenn du ihn verlierst.",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Ich habe meinen Schlüssel im Bus verloren."
+                },
+                {
+                    "id": 2,
+                    "text": "Der Schlüssel steckt im Schloss der Haustür."
+                },
+                {
+                    "id": 3,
+                    "text": "Mein Vater hat mir einen neuen Schlüssel gegeben."
+                }
+            ],
+            "question": "Wo bewahrst du normalerweise deinen Schlüssel auf?",
+            "lexical-start": 138.936,
+            "lexical-end": 201.456
+        },
+        {
+            "word-key": "Überraschung",
+            "type": "noun",
+            "morphology": "die Überraschung (die Überraschungen)",
+            "mini-definition": "Eine Überraschung kommt unerwartet. Man weiß nicht, was passiert. Das macht oft Freude.",
+            "explanation": "Eine Überraschung ist etwas, womit man nicht rechnet. Gut zu wissen: Es gibt gute und manchmal auch schlechte Überraschungen. Stell dir vor: Deine Freunde kommen ohne Grund zu dir nach Hause. Das ist eine schöne Überraschung! Geburtstage sind auch immer mit Überraschungen verbunden.",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Meine Mutter hat eine Überraschung für mich gebacken."
+                },
+                {
+                    "id": 2,
+                    "text": "Die Überraschungsparty war wirklich toll!"
+                },
+                {
+                    "id": 3,
+                    "text": "Es war eine große Überraschung, dass er so gut singen kann."
+                }
+            ],
+            "question": "Hast du schon einmal eine schöne Überraschung bekommen?",
+            "lexical-start": 201.456,
+            "lexical-end": 265.824
+        },
+        {
+            "word-key": "ignorieren",
+            "type": "verb",
+            "morphology": "ignorieren (ignoriert, hat ignoriert, ignorierte)",
+            "mini-definition": "Ignorieren heißt: Man sieht etwas, aber man tut nichts. Man macht absichtlich so, als sieht man es nicht.",
+            "explanation": "Wenn man jemanden oder etwas ignoriert, dann tut man so, als existiert es nicht. Schau mal: Wenn jemand winkt, aber du winkst nicht zurück, dann ignorierst du diese Person. Das ist nicht immer nett. Manchmal ignoriert man aber auch Dinge bewusst, die nicht wichtig sind.",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Mein Bruder ignoriert mich, wenn er schlechte Laune hat."
+                },
+                {
+                    "id": 2,
+                    "text": "Du kannst die Werbung im Internet ignorieren."
+                },
+                {
+                    "id": 3,
+                    "text": "Sie hat meine Frage komplett ignoriert."
+                }
+            ],
+            "question": "Ignorierst du manchmal Nachrichten von deinen Freunden?",
+            "lexical-start": 265.824,
+            "lexical-end": 332.16
+        },
+        {
+            "word-key": "wegfahren",
+            "type": "verb",
+            "morphology": "wegfahren (fährt weg, ist weggefahren, fuhr weg)",
+            "mini-definition": "Wegfahren heißt: Man fährt von einem Ort weg. Man verlässt den Platz, wo man gerade ist.",
+            "explanation": "Das Wort „wegfahren“ benutzt man oft im Alltag. Stell dir vor: Du bist zu Hause und dann fährst du mit dem Auto in die Stadt. Dann fährst du weg! Gut zu wissen: „wegfahren“ nutzt man auch für Urlaub. „Wir fahren übers Wochenende weg“ bedeutet: Wir reisen in den Urlaub.",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Wir fahren morgen in den Urlaub weg."
+                },
+                {
+                    "id": 2,
+                    "text": "Der Bus ist schon weggefahren, bevor ich ankam."
+                },
+                {
+                    "id": 3,
+                    "text": "Meine Eltern sind letztes Wochenende weggefahren."
+                }
+            ],
+            "question": "Wohin möchtest du gerne wegfahren?",
+            "lexical-start": 332.16,
+            "lexical-end": 397.368
+        },
+        {
+            "word-key": "umdrehen",
+            "type": "verb",
+            "morphology": "umdrehen (dreht um, hat umgedreht, drehte um)",
+            "mini-definition": "Umdrehen heißt: Man dreht sich oder etwas in die andere Richtung. Man dreht es auf die andere Seite.",
+            "explanation": "„Umdrehen“ kann verschiedene Bedeutungen haben. Schau mal: Wenn du dich im Kreis drehst und dann in die andere Richtung schaust, dann drehst du dich um. Auch bei einem Blatt Papier kannst du es umdrehen. Tipp: „Ich drehe mich um“ bedeutet auch: Ich schaue nach hinten.",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Er hat sich erschrocken und ist schnell umgedreht."
+                },
+                {
+                    "id": 2,
+                    "text": "Dreh bitte den Kuchen im Ofen um."
+                },
+                {
+                    "id": 3,
+                    "text": "Ich habe mich umgedreht und meinen Freund gesehen."
+                }
+            ],
+            "question": "Drehst du dich manchmal im Bett um, wenn du nicht schlafen kannst?",
+            "lexical-start": 397.368,
+            "lexical-end": 465.672
+        },
+        {
+            "word-key": "einladen",
+            "type": "verb",
+            "morphology": "einladen (lädt ein, hat eingeladen, lud ein)",
+            "mini-definition": "Einladen heißt: Man bittet jemanden zu sich. Man möchte, dass die Person kommt und mitmacht.",
+            "explanation": "Wenn du jemanden einlädst, dann möchtest du diese Person bei dir haben. Stell dir vor: Du feierst Geburtstag und lädst alle deine Freunde ein. Gut zu wissen: „einladen“ kann auch bedeuten, dass jemand etwas bezahlt. „Ich lade dich ein“ heißt dann: Du musst kein Geld bezahlen!",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Ich lade dich ein, morgen Abend vorbeizukommen."
+                },
+                {
+                    "id": 2,
+                    "text": "Meine Eltern haben mich zum Essen in ein Restaurant eingeladen."
+                },
+                {
+                    "id": 3,
+                    "text": "Er hat alle Kollegen zur Party eingeladen."
+                }
+            ],
+            "question": "Wen möchtest du gerne zu dir nach Hause einladen?",
+            "lexical-start": 465.672,
+            "lexical-end": 532.824
+        },
+        {
+            "word-key": "blond",
+            "type": "adjective",
+            "morphology": "blond (Gegenteil: dunkel, braun)",
+            "mini-definition": "Blond ist eine helle Haarfarbe. Die Haare sind gelblich oder hellbraun. Viele Menschen in Nordeuropa haben blondes Haar.",
+            "explanation": "Blond beschreibt eine bestimmte Haarfarbe. Schau mal: Hellgelbe oder hellbraune Haare nennt man blond. Kleine Kinder sind oft blond, und dann werden ihre Haare mit der Zeit dunkler. Gut zu wissen: Man kann auch sagen „blond sein“ oder „blonde Haare haben“. Beides ist richtig!",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Meine Schwester hat lange blonde Haare."
+                },
+                {
+                    "id": 2,
+                    "text": "Der Junge mit den blonden Haaren ist mein Bruder."
+                },
+                {
+                    "id": 3,
+                    "text": "Früher war ich blond, aber jetzt bin ich braun."
+                }
+            ],
+            "question": "Bist du selbst blond oder möchtest du gerne blond sein?",
+            "lexical-start": 532.824,
+            "lexical-end": 603.096
+        },
+        {
+            "word-key": "Restaurant",
+            "type": "noun",
+            "morphology": "das Restaurant (die Restaurants)",
+            "mini-definition": "Ein Restaurant ist ein Ort, wo man essen gehen kann. Man bestellt Speisen und bezahlt dafür.",
+            "explanation": "Ein Restaurant ist ein Geschäft, wo man essen gehen kann. Stell dir vor: Du hast Hunger und gehst in ein Restaurant. Dort gibt es eine Speisekarte. Du bestellst etwas, und die Köche machen das Essen frisch für dich. Gut zu wissen: In Deutschland sagt man auch „ Restaurant“ oder einfach „Essen gehen“.",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Wir gehen heute Abend in ein italienisches Restaurant."
+                },
+                {
+                    "id": 2,
+                    "text": "Das Restaurant an der Ecke hat sehr gutes Essen."
+                },
+                {
+                    "id": 3,
+                    "text": "Im Restaurant muss man manchmal lange auf das Essen warten."
+                }
+            ],
+            "question": "In welches Restaurant gehst du am liebsten?",
+            "lexical-start": 603.096,
+            "lexical-end": 668.496
+        }
+    ],
+    "interaction-drills": [
+        {
+            "sentence-id": "S01",
+            "original-sentence": "Carlos kauft ein neues Auto.",
+            "drills": [
+                {
+                    "global_index": 1,
+                    "id": "Q01",
+                    "question": "Wer kauft ein Auto?",
+                    "teacher-answer": "Carlos. Carlos kauft ein Auto.",
+                    "question-start": 0.0,
+                    "question-end": 3.408,
+                    "answer-start": 3.408,
+                    "answer-end": 7.824
+                },
+                {
+                    "global_index": 2,
+                    "id": "Q02",
+                    "question": "Wer kauft ein Auto? Wer?",
+                    "teacher-answer": "Carlos! Carlos kauft ein neues Auto.",
+                    "question-start": 7.824,
+                    "question-end": 11.856,
+                    "answer-start": 11.856,
+                    "answer-end": 16.512
+                },
+                {
+                    "global_index": 3,
+                    "id": "Q03",
+                    "question": "Was kauft Carlos?",
+                    "teacher-answer": "Ein Auto. Er kauft ein Auto.",
+                    "question-start": 16.512,
+                    "question-end": 19.92,
+                    "answer-start": 19.92,
+                    "answer-end": 23.928
+                },
+                {
+                    "global_index": 4,
+                    "id": "Q04",
+                    "question": "Kauft Carlos ein altes Auto?",
+                    "teacher-answer": "Nein, nein. Er kauft ein neues Auto.",
+                    "question-start": 23.928,
+                    "question-end": 27.816,
+                    "answer-start": 27.816,
+                    "answer-end": 32.304
+                }
+            ]
+        },
+        {
+            "sentence-id": "S02",
+            "original-sentence": "Es ist ein sehr teures Auto.",
+            "drills": [
+                {
+                    "global_index": 5,
+                    "id": "Q01",
+                    "question": "Ist es ein teures Auto?",
+                    "teacher-answer": "Ja, genau. Es ist ein sehr teures Auto.",
+                    "question-start": 32.304,
+                    "question-end": 35.856,
+                    "answer-start": 35.856,
+                    "answer-end": 40.272
+                },
+                {
+                    "global_index": 6,
+                    "id": "Q02",
+                    "question": "Ist es billig?",
+                    "teacher-answer": "Nein, natürlich nicht. Es ist nicht billig. Es ist teuer!",
+                    "question-start": 40.272,
+                    "question-end": 43.272,
+                    "answer-start": 43.272,
+                    "answer-end": 50.664
+                },
+                {
+                    "global_index": 7,
+                    "id": "Q03",
+                    "question": "Was ist es?",
+                    "teacher-answer": "Ein Auto. Es ist ein Auto.",
+                    "question-start": 50.664,
+                    "question-end": 53.664,
+                    "answer-start": 53.664,
+                    "answer-end": 57.6
+                },
+                {
+                    "global_index": 8,
+                    "id": "Q04",
+                    "question": "Wie teuer ist das Auto?",
+                    "teacher-answer": "Sehr teuer. Es ist ein sehr teures Auto. Wahnsinn!",
+                    "question-start": 57.6,
+                    "question-end": 61.632,
+                    "answer-start": 61.632,
+                    "answer-end": 67.752
+                }
+            ]
+        },
+        {
+            "sentence-id": "S03",
+            "original-sentence": "Es ist ein riesiges, blaues, schnelles Auto.",
+            "drills": [
+                {
+                    "global_index": 9,
+                    "id": "Q01",
+                    "question": "Ist das Auto groß?",
+                    "teacher-answer": "Ja! Es ist ein riesiges Auto.",
+                    "question-start": 67.752,
+                    "question-end": 71.304,
+                    "answer-start": 71.304,
+                    "answer-end": 76.44
+                },
+                {
+                    "global_index": 10,
+                    "id": "Q02",
+                    "question": "Ist es ein kleines Auto?",
+                    "teacher-answer": "Nein, nein. Es ist nicht klein. Es ist riesig!",
+                    "question-start": 76.44,
+                    "question-end": 80.16,
+                    "answer-start": 80.16,
+                    "answer-end": 86.52
+                },
+                {
+                    "global_index": 11,
+                    "id": "Q03",
+                    "question": "Welche Farbe hat das Auto?",
+                    "teacher-answer": "Blau. Es ist ein blaues Auto.",
+                    "question-start": 86.52,
+                    "question-end": 90.312,
+                    "answer-start": 90.312,
+                    "answer-end": 94.728
+                },
+                {
+                    "global_index": 12,
+                    "id": "Q04",
+                    "question": "Ist es rot oder blau?",
+                    "teacher-answer": "Blau. Es ist ein blaues Auto.",
+                    "question-start": 94.728,
+                    "question-end": 98.208,
+                    "answer-start": 98.208,
+                    "answer-end": 102.312
+                },
+                {
+                    "global_index": 13,
+                    "id": "Q05",
+                    "question": "Ist es langsam?",
+                    "teacher-answer": "Nein! Es ist schnell. Ein sehr schnelles Auto.",
+                    "question-start": 102.312,
+                    "question-end": 105.24,
+                    "answer-start": 105.24,
+                    "answer-end": 111.288
+                },
+                {
+                    "global_index": 14,
+                    "id": "Q06",
+                    "question": "Was ist es für ein Auto?",
+                    "teacher-answer": "Ein riesiges, blaues, schnelles Auto. Ganz genau!",
+                    "question-start": 111.288,
+                    "question-end": 115.08,
+                    "answer-start": 115.08,
+                    "answer-end": 120.528
+                }
+            ]
+        },
+        {
+            "sentence-id": "S04",
+            "original-sentence": "Während er die Straße entlangfährt, sieht Carlos ein Mädchen auf einem Fahrrad.",
+            "drills": [
+                {
+                    "global_index": 15,
+                    "id": "Q01",
+                    "question": "Fährt Carlos die Straße entlang?",
+                    "teacher-answer": "Ja! Er fährt die Straße entlang.",
+                    "question-start": 120.528,
+                    "question-end": 124.488,
+                    "answer-start": 124.488,
+                    "answer-end": 128.352
+                },
+                {
+                    "global_index": 16,
+                    "id": "Q02",
+                    "question": "Fährt er oder läuft er?",
+                    "teacher-answer": "Er fährt. Er fährt die Straße entlang.",
+                    "question-start": 128.352,
+                    "question-end": 132.312,
+                    "answer-start": 132.312,
+                    "answer-end": 136.32
+                },
+                {
+                    "global_index": 17,
+                    "id": "Q03",
+                    "question": "Sieht Carlos das Mädchen?",
+                    "teacher-answer": "Ja, er sieht ein Mädchen.",
+                    "question-start": 136.32,
+                    "question-end": 140.208,
+                    "answer-start": 140.208,
+                    "answer-end": 142.776
+                },
+                {
+                    "global_index": 18,
+                    "id": "Q04",
+                    "question": "Wen sieht Carlos?",
+                    "teacher-answer": "Ein Mädchen. Er sieht ein Mädchen.",
+                    "question-start": 142.776,
+                    "question-end": 146.016,
+                    "answer-start": 146.016,
+                    "answer-end": 149.88
+                },
+                {
+                    "global_index": 19,
+                    "id": "Q05",
+                    "question": "Ist das Mädchen auf einem Motorrad?",
+                    "teacher-answer": "Nein, nein. Nicht auf einem Motorrad. Auf einem Fahrrad!",
+                    "question-start": 149.88,
+                    "question-end": 154.632,
+                    "answer-start": 154.632,
+                    "answer-end": 161.952
+                },
+                {
+                    "global_index": 20,
+                    "id": "Q06",
+                    "question": "Was macht das Mädchen?",
+                    "teacher-answer": "Sie fährt Fahrrad. Sie ist auf einem Fahrrad.",
+                    "question-start": 161.952,
+                    "question-end": 165.192,
+                    "answer-start": 165.192,
+                    "answer-end": 169.848
+                },
+                {
+                    "global_index": 21,
+                    "id": "Q07",
+                    "question": "Während er die Straße entlangfährt...?",
+                    "teacher-answer": "...sieht er ein Mädchen auf einem Fahrrad. Richtig!",
+                    "question-start": 169.848,
+                    "question-end": 174.36,
+                    "answer-start": 174.36,
+                    "answer-end": 179.664
+                }
+            ]
+        },
+        {
+            "sentence-id": "S05",
+            "original-sentence": "Sie hat lange blonde Haare und ist schön.",
+            "drills": [
+                {
+                    "global_index": 22,
+                    "id": "Q01",
+                    "question": "Was hat sie?",
+                    "teacher-answer": "Lange Haare. Sie hat lange Haare.",
+                    "question-start": 179.664,
+                    "question-end": 182.424,
+                    "answer-start": 182.424,
+                    "answer-end": 186.768
+                },
+                {
+                    "global_index": 23,
+                    "id": "Q02",
+                    "question": "Hat sie kurze Haare?",
+                    "teacher-answer": "Nein, nein. Sie hat nicht kurze Haare. Sie hat lange Haare!",
+                    "question-start": 186.768,
+                    "question-end": 190.32,
+                    "answer-start": 190.32,
+                    "answer-end": 198.768
+                },
+                {
+                    "global_index": 24,
+                    "id": "Q03",
+                    "question": "Welche Farbe haben ihre Haare?",
+                    "teacher-answer": "Blond. Sie hat blonde Haare.",
+                    "question-start": 198.768,
+                    "question-end": 202.968,
+                    "answer-start": 202.968,
+                    "answer-end": 207.456
+                },
+                {
+                    "global_index": 25,
+                    "id": "Q04",
+                    "question": "Sind ihre Haare rot oder blond?",
+                    "teacher-answer": "Blond. Sie hat blonde Haare.",
+                    "question-start": 207.456,
+                    "question-end": 211.656,
+                    "answer-start": 211.656,
+                    "answer-end": 215.76
+                },
+                {
+                    "global_index": 26,
+                    "id": "Q05",
+                    "question": "Ist sie hässlich?",
+                    "teacher-answer": "Nein! Sie ist nicht hässlich. Sie ist schön!",
+                    "question-start": 215.76,
+                    "question-end": 218.76,
+                    "answer-start": 218.76,
+                    "answer-end": 224.328
+                },
+                {
+                    "global_index": 27,
+                    "id": "Q06",
+                    "question": "Sie hat lange blonde Haare und...?",
+                    "teacher-answer": "...und ist schön! Ganz genau!",
+                    "question-start": 224.328,
+                    "question-end": 228.456,
+                    "answer-start": 228.456,
+                    "answer-end": 232.392
+                }
+            ]
+        },
+        {
+            "sentence-id": "S06",
+            "original-sentence": "Er ruft ihr zu: „Was gibt's?“",
+            "drills": [
+                {
+                    "global_index": 28,
+                    "id": "Q01",
+                    "question": "Ruft Carlos dem Mädchen zu?",
+                    "teacher-answer": "Ja! Er ruft ihr zu.",
+                    "question-start": 232.392,
+                    "question-end": 236.352,
+                    "answer-start": 236.352,
+                    "answer-end": 239.808
+                },
+                {
+                    "global_index": 29,
+                    "id": "Q02",
+                    "question": "Was sagt er?",
+                    "teacher-answer": "„Was gibt's?“ Er sagt: „Was gibt's?“",
+                    "question-start": 239.808,
+                    "question-end": 243.12,
+                    "answer-start": 243.12,
+                    "answer-end": 246.792
+                },
+                {
+                    "global_index": 30,
+                    "id": "Q03",
+                    "question": "Sagt er „Was gibt's“ oder „Wie geht's“?",
+                    "teacher-answer": "„Was gibt's“. Er ruft: „Was gibt's?“",
+                    "question-start": 246.792,
+                    "question-end": 252.192,
+                    "answer-start": 252.192,
+                    "answer-end": 257.016
+                }
+            ]
+        },
+        {
+            "sentence-id": "S07",
+            "original-sentence": "Sie ignoriert ihn.",
+            "drills": [
+                {
+                    "global_index": 31,
+                    "id": "Q01",
+                    "question": "Ignoriert sie ihn?",
+                    "teacher-answer": "Ja! Sie ignoriert ihn.",
+                    "question-start": 257.016,
+                    "question-end": 260.808,
+                    "answer-start": 260.808,
+                    "answer-end": 264.984
+                },
+                {
+                    "global_index": 32,
+                    "id": "Q02",
+                    "question": "Antwortet sie ihm?",
+                    "teacher-answer": "Nein, nein. Sie antwortet nicht. Sie ignoriert ihn!",
+                    "question-start": 264.984,
+                    "question-end": 268.224,
+                    "answer-start": 268.224,
+                    "answer-end": 275.712
+                },
+                {
+                    "global_index": 33,
+                    "id": "Q03",
+                    "question": "Wer ignoriert?",
+                    "teacher-answer": "Sie. Das Mädchen ignoriert ihn.",
+                    "question-start": 275.712,
+                    "question-end": 278.784,
+                    "answer-start": 278.784,
+                    "answer-end": 283.032
+                },
+                {
+                    "global_index": 34,
+                    "id": "Q04",
+                    "question": "Die Arme. Wen ignoriert sie?",
+                    "teacher-answer": "Carlos. Sie ignoriert Carlos. Armer Carlos!",
+                    "question-start": 283.032,
+                    "question-end": 289.08,
+                    "answer-start": 289.08,
+                    "answer-end": 295.368
+                }
+            ]
+        },
+        {
+            "sentence-id": "S08",
+            "original-sentence": "Er ruft: „Wie geht's?“",
+            "drills": [
+                {
+                    "global_index": 35,
+                    "id": "Q01",
+                    "question": "Was ruft er?",
+                    "teacher-answer": "„Wie geht's?“ Er ruft: „Wie geht's?“",
+                    "question-start": 295.368,
+                    "question-end": 298.44,
+                    "answer-start": 298.44,
+                    "answer-end": 302.112
+                },
+                {
+                    "global_index": 36,
+                    "id": "Q02",
+                    "question": "Sagt er „Was gibt's“ oder „Wie geht's“?",
+                    "teacher-answer": "„Wie geht's“. Er ruft: „Wie geht's?“",
+                    "question-start": 302.112,
+                    "question-end": 307.104,
+                    "answer-start": 307.104,
+                    "answer-end": 311.352
+                },
+                {
+                    "global_index": 37,
+                    "id": "Q03",
+                    "question": "Wer ruft?",
+                    "teacher-answer": "Carlos. Er ruft: „Wie geht's?“",
+                    "question-start": 311.352,
+                    "question-end": 314.112,
+                    "answer-start": 314.112,
+                    "answer-end": 318.36
+                }
+            ]
+        },
+        {
+            "sentence-id": "S09",
+            "original-sentence": "Sie fährt weiter und ignoriert ihn.",
+            "drills": [
+                {
+                    "global_index": 38,
+                    "id": "Q01",
+                    "question": "Fährt sie weiter?",
+                    "teacher-answer": "Ja! Sie fährt weiter.",
+                    "question-start": 318.36,
+                    "question-end": 321.768,
+                    "answer-start": 321.768,
+                    "answer-end": 325.296
+                },
+                {
+                    "global_index": 39,
+                    "id": "Q02",
+                    "question": "Hält sie an?",
+                    "teacher-answer": "Nein, nein. Sie hält nicht an. Sie fährt weiter!",
+                    "question-start": 325.296,
+                    "question-end": 328.224,
+                    "answer-start": 328.224,
+                    "answer-end": 334.272
+                },
+                {
+                    "global_index": 40,
+                    "id": "Q03",
+                    "question": "Ignoriert sie ihn immer noch?",
+                    "teacher-answer": "Ja! Sie fährt weiter und ignoriert ihn.",
+                    "question-start": 334.272,
+                    "question-end": 337.992,
+                    "answer-start": 337.992,
+                    "answer-end": 343.2
+                },
+                {
+                    "global_index": 41,
+                    "id": "Q04",
+                    "question": "Was macht sie noch?",
+                    "teacher-answer": "Sie ignoriert ihn. Sie fährt weiter und ignoriert ihn.",
+                    "question-start": 343.2,
+                    "question-end": 346.68,
+                    "answer-start": 346.68,
+                    "answer-end": 352.536
+                },
+                {
+                    "global_index": 42,
+                    "id": "Q05",
+                    "question": "Sie fährt weiter und...?",
+                    "teacher-answer": "...und ignoriert ihn! Richtig!",
+                    "question-start": 352.536,
+                    "question-end": 356.088,
+                    "answer-start": 356.088,
+                    "answer-end": 360.096
+                }
+            ]
+        },
+        {
+            "sentence-id": "S10",
+            "original-sentence": "Er ruft: „Hey, warum sprichst du nicht mit mir?“",
+            "drills": [
+                {
+                    "global_index": 43,
+                    "id": "Q01",
+                    "question": "Was ruft er?",
+                    "teacher-answer": "„Hey, warum sprichst du nicht mit mir?“",
+                    "question-start": 360.096,
+                    "question-end": 363.504,
+                    "answer-start": 363.504,
+                    "answer-end": 367.344
+                },
+                {
+                    "global_index": 44,
+                    "id": "Q02",
+                    "question": "Sagt er „Hey“ oder „Hallo“?",
+                    "teacher-answer": "„Hey“. Er ruft: „Hey!“",
+                    "question-start": 367.344,
+                    "question-end": 371.232,
+                    "answer-start": 371.232,
+                    "answer-end": 375.24
+                },
+                {
+                    "global_index": 45,
+                    "id": "Q03",
+                    "question": "Warum spricht sie nicht mit ihm?",
+                    "teacher-answer": "Das weiß man nicht. Er fragt: „Warum sprichst du nicht mit mir?“",
+                    "question-start": 375.24,
+                    "question-end": 379.128,
+                    "answer-start": 379.128,
+                    "answer-end": 385.392
+                },
+                {
+                    "global_index": 46,
+                    "id": "Q04",
+                    "question": "Spricht sie mit ihm?",
+                    "teacher-answer": "Nein! Sie spricht nicht mit ihm.",
+                    "question-start": 385.392,
+                    "question-end": 388.704,
+                    "answer-start": 388.704,
+                    "answer-end": 392.712
+                },
+                {
+                    "global_index": 47,
+                    "id": "Q05",
+                    "question": "Wer ruft das?",
+                    "teacher-answer": "Carlos. Er ruft: „Hey, warum sprichst du nicht mit mir?“",
+                    "question-start": 392.712,
+                    "question-end": 395.712,
+                    "answer-start": 395.712,
+                    "answer-end": 402.216
+                }
+            ]
+        },
+        {
+            "sentence-id": "S11",
+            "original-sentence": "Ich möchte mit dir essen gehen.",
+            "drills": [
+                {
+                    "global_index": 48,
+                    "id": "Q01",
+                    "question": "Was möchte er?",
+                    "teacher-answer": "Essen gehen. Er möchte essen gehen.",
+                    "question-start": 402.216,
+                    "question-end": 405.528,
+                    "answer-start": 405.528,
+                    "answer-end": 409.704
+                },
+                {
+                    "global_index": 49,
+                    "id": "Q02",
+                    "question": "Möchte er alleine essen?",
+                    "teacher-answer": "Nein, nein. Mit ihr. Er möchte mit dir essen gehen.",
+                    "question-start": 409.704,
+                    "question-end": 413.256,
+                    "answer-start": 413.256,
+                    "answer-end": 419.448
+                },
+                {
+                    "global_index": 50,
+                    "id": "Q03",
+                    "question": "Wer möchte essen gehen?",
+                    "teacher-answer": "Carlos. Er möchte essen gehen.",
+                    "question-start": 419.448,
+                    "question-end": 422.76,
+                    "answer-start": 422.76,
+                    "answer-end": 426.864
+                },
+                {
+                    "global_index": 51,
+                    "id": "Q04",
+                    "question": "Mit wem möchte er essen gehen?",
+                    "teacher-answer": "Mit ihr. Mit dem Mädchen. Er möchte mit dir essen gehen.",
+                    "question-start": 426.864,
+                    "question-end": 430.584,
+                    "answer-start": 430.584,
+                    "answer-end": 436.872
+                }
+            ]
+        },
+        {
+            "sentence-id": "S12",
+            "original-sentence": "Ich lade dich in ein teures Restaurant ein.",
+            "drills": [
+                {
+                    "global_index": 52,
+                    "id": "Q01",
+                    "question": "Lädt er sie ein?",
+                    "teacher-answer": "Ja! Er lädt sie ein.",
+                    "question-start": 436.872,
+                    "question-end": 440.112,
+                    "answer-start": 440.112,
+                    "answer-end": 443.808
+                },
+                {
+                    "global_index": 53,
+                    "id": "Q02",
+                    "question": "Wohin lädt er sie ein?",
+                    "teacher-answer": "In ein Restaurant. Er lädt sie in ein Restaurant ein.",
+                    "question-start": 443.808,
+                    "question-end": 447.36,
+                    "answer-start": 447.36,
+                    "answer-end": 452.016
+                },
+                {
+                    "global_index": 54,
+                    "id": "Q03",
+                    "question": "Ist das Restaurant billig?",
+                    "teacher-answer": "Nein! Es ist teuer. Ein sehr teures Restaurant.",
+                    "question-start": 452.016,
+                    "question-end": 455.976,
+                    "answer-start": 455.976,
+                    "answer-end": 461.928
+                },
+                {
+                    "global_index": 55,
+                    "id": "Q04",
+                    "question": "Was für ein Restaurant ist es?",
+                    "teacher-answer": "Ein teures Restaurant. Er lädt sie in ein teures Restaurant ein.",
+                    "question-start": 461.928,
+                    "question-end": 465.72,
+                    "answer-start": 465.72,
+                    "answer-end": 471.576
+                }
+            ]
+        },
+        {
+            "sentence-id": "S13",
+            "original-sentence": "Das Mädchen dreht sich um, steigt vom Fahrrad und sieht ihn an.",
+            "drills": [
+                {
+                    "global_index": 56,
+                    "id": "Q01",
+                    "question": "Dreht sich das Mädchen um?",
+                    "teacher-answer": "Ja! Sie dreht sich um.",
+                    "question-start": 471.576,
+                    "question-end": 475.056,
+                    "answer-start": 475.056,
+                    "answer-end": 478.752
+                },
+                {
+                    "global_index": 57,
+                    "id": "Q02",
+                    "question": "Bleibt sie auf dem Fahrrad?",
+                    "teacher-answer": "Nein, nein. Sie steigt vom Fahrrad.",
+                    "question-start": 478.752,
+                    "question-end": 482.784,
+                    "answer-start": 482.784,
+                    "answer-end": 487.032
+                },
+                {
+                    "global_index": 58,
+                    "id": "Q03",
+                    "question": "Steigt sie vom Fahrrad oder vom Auto?",
+                    "teacher-answer": "Vom Fahrrad. Sie steigt vom Fahrrad.",
+                    "question-start": 487.032,
+                    "question-end": 491.232,
+                    "answer-start": 491.232,
+                    "answer-end": 495.96
+                },
+                {
+                    "global_index": 59,
+                    "id": "Q04",
+                    "question": "Was macht sie noch?",
+                    "teacher-answer": "Sie sieht ihn an. Sie dreht sich um, steigt ab und sieht ihn an.",
+                    "question-start": 495.96,
+                    "question-end": 499.368,
+                    "answer-start": 499.368,
+                    "answer-end": 505.872
+                },
+                {
+                    "global_index": 60,
+                    "id": "Q05",
+                    "question": "Sie dreht sich um, steigt vom Fahrrad und...?",
+                    "teacher-answer": "...und sieht ihn an. Ganz genau!",
+                    "question-start": 505.872,
+                    "question-end": 511.032,
+                    "answer-start": 511.032,
+                    "answer-end": 514.8
+                }
+            ]
+        },
+        {
+            "sentence-id": "S14",
+            "original-sentence": "Sie sagt: „Ich möchte nicht essen gehen.“",
+            "drills": [
+                {
+                    "global_index": 61,
+                    "id": "Q01",
+                    "question": "Was sagt sie?",
+                    "teacher-answer": "„Ich möchte nicht essen gehen.“ Sie sagt: „Ich möchte nicht essen gehen.“",
+                    "question-start": 514.8,
+                    "question-end": 518.04,
+                    "answer-start": 518.04,
+                    "answer-end": 523.632
+                },
+                {
+                    "global_index": 62,
+                    "id": "Q02",
+                    "question": "Möchte sie essen gehen?",
+                    "teacher-answer": "Nein! Sie möchte nicht essen gehen.",
+                    "question-start": 523.632,
+                    "question-end": 526.944,
+                    "answer-start": 526.944,
+                    "answer-end": 531.528
+                },
+                {
+                    "global_index": 63,
+                    "id": "Q03",
+                    "question": "Wer sagt das?",
+                    "teacher-answer": "Das Mädchen. Sie sagt: „Ich möchte nicht essen gehen.“",
+                    "question-start": 531.528,
+                    "question-end": 535.08,
+                    "answer-start": 535.08,
+                    "answer-end": 540.216
+                }
+            ]
+        },
+        {
+            "sentence-id": "S15",
+            "original-sentence": "Aber wenn du mir dein Auto gibst, gebe ich dir eine Überraschung.",
+            "drills": [
+                {
+                    "global_index": 64,
+                    "id": "Q01",
+                    "question": "Was gibt sie ihm?",
+                    "teacher-answer": "Eine Überraschung. Sie gibt ihm eine Überraschung.",
+                    "question-start": 540.216,
+                    "question-end": 544.104,
+                    "answer-start": 544.104,
+                    "answer-end": 549.312
+                },
+                {
+                    "global_index": 65,
+                    "id": "Q02",
+                    "question": "Was möchte sie?",
+                    "teacher-answer": "Sein Auto. Sie möchte sein Auto.",
+                    "question-start": 549.312,
+                    "question-end": 552.24,
+                    "answer-start": 552.24,
+                    "answer-end": 556.968
+                },
+                {
+                    "global_index": 66,
+                    "id": "Q03",
+                    "question": "Sie will das Auto. Und Carlos?",
+                    "teacher-answer": "Er gibt ihr das Auto. Sie sagt: „Wenn du mir dein Auto gibst...“",
+                    "question-start": 556.968,
+                    "question-end": 561.912,
+                    "answer-start": 561.912,
+                    "answer-end": 567.528
+                },
+                {
+                    "global_index": 67,
+                    "id": "Q04",
+                    "question": "Ist das eine Überraschung?",
+                    "teacher-answer": "Ja! Sie gibt ihm eine Überraschung.",
+                    "question-start": 567.528,
+                    "question-end": 571.008,
+                    "answer-start": 571.008,
+                    "answer-end": 576.384
+                },
+                {
+                    "global_index": 68,
+                    "id": "Q05",
+                    "question": "Wann gibt er ihr das Auto?",
+                    "teacher-answer": "Wenn. Wenn er ihr das Auto gibt, bekommt er eine Überraschung.",
+                    "question-start": 576.384,
+                    "question-end": 580.584,
+                    "answer-start": 580.584,
+                    "answer-end": 586.608
+                },
+                {
+                    "global_index": 69,
+                    "id": "Q06",
+                    "question": "Aber wenn du mir dein Auto gibst...?",
+                    "teacher-answer": "...gebe ich dir eine Überraschung! Richtig!",
+                    "question-start": 586.608,
+                    "question-end": 590.64,
+                    "answer-start": 590.64,
+                    "answer-end": 594.816
+                },
+                {
+                    "global_index": 70,
+                    "id": "Q07",
+                    "question": "Carlos, gibst du ihr das Auto?",
+                    "teacher-answer": "Aber wenn du mir dein Auto gibst, gebe ich dir eine Überraschung!",
+                    "question-start": 594.816,
+                    "question-end": 599.184,
+                    "answer-start": 599.184,
+                    "answer-end": 604.224
+                }
+            ]
+        },
+        {
+            "sentence-id": "S16",
+            "original-sentence": "Carlos sagt: „Okay!“",
+            "drills": [
+                {
+                    "global_index": 71,
+                    "id": "Q01",
+                    "question": "Sagt Carlos „Okay“?",
+                    "teacher-answer": "Ja! Carlos sagt: „Okay!“",
+                    "question-start": 604.224,
+                    "question-end": 607.944,
+                    "answer-start": 607.944,
+                    "answer-end": 612.672
+                },
+                {
+                    "global_index": 72,
+                    "id": "Q02",
+                    "question": "Was sagt er?",
+                    "teacher-answer": "„Okay!“ Er sagt Okay!",
+                    "question-start": 612.672,
+                    "question-end": 616.152,
+                    "answer-start": 616.152,
+                    "answer-end": 619.032
+                },
+                {
+                    "global_index": 73,
+                    "id": "Q03",
+                    "question": "Ist er glücklich?",
+                    "teacher-answer": "Ja! Er ist sehr glücklich. „Okay!“ Richtig!",
+                    "question-start": 619.032,
+                    "question-end": 622.272,
+                    "answer-start": 622.272,
+                    "answer-end": 628.704
+                }
+            ]
+        },
+        {
+            "sentence-id": "S17",
+            "original-sentence": "Er springt aus dem Auto.",
+            "drills": [
+                {
+                    "global_index": 74,
+                    "id": "Q01",
+                    "question": "Springt er aus dem Auto?",
+                    "teacher-answer": "Ja! Er springt aus dem Auto.",
+                    "question-start": 628.704,
+                    "question-end": 632.016,
+                    "answer-start": 632.016,
+                    "answer-end": 635.64
+                },
+                {
+                    "global_index": 75,
+                    "id": "Q02",
+                    "question": "Springt er aus dem Fahrrad?",
+                    "teacher-answer": "Nein, nein. Nicht aus dem Fahrrad. Aus dem Auto!",
+                    "question-start": 635.64,
+                    "question-end": 639.432,
+                    "answer-start": 639.432,
+                    "answer-end": 646.272
+                },
+                {
+                    "global_index": 76,
+                    "id": "Q03",
+                    "question": "Wohin springt er?",
+                    "teacher-answer": "Aus dem Auto. Er springt aus dem Auto.",
+                    "question-start": 646.272,
+                    "question-end": 649.752,
+                    "answer-start": 649.752,
+                    "answer-end": 654.72
+                },
+                {
+                    "global_index": 77,
+                    "id": "Q04",
+                    "question": "Wer springt?",
+                    "teacher-answer": "Carlos. Er springt aus dem Auto. Wahnsinn!",
+                    "question-start": 654.72,
+                    "question-end": 657.888,
+                    "answer-start": 657.888,
+                    "answer-end": 663.696
+                }
+            ]
+        },
+        {
+            "sentence-id": "S18",
+            "original-sentence": "Er gibt ihr die Schlüssel und sagt: „Hier sind die Schlüssel.“",
+            "drills": [
+                {
+                    "global_index": 78,
+                    "id": "Q01",
+                    "question": "Was gibt er ihr?",
+                    "teacher-answer": "Die Schlüssel. Er gibt ihr die Schlüssel.",
+                    "question-start": 663.696,
+                    "question-end": 666.696,
+                    "answer-start": 666.696,
+                    "answer-end": 670.32
+                },
+                {
+                    "global_index": 79,
+                    "id": "Q02",
+                    "question": "Wem gibt er die Schlüssel?",
+                    "teacher-answer": "Ihr. Er gibt ihr die Schlüssel.",
+                    "question-start": 670.32,
+                    "question-end": 673.968,
+                    "answer-start": 673.968,
+                    "answer-end": 677.736
+                },
+                {
+                    "global_index": 80,
+                    "id": "Q03",
+                    "question": "Was sagt er?",
+                    "teacher-answer": "„Hier sind die Schlüssel.“ Er sagt: „Hier sind die Schlüssel.“",
+                    "question-start": 677.736,
+                    "question-end": 680.568,
+                    "answer-start": 680.568,
+                    "answer-end": 685.056
+                },
+                {
+                    "global_index": 81,
+                    "id": "Q04",
+                    "question": "Er gibt ihr die Schlüssel und...?",
+                    "teacher-answer": "...und sagt: „Hier sind die Schlüssel.“ Ganz genau!",
+                    "question-start": 685.056,
+                    "question-end": 688.536,
+                    "answer-start": 688.536,
+                    "answer-end": 692.928
+                }
+            ]
+        },
+        {
+            "sentence-id": "S19",
+            "original-sentence": "Die schöne Blondine nimmt die Schlüssel und dann küsst sie Carlos auf die Wange.",
+            "drills": [
+                {
+                    "global_index": 82,
+                    "id": "Q01",
+                    "question": "Wer nimmt die Schlüssel?",
+                    "teacher-answer": "Die Blondine. Die schöne Blondine nimmt die Schlüssel.",
+                    "question-start": 692.928,
+                    "question-end": 696.096,
+                    "answer-start": 696.096,
+                    "answer-end": 701.4
+                },
+                {
+                    "global_index": 83,
+                    "id": "Q02",
+                    "question": "Ist sie blond?",
+                    "teacher-answer": "Ja! Die schöne Blondine.",
+                    "question-start": 701.4,
+                    "question-end": 704.232,
+                    "answer-start": 704.232,
+                    "answer-end": 708.168
+                },
+                {
+                    "global_index": 84,
+                    "id": "Q03",
+                    "question": "Was macht sie dann?",
+                    "teacher-answer": "Sie küsst Carlos. Sie küsst ihn auf die Wange.",
+                    "question-start": 708.168,
+                    "question-end": 712.608,
+                    "answer-start": 712.608,
+                    "answer-end": 718.056
+                },
+                {
+                    "global_index": 85,
+                    "id": "Q04",
+                    "question": "Wen küsst sie?",
+                    "teacher-answer": "Carlos. Sie küsst Carlos auf die Wange.",
+                    "question-start": 718.056,
+                    "question-end": 721.224,
+                    "answer-start": 721.224,
+                    "answer-end": 725.712
+                },
+                {
+                    "global_index": 86,
+                    "id": "Q05",
+                    "question": "Küsst sie ihn auf die Nase?",
+                    "teacher-answer": "Nein! Nicht auf die Nase. Auf die Wange!",
+                    "question-start": 725.712,
+                    "question-end": 729.504,
+                    "answer-start": 729.504,
+                    "answer-end": 736.104
+                },
+                {
+                    "global_index": 87,
+                    "id": "Q06",
+                    "question": "Die schöne Blondine nimmt die Schlüssel und dann...?",
+                    "teacher-answer": "...küsst sie Carlos auf die Wange. Ganz genau!",
+                    "question-start": 736.104,
+                    "question-end": 741.024,
+                    "answer-start": 741.024,
+                    "answer-end": 745.512
+                }
+            ]
+        },
+        {
+            "sentence-id": "S20",
+            "original-sentence": "Dann springt sie in das Auto und fährt weg.",
+            "drills": [
+                {
+                    "global_index": 88,
+                    "id": "Q01",
+                    "question": "Springt sie in das Auto?",
+                    "teacher-answer": "Ja! Sie springt in das Auto.",
+                    "question-start": 745.512,
+                    "question-end": 749.064,
+                    "answer-start": 749.064,
+                    "answer-end": 752.76
+                },
+                {
+                    "global_index": 89,
+                    "id": "Q02",
+                    "question": "Springt sie auf das Fahrrad?",
+                    "teacher-answer": "Nein, nein. Nicht auf das Fahrrad. In das Auto!",
+                    "question-start": 752.76,
+                    "question-end": 756.168,
+                    "answer-start": 756.168,
+                    "answer-end": 762.288
+                },
+                {
+                    "global_index": 90,
+                    "id": "Q03",
+                    "question": "Fährt sie weg?",
+                    "teacher-answer": "Ja! Sie fährt weg.",
+                    "question-start": 762.288,
+                    "question-end": 765.048,
+                    "answer-start": 765.048,
+                    "answer-end": 768.576
+                },
+                {
+                    "global_index": 91,
+                    "id": "Q04",
+                    "question": "Bleibt sie bei Carlos?",
+                    "teacher-answer": "Nein! Sie fährt weg. Weg ist sie!",
+                    "question-start": 768.576,
+                    "question-end": 772.296,
+                    "answer-start": 772.296,
+                    "answer-end": 777.864
+                },
+                {
+                    "global_index": 92,
+                    "id": "Q05",
+                    "question": "Was macht sie noch?",
+                    "teacher-answer": "Sie fährt weg. Sie springt in das Auto und fährt weg.",
+                    "question-start": 777.864,
+                    "question-end": 781.176,
+                    "answer-start": 781.176,
+                    "answer-end": 786.552
+                },
+                {
+                    "global_index": 93,
+                    "id": "Q06",
+                    "question": "Dann springt sie in das Auto und...?",
+                    "teacher-answer": "...fährt weg! Armer Carlos!",
+                    "question-start": 786.552,
+                    "question-end": 790.752,
+                    "answer-start": 790.752,
+                    "answer-end": 794.688
+                }
+            ]
+        },
+        {
+            "sentence-id": "S21",
+            "original-sentence": "Carlos steht auf dem Bürgersteig.",
+            "drills": [
+                {
+                    "global_index": 94,
+                    "id": "Q01",
+                    "question": "Carlos steht auf dem Bürgersteig?",
+                    "teacher-answer": "Ja! Carlos steht auf dem Bürgersteig.",
+                    "question-start": 794.688,
+                    "question-end": 798.648,
+                    "answer-start": 798.648,
+                    "answer-end": 803.712
+                },
+                {
+                    "global_index": 95,
+                    "id": "Q02",
+                    "question": "Steht er auf der Straße?",
+                    "teacher-answer": "Nein, nein. Nicht auf der Straße. Auf dem Bürgersteig!",
+                    "question-start": 803.712,
+                    "question-end": 807.36,
+                    "answer-start": 807.36,
+                    "answer-end": 813.408
+                },
+                {
+                    "global_index": 96,
+                    "id": "Q03",
+                    "question": "Wo steht Carlos?",
+                    "teacher-answer": "Auf dem Bürgersteig. Armer Carlos!",
+                    "question-start": 813.408,
+                    "question-end": 816.48,
+                    "answer-start": 816.48,
+                    "answer-end": 820.728
+                },
+                {
+                    "global_index": 97,
+                    "id": "Q04",
+                    "question": "Steht er oder sitzt er?",
+                    "teacher-answer": "Er steht. Er steht auf dem Bürgersteig.",
+                    "question-start": 820.728,
+                    "question-end": 824.52,
+                    "answer-start": 824.52,
+                    "answer-end": 829.104
+                }
+            ]
+        },
+        {
+            "sentence-id": "S22",
+            "original-sentence": "Jetzt hat er kein Auto und kein Mädchen.",
+            "drills": [
+                {
+                    "global_index": 98,
+                    "id": "Q01",
+                    "question": "Hat er noch ein Auto?",
+                    "teacher-answer": "Nein! Jetzt hat er kein Auto mehr.",
+                    "question-start": 829.104,
+                    "question-end": 832.512,
+                    "answer-start": 832.512,
+                    "answer-end": 836.856
+                },
+                {
+                    "global_index": 99,
+                    "id": "Q02",
+                    "question": "Hat er noch ein Mädchen?",
+                    "teacher-answer": "Nein! Jetzt hat er kein Mädchen.",
+                    "question-start": 836.856,
+                    "question-end": 840.576,
+                    "answer-start": 840.576,
+                    "answer-end": 844.992
+                },
+                {
+                    "global_index": 100,
+                    "id": "Q03",
+                    "question": "Hat er ein Auto?",
+                    "teacher-answer": "Nein, nein. Kein Auto. Er hat kein Auto.",
+                    "question-start": 844.992,
+                    "question-end": 848.544,
+                    "answer-start": 848.544,
+                    "answer-end": 855.216
+                },
+                {
+                    "global_index": 101,
+                    "id": "Q04",
+                    "question": "Was hat er?",
+                    "teacher-answer": "Nichts! Kein Auto und kein Mädchen!",
+                    "question-start": 855.216,
+                    "question-end": 858.144,
+                    "answer-start": 858.144,
+                    "answer-end": 862.32
+                },
+                {
+                    "global_index": 102,
+                    "id": "Q05",
+                    "question": "Jetzt hat er kein Auto und...?",
+                    "teacher-answer": "...und kein Mädchen. So traurig!",
+                    "question-start": 862.32,
+                    "question-end": 866.04,
+                    "answer-start": 866.04,
+                    "answer-end": 870.384
+                }
+            ]
+        },
+        {
+            "sentence-id": "S23",
+            "original-sentence": "Er sagt: „Das ist alles, nur ein Kuss auf die Wange?“",
+            "drills": [
+                {
+                    "global_index": 103,
+                    "id": "Q01",
+                    "question": "Was sagt er?",
+                    "teacher-answer": "„Das ist alles, nur ein Kuss auf die Wange?“ Er ist sauer!",
+                    "question-start": 870.384,
+                    "question-end": 873.624,
+                    "answer-start": 873.624,
+                    "answer-end": 879.552
+                },
+                {
+                    "global_index": 104,
+                    "id": "Q02",
+                    "question": "War er glücklich?",
+                    "teacher-answer": "Nein! Er ist nicht glücklich. Nur ein Kuss? Das ist alles?",
+                    "question-start": 879.552,
+                    "question-end": 882.552,
+                    "answer-start": 882.552,
+                    "answer-end": 889.32
+                },
+                {
+                    "global_index": 105,
+                    "id": "Q03",
+                    "question": "Was hat er bekommen?",
+                    "teacher-answer": "Nur einen Kuss. Auf die Wange. Nur das!",
+                    "question-start": 889.32,
+                    "question-end": 892.488,
+                    "answer-start": 892.488,
+                    "answer-end": 898.296
+                },
+                {
+                    "global_index": 106,
+                    "id": "Q04",
+                    "question": "Wer ist das?",
+                    "teacher-answer": "Carlos. Er sagt: „Das ist alles, nur ein Kuss auf die Wange?“",
+                    "question-start": 898.296,
+                    "question-end": 901.608,
+                    "answer-start": 901.608,
+                    "answer-end": 906.984
+                }
+            ]
+        },
+        {
+            "sentence-id": "S24",
+            "original-sentence": "Er steigt auf ihr Fahrrad und fährt nach Hause.",
+            "drills": [
+                {
+                    "global_index": 107,
+                    "id": "Q01",
+                    "question": "Steigt er auf ihr Fahrrad?",
+                    "teacher-answer": "Ja! Er steigt auf ihr Fahrrad.",
+                    "question-start": 906.984,
+                    "question-end": 910.704,
+                    "answer-start": 910.704,
+                    "answer-end": 914.712
+                },
+                {
+                    "global_index": 108,
+                    "id": "Q02",
+                    "question": "Ist das sein Fahrrad?",
+                    "teacher-answer": "Nein, nein. Nicht sein Fahrrad. Ihr Fahrrad!",
+                    "question-start": 914.712,
+                    "question-end": 918.024,
+                    "answer-start": 918.024,
+                    "answer-end": 924.144
+                },
+                {
+                    "global_index": 109,
+                    "id": "Q03",
+                    "question": "Fährt er nach Hause?",
+                    "teacher-answer": "Ja! Er fährt nach Hause.",
+                    "question-start": 924.144,
+                    "question-end": 927.624,
+                    "answer-start": 927.624,
+                    "answer-end": 931.248
+                },
+                {
+                    "global_index": 110,
+                    "id": "Q04",
+                    "question": "Wohin fährt er?",
+                    "teacher-answer": "Nach Hause. Er fährt nach Hause.",
+                    "question-start": 931.248,
+                    "question-end": 934.488,
+                    "answer-start": 934.488,
+                    "answer-end": 938.736
+                },
+                {
+                    "global_index": 111,
+                    "id": "Q05",
+                    "question": "Er hat kein Auto, kein Mädchen, aber...?",
+                    "teacher-answer": "...er hat ihr Fahrrad! Er steigt auf ihr Fahrrad und fährt nach Hause.",
+                    "question-start": 938.736,
+                    "question-end": 943.488,
+                    "answer-start": 943.488,
+                    "answer-end": 949.104
+                }
+            ]
+        }
+    ]
+}
