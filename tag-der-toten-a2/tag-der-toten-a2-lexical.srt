@@ -1,0 +1,50 @@
+﻿1
+00:00:00,000 --> 00:01:11,352
+Feiertag (Nomen)
+Ein Tag ohne Arbeit und Schule. Menschen feiern zusammen. Es ist ein freier Tag.
+
+2
+00:01:11,352 --> 00:02:19,152
+Friedhof (Nomen)
+Ein Ort mit vielen Gräbern. Verstorbene Menschen liegen hier. Es ist sehr ruhig und still.
+
+3
+00:02:19,152 --> 00:03:35,424
+Vorfahre (Nomen)
+Ein Familienmitglied aus der Vergangenheit. Oma und Opa sind Vorfahren. Auch Urgroßeltern.
+
+4
+00:03:35,424 --> 00:04:46,800
+bewundern (Verb)
+Etwas oder jemanden sehr gut finden. Etwas ist schön oder beeindruckend. Man sagt: Wie toll!
+
+5
+00:04:46,800 --> 00:05:56,376
+Atmosphäre (Nomen)
+Die Stimmung an einem Ort. Wie fühlt sich der Ort an? Ist es gemütlich, fröhlich oder kalt?
+
+6
+00:05:56,376 --> 00:07:08,760
+Picknick (Nomen)
+Essen draußen essen. Man sitzt im Park oder Wald. Man isst Brot, Obst und trinkt Saft.
+
+7
+00:07:08,760 --> 00:08:23,184
+bevorzugen (Verb)
+Etwas lieber mögen. Man wählt etwas, weil man es besser findet. Andere Dinge mag man weniger.
+
+8
+00:08:23,184 --> 00:09:36,552
+erinnern (Verb)
+Sich an etwas erinnern. Man hat etwas erlebt oder gelernt. Es ist noch in der Erinnerung.
+
+9
+00:09:36,552 --> 00:10:51,936
+anerkennen (Verb)
+Etwas als gut oder wichtig sehen. Andere sollen auch sehen: Das ist wertvoll! Respekt!
+
+10
+00:10:51,936 --> 00:12:06,216
+schätzen (Verb)
+Etwas oder jemanden wichtig finden. Dankbar sein. Respektvoll behandeln. Es hat großen Wert.
+

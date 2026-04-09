@@ -1,0 +1,50 @@
+﻿1
+00:00:00,000 --> 00:01:24,144
+Ehe (noun)
+Eine Ehe ist eine offizielle Partnerschaft. Zwei Menschen heiraten und sind dann verheiratet. In Deutschland sagt man auch 'Ehepaar'.
+
+2
+00:01:24,144 --> 00:02:42,072
+Zärtlichkeit (noun)
+Zärtlichkeit ist, wenn man jemanden liebevoll berührt oder liebe Worte sagt. Eine zärtliche Person ist sanft und liebevoll.
+
+3
+00:02:42,072 --> 00:04:02,232
+Krebs (noun)
+Krebs ist eine sehr schwere Krankheit. Der Körper macht neue Zellen, die nicht gut sind. Das macht den Menschen krank.
+
+4
+00:04:02,232 --> 00:05:18,912
+Diabetes (noun)
+Diabetes ist eine Krankheit. Der Körper kann den Zucker im Blut nicht richtig kontrollieren. Menschen mit Diabetes müssen aufpassen.
+
+5
+00:05:18,912 --> 00:06:38,328
+Therapie (noun)
+Eine Therapie ist eine medizinische Behandlung. Der Arzt hilft dem Patienten, gesund zu werden. Die Therapie kann lange dauern.
+
+6
+00:06:38,328 --> 00:08:03,960
+großzügig (adjective)
+Eine großzügige Person teilt gerne. Sie gibt mehr, als sie muss. Das ist etwas sehr Gutes. Andere Menschen freuen sich darüber.
+
+7
+00:08:03,960 --> 00:09:19,992
+Kompliment (noun)
+Ein Kompliment ist ein schönes Lob. Du sagst jemandem, was du gut an ihm findest. Das macht die Person glücklich.
+
+8
+00:09:19,992 --> 00:10:45,240
+Affäre (noun)
+Eine Affäre ist eine heimliche Liebesbeziehung. Sie ist verboten, weil einer von beiden schon verheiratet ist. Das verursacht viel Drama.
+
+9
+00:10:45,240 --> 00:12:13,872
+distanzieren (verb)
+Sich distanzieren bedeutet: Ich bin nicht mehr einverstanden. Ich möchte Abstand nehmen von einer Person oder einer Idee.
+
+10
+00:12:13,872 --> 00:13:40,200
+begleiten (verb)
+Begleiten bedeutet: Ich gehe mit dir. Ich bin bei dir, während du etwas tust. Du bist nicht allein. Ich helfe dir.
+

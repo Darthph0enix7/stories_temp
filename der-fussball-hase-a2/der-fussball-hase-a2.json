@@ -1,0 +1,2018 @@
+{
+    "level": "A2",
+    "title": "Der Fußball-Hase",
+    "story": "Es gibt einen kleinen Hasen. Der Hase möchte ein Fußballprofi sein. Jeden Tag übt er Fußball. Er übt, den Ball perfekt ins Netz zu schießen. Er möchte ein erstklassiger Stürmer sein. Nach 10 Jahren hartem Training beschließt der Hase, sich beim FC Bayern München zu bewerben. Der FC Bayern München ist die berühmteste Fußballmannschaft in Deutschland. Er nimmt einen Flug nach München, mietet sich am Flughafen ein Auto und fährt direkt zur Allianz Arena. Er stellt sich bei den Bayern vor, aber die Vereinsführung lehnt ihn ab. Der Manager der Bayern sagt: „Es tut mir leid. Du bist zwar ein erstaunlicher Fußballer, aber wir können keinen Hasen in unsere Profimannschaft aufnehmen.“ Der Hase ist sehr unglücklich. Er geht nach Hause und weint jeden Tag. Schließlich sagt sein Freund zu ihm: „Komm schon, reiß dich zusammen! Hör auf zu weinen und versuche es noch einmal bei einem anderen Verein.“ Der Hase hört auf seinen Freund. Er hört auf zu weinen. Er übt jeden Tag weiter Torschüsse. Eines Tages liest er in der Zeitung, dass Borussia Dortmund dringend neue Stürmer braucht. Der Hase fährt sofort nach Dortmund. Er bewirbt sich bei Borussia Dortmund. Die Dortmunder sind sehr beeindruckt von dem Hasen. Der Manager sagt: „Wow, du bist der beste Knipser, den ich je gesehen habe!“ Die Borussia stellt den Hasen ein und bezahlt ihm anfangs nur ein Taschengeld von 2 Euro. In seinem ersten Spiel in der Bundesliga schießt der Hase direkt 5 Tore! Jeder in Dortmund liebt den Hasen! Die Vereinsbosse geben ihm eine gewaltige Gehaltserhöhung. Sie bezahlen ihm 540 Millionen Euro! Der Hase ist reich, berühmt und glücklich.",
+    "md-text": "Es gibt einen kleinen Hasen. Der Hase möchte ein Fußballprofi sein. Jeden Tag übt er Fußball. Er übt, den Ball perfekt ins Netz zu schießen. Er möchte ein erstklassiger **Stürmer** sein. Nach 10 Jahren hartem Training beschließt der Hase, sich beim FC Bayern München zu **bewerben**. Der FC Bayern München ist die berühmteste Fußballmannschaft in Deutschland. Er nimmt einen Flug nach München, mietet sich am Flughafen ein Auto und fährt direkt zur Allianz Arena. Er stellt sich bei den Bayern vor, aber die **Vereinsführung** lehnt ihn ab. Der Manager der Bayern sagt: „Es tut mir leid. Du bist zwar ein erstaunlicher Fußballer, aber wir können keinen Hasen in unsere Profimannschaft aufnehmen.“ Der Hase ist sehr unglücklich. Er geht nach Hause und weint jeden Tag. Schließlich sagt sein Freund zu ihm: „Komm schon, reiß dich zusammen! Hör auf zu weinen und versuche es noch einmal bei einem anderen Verein.“ Der Hase hört auf seinen Freund. Er hört auf zu weinen. Er übt jeden Tag weiter **Torschüsse**. Eines Tages liest er in der Zeitung, dass Borussia Dortmund dringend neue Stürmer braucht. Der Hase fährt sofort nach Dortmund. Er bewirbt sich bei Borussia Dortmund. Die Dortmunder sind sehr **beeindruckt** von dem Hasen. Der Manager sagt: „Wow, du bist der beste **Knipser**, den ich je gesehen habe!“ Die Borussia stellt den Hasen ein und bezahlt ihm anfangs nur ein **Taschengeld** von 2 Euro. In seinem ersten Spiel in der Bundesliga schießt der Hase direkt 5 Tore! Jeder in Dortmund liebt den Hasen! Die Vereinsbosse geben ihm eine gewaltige **Gehaltserhöhung**. Sie bezahlen ihm 540 Millionen Euro! Der Hase ist reich, **berühmt** und glücklich.",
+    "sentences": [
+        {
+            "id": 1,
+            "text": "Es gibt einen kleinen Hasen.",
+            "sentence-start": 2.568,
+            "sentence-end": 5.856
+        },
+        {
+            "id": 2,
+            "text": "Der Hase möchte ein Fußballprofi sein.",
+            "sentence-start": 5.856,
+            "sentence-end": 9.216
+        },
+        {
+            "id": 3,
+            "text": "Jeden Tag übt er Fußball.",
+            "sentence-start": 9.216,
+            "sentence-end": 11.856
+        },
+        {
+            "id": 4,
+            "text": "Er übt, den Ball perfekt ins Netz zu schießen.",
+            "sentence-start": 11.856,
+            "sentence-end": 15.936
+        },
+        {
+            "id": 5,
+            "text": "Er möchte ein erstklassiger Stürmer sein.",
+            "sentence-start": 15.936,
+            "sentence-end": 19.608
+        },
+        {
+            "id": 6,
+            "text": "Nach 10 Jahren hartem Training beschließt der Hase, sich beim FC Bayern München zu bewerben.",
+            "sentence-start": 19.608,
+            "sentence-end": 25.848
+        },
+        {
+            "id": 7,
+            "text": "Der FC Bayern München ist die berühmteste Fußballmannschaft in Deutschland.",
+            "sentence-start": 25.848,
+            "sentence-end": 31.536
+        },
+        {
+            "id": 8,
+            "text": "Er nimmt einen Flug nach München, mietet sich am Flughafen ein Auto und fährt direkt zur Allianz Arena.",
+            "sentence-start": 31.536,
+            "sentence-end": 39.456
+        },
+        {
+            "id": 9,
+            "text": "Er stellt sich bei den Bayern vor, aber die Vereinsführung lehnt ihn ab.",
+            "sentence-start": 39.456,
+            "sentence-end": 44.808
+        },
+        {
+            "id": 10,
+            "text": "Der Manager der Bayern sagt: „Es tut mir leid. Du bist zwar ein erstaunlicher Fußballer, aber wir können keinen Hasen in unsere Profimannschaft aufnehmen.",
+            "sentence-start": 44.808,
+            "sentence-end": 55.536
+        },
+        {
+            "id": 11,
+            "text": "Der Hase ist sehr unglücklich.",
+            "sentence-start": 55.536,
+            "sentence-end": 59.064
+        },
+        {
+            "id": 12,
+            "text": "Er geht nach Hause und weint jeden Tag.",
+            "sentence-start": 59.064,
+            "sentence-end": 62.592
+        },
+        {
+            "id": 13,
+            "text": "Schließlich sagt sein Freund zu ihm: „Komm schon, reiß dich zusammen! Hör auf zu weinen und versuche es noch einmal bei einem anderen Verein.",
+            "sentence-start": 62.592,
+            "sentence-end": 72.6
+        },
+        {
+            "id": 14,
+            "text": "Der Hase hört auf seinen Freund.",
+            "sentence-start": 72.6,
+            "sentence-end": 75.48
+        },
+        {
+            "id": 15,
+            "text": "Er hört auf zu weinen.",
+            "sentence-start": 75.48,
+            "sentence-end": 78.048
+        },
+        {
+            "id": 16,
+            "text": "Er übt jeden Tag weiter Torschüsse.",
+            "sentence-start": 78.048,
+            "sentence-end": 81.168
+        },
+        {
+            "id": 17,
+            "text": "Eines Tages liest er in der Zeitung, dass Borussia Dortmund dringend neue Stürmer braucht.",
+            "sentence-start": 81.168,
+            "sentence-end": 87.168
+        },
+        {
+            "id": 18,
+            "text": "Der Hase fährt sofort nach Dortmund.",
+            "sentence-start": 87.168,
+            "sentence-end": 90.288
+        },
+        {
+            "id": 19,
+            "text": "Er bewirbt sich bei Borussia Dortmund.",
+            "sentence-start": 90.288,
+            "sentence-end": 93.48
+        },
+        {
+            "id": 20,
+            "text": "Die Dortmunder sind sehr beeindruckt von dem Hasen.",
+            "sentence-start": 93.48,
+            "sentence-end": 97.152
+        },
+        {
+            "id": 21,
+            "text": "Der Manager sagt: „Wow, du bist der beste Knipser, den ich je gesehen habe!",
+            "sentence-start": 97.152,
+            "sentence-end": 103.392
+        },
+        {
+            "id": 22,
+            "text": "Die Borussia stellt den Hasen ein und bezahlt ihm anfangs nur ein Taschengeld von 2 Euro.",
+            "sentence-start": 103.392,
+            "sentence-end": 110.112
+        },
+        {
+            "id": 23,
+            "text": "In seinem ersten Spiel in der Bundesliga schießt der Hase direkt 5 Tore!",
+            "sentence-start": 110.112,
+            "sentence-end": 116.184
+        },
+        {
+            "id": 24,
+            "text": "Jeder in Dortmund liebt den Hasen!",
+            "sentence-start": 116.184,
+            "sentence-end": 119.304
+        },
+        {
+            "id": 25,
+            "text": "Die Vereinsbosse geben ihm eine gewaltige Gehaltserhöhung.",
+            "sentence-start": 119.304,
+            "sentence-end": 123.864
+        },
+        {
+            "id": 26,
+            "text": "Sie bezahlen ihm 540 Millionen Euro!",
+            "sentence-start": 123.864,
+            "sentence-end": 127.944
+        },
+        {
+            "id": 27,
+            "text": "Der Hase ist reich, berühmt und glücklich.",
+            "sentence-start": 127.944,
+            "sentence-end": 132.024
+        }
+    ],
+    "highlight-words": [
+        "Stürmer",
+        "Torschuß",
+        "Vereinsführung",
+        "Knipser",
+        "bewerben",
+        "beeindrucken",
+        "Gehaltserhöhung",
+        "hart",
+        "Taschengeld",
+        "berühmt"
+    ],
+    "lexical-data": [
+        {
+            "word-key": "Stürmer",
+            "type": "noun",
+            "morphology": "der Stürmer (die Stürmer)",
+            "mini-definition": "Ein Spieler in der Offensive. Er spielt vorne und versucht, Tore zu schießen.",
+            "explanation": "Stell dir einen Fußballplatz vor. In der Mitte oder vorne spielt der Stürmer. Seine Hauptaufgabe ist es, Tore zu schießen. Er steht oft nah am gegnerischen Tor. Ein guter Stürmer ist schnell und hat einen guten Schuss. Fans lieben die Stürmer, weil sie viele Tore machen.",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Unser Stürmer hat heute drei Tore geschossen."
+                },
+                {
+                    "id": 2,
+                    "text": "Er ist der beste Stürmer in unserer Mannschaft."
+                },
+                {
+                    "id": 3,
+                    "text": "Der Stürmer läuft schnell zum Tor und schießt."
+                }
+            ],
+            "question": "Welchen Position spielst du am liebsten beim Fußball?",
+            "lexical-start": 0.0,
+            "lexical-end": 63.264
+        },
+        {
+            "word-key": "Torschuß",
+            "type": "noun",
+            "morphology": "der Torschuss (die Torschüsse)",
+            "mini-definition": "Ein Schuss aufs Tor. Der Spieler versucht, den Ball ins Tor zu bringen.",
+            "explanation": "Tja, ein Torschuss ist ein sehr wichtiger Moment im Fußball! Wenn ein Spieler den Ball aufs Tor schießt, nennt man das Torschuss. Jeder Torschuss könnte ein Tor bedeuten. Je mehr Torschüsse ein Team hat, desto besser. Ein guter Torschuss ist schnell und präzise. Schau dir nach dem Spiel immer die Statistik an: Wie viele Torschüsse hatte jedes Team?",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Er hat zwanzig Torschüsse gebraucht, um ein Tor zu schießen."
+                },
+                {
+                    "id": 2,
+                    "text": "Der Torschuss ging knapp am Tor vorbei."
+                },
+                {
+                    "id": 3,
+                    "text": "Mannschaft A hatte heute mehr Torschüsse als Mannschaft B."
+                }
+            ],
+            "question": "Warst du schon einmal bei einem Fußballspiel und hast einen Torschuss gesehen?",
+            "lexical-start": 63.264,
+            "lexical-end": 133.296
+        },
+        {
+            "word-key": "Vereinsführung",
+            "type": "noun",
+            "morphology": "die Vereinsführung (die Vereinsführungen)",
+            "mini-definition": "Die Leute, die den Verein leiten. Der Präsident und wichtige Manager.",
+            "explanation": "Gut zu wissen: Die Vereinsführung ist das Team hinter dem Verein. Der Präsident ist meistens der wichtigste Mann. Dann gibt es Manager, die Geld und Strategie kontrollieren. Sie entscheiden, welche Spieler gekauft werden. Sie sprechen auch mit Sponsoren und Fans. Eine gute Vereinsführung ist sehr wichtig für den Erfolg.",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Die Vereinsführung hat einen neuen Trainer geholt."
+                },
+                {
+                    "id": 2,
+                    "text": "Der Präsident spricht im Namen der Vereinsführung."
+                },
+                {
+                    "id": 3,
+                    "text": "Die Vereinsführung muss viel Geld verwalten."
+                }
+            ],
+            "question": "Kennst du die Vereinsführung von deinem Lieblingsverein?",
+            "lexical-start": 133.296,
+            "lexical-end": 198.816
+        },
+        {
+            "word-key": "Knipser",
+            "type": "noun",
+            "morphology": "der Knipser (die Knipser)",
+            "mini-definition": "Ein Spieler, der sehr viele Tore schießt. Er hat einen tollen Torinstinkt.",
+            "explanation": "Schau mal, ein Knipser ist ein ganz besonderer Spieler! Das Wort kommt von „knipsen“ – wie eine Kamera, die ein Foto macht. Der Knipser „knipst“ Tore. Er steht immer am richtigen Ort. Wenn der Ball kommt, ist er zur Stelle. Fans geben ihm deswegen Spitznamen. Er ist der Liebling der Zuschauer, weil er zuverlässig trifft.",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Er ist der beste Knipser der Liga."
+                },
+                {
+                    "id": 2,
+                    "text": "Der Knipser hat in zehn Spielen fünfzehn Tore geschossen."
+                },
+                {
+                    "id": 3,
+                    "text": "Jeder Fan kennt den Namen dieses Knipsers."
+                }
+            ],
+            "question": "Wer ist dein Lieblingsknipser im Fußball?",
+            "lexical-start": 198.816,
+            "lexical-end": 264.24
+        },
+        {
+            "word-key": "bewerben",
+            "type": "verb",
+            "morphology": "bewerben (bewirbt, hat beworben, bewarb)",
+            "mini-definition": "Man macht einen Antrag für einen Job. Man schreibt eine Bewerbung.",
+            "explanation": "Tipp: Wenn du einen neuen Job willst, musst du dich bewerben! Zuerst schreibst du eine Bewerbung mit deinem Lebenslauf. Dann schickst du alles an die Firma. Danach hast du vielleicht ein Vorstellungsgespräch. Du bewirbst dich um die Stelle. Die Firma entscheidet dann, ob du den Job bekommst. Man kann sich auch um einen Studienplatz bewerben.",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Er hat sich um den Job als Manager beworben."
+                },
+                {
+                    "id": 2,
+                    "text": "Ich habe mich gestern bei drei Firmen beworben."
+                },
+                {
+                    "id": 3,
+                    "text": "Sie bewirbt sich um eine Stelle in Berlin."
+                }
+            ],
+            "question": "Hast du dich schon einmal um einen Job beworben?",
+            "lexical-start": 264.24,
+            "lexical-end": 333.0
+        },
+        {
+            "word-key": "beeindrucken",
+            "type": "verb",
+            "morphology": "beeindrucken (beeindruckt, hat beeindruckt, beeindruckte)",
+            "mini-definition": "Man macht Eindruck auf jemanden. Jemand ist so gut, dass andere staunen.",
+            "explanation": "Stell dir vor, du siehst etwas wirklich Tolles – dann bist du beeindruckt! Es kann ein Musikant sein, der super spielt. Oder ein Schüler mit perfekten Noten. Die Kunst war so schön, dass sie alle Zuschauer beeindruckt hat. Du kannst auch andere Menschen beeindrucken, zum Beispiel mit guten Leistungen oder einem netten Charakter.",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Die Musik war so schön, dass sie alle Zuhörer beeindruckt hat."
+                },
+                {
+                    "id": 2,
+                    "text": "Seine guten Noten haben mich sehr beeindruckt."
+                },
+                {
+                    "id": 3,
+                    "text": "Der Film hat das Publikum tief beeindruckt."
+                }
+            ],
+            "question": "Was hat dich in letzter Zeit sehr beeindruckt?",
+            "lexical-start": 333.0,
+            "lexical-end": 402.6
+        },
+        {
+            "word-key": "Gehaltserhöhung",
+            "type": "noun",
+            "morphology": "die Gehaltserhöhung (die Gehaltserhöhungen)",
+            "mini-definition": "Man bekommt mehr Geld für die Arbeit. Das Gehalt wird höher.",
+            "explanation": "Gut zu wissen: Nach einiger Zeit bei der Arbeit kann man eine Gehaltserhöhung bekommen! Das bedeutet, du bekommst jeden Monat mehr Geld. Du verdienst dann mehr als vorher. Das passiert oft nach einem Jahr Arbeit oder nach einem guten Gespräch mit dem Chef. Mit einer Gehaltserhöhung kann man sich mehr leisten – zum Beispiel ein neues Auto oder eine größere Wohnung.",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Nach zwei Jahren hat er eine Gehaltserhöhung bekommen."
+                },
+                {
+                    "id": 2,
+                    "text": "Sie hat um eine Gehaltserhöhung gebeten."
+                },
+                {
+                    "id": 3,
+                    "text": "Die Gehaltserhöhung war leider nur sehr klein."
+                }
+            ],
+            "question": "Hast du schon einmal eine Gehaltserhöhung bekommen?",
+            "lexical-start": 402.6,
+            "lexical-end": 467.664
+        },
+        {
+            "word-key": "hart",
+            "type": "adjective",
+            "morphology": "hart (Gegenteil: weich, sanft)",
+            "mini-definition": "Fest und nicht weich. Auch: schwierig und anstrengend.",
+            "explanation": "Schau mal: Ein Stein ist hart. Man kann ihn nicht einfach biegen. Aber „hart“ kann auch andere Bedeutungen haben! Ein hartes Leben bedeutet, es ist schwierig und anstrengend. Harte Arbeit heißt, man muss viel und lange arbeiten. Ein harter Winter ist sehr kalt und lang. Menschen können auch hart sein – das bedeutet, sie sind nicht nett oder freundlich. Das Gegenteil von hart ist weich oder sanft.",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Der Boden ist sehr hart wie Stein."
+                },
+                {
+                    "id": 2,
+                    "text": "Er arbeitet jeden Tag sehr hart."
+                },
+                {
+                    "id": 3,
+                    "text": "Dieser Winter war besonders hart und kalt."
+                }
+            ],
+            "question": "Ist dein Schulalltag manchmal auch hart?",
+            "lexical-start": 467.664,
+            "lexical-end": 541.296
+        },
+        {
+            "word-key": "Taschengeld",
+            "type": "noun",
+            "morphology": "das Taschengeld (die Taschengelder)",
+            "mini-definition": "Kleines Geld für Kinder. Sie bekommen es regelmäßig von den Eltern.",
+            "explanation": "Kinder bekommen oft Taschengeld – das ist ein kleiner Betrag Geld, den sie regelmäßig bekommen. Meistens geben die Eltern jede Woche oder jeden Monat etwas Geld. Mit dem Taschengeld können Kinder kleine Dinge kaufen, zum Beispiel Süßigkeiten oder Spielzeug. Es ist ein guter Weg, um zu lernen, mit Geld umzugehen. Kinder lernen, dass man sparen muss, wenn man etwas Teureres haben will.",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Meine Kinder bekommen jeden Monat zehn Euro Taschengeld."
+                },
+                {
+                    "id": 2,
+                    "text": "Er spart sein Taschengeld für ein neues Fahrrad."
+                },
+                {
+                    "id": 3,
+                    "text": "Mit dem Taschengeld kann man kleine Wünsche erfüllen."
+                }
+            ],
+            "question": "Bekommst du auch Taschengeld? Wofür gibst du es aus?",
+            "lexical-start": 541.296,
+            "lexical-end": 612.696
+        },
+        {
+            "word-key": "berühmt",
+            "type": "adjective",
+            "morphology": "berühmt (Gegenteil: unbekannt, berüchtigt)",
+            "mini-definition": "Sehr bekannt. Viele Menschen kennen eine Person oder einen Ort.",
+            "explanation": "Stell dir die größten Stars vor – sie sind alle berühmt! Das Wort „berühmt“ bedeutet, dass ganz viele Menschen eine Person oder einen Ort kennen. Zum Beispiel ist Berlin eine berühmte Stadt in Deutschland. Oder ein Sänger wird berühmt, wenn viele Menschen seine Lieder kennen. Auch Sportler oder Schauspieler können berühmt werden. Das Gegenteil ist unbekannt – das kennt niemand.",
+            "examples": [
+                {
+                    "id": 1,
+                    "text": "Berlin ist eine sehr berühmte Stadt."
+                },
+                {
+                    "id": 2,
+                    "text": "Dieser Film ist weltberühmt geworden."
+                },
+                {
+                    "id": 3,
+                    "text": "Sie ist eine berühmte Schauspielerin aus Deutschland."
+                }
+            ],
+            "question": "Wer ist deine berühmteste Lieblingsperson?",
+            "lexical-start": 612.696,
+            "lexical-end": 681.792
+        }
+    ],
+    "interaction-drills": [
+        {
+            "sentence-id": "S01",
+            "original-sentence": "Es gibt einen kleinen Hasen.",
+            "drills": [
+                {
+                    "global_index": 1,
+                    "id": "Q01",
+                    "question": "Gibt es einen Hasen?",
+                    "teacher-answer": "Ja, genau! Es gibt einen Hasen.",
+                    "question-start": 0.0,
+                    "question-end": 3.552,
+                    "answer-start": 3.552,
+                    "answer-end": 7.56
+                },
+                {
+                    "global_index": 2,
+                    "id": "Q02",
+                    "question": "Gibt es einen kleinen Elefanten?",
+                    "teacher-answer": "Nein, nein! Es gibt keinen Elefanten. Es gibt einen kleinen Hasen!",
+                    "question-start": 7.56,
+                    "question-end": 11.76,
+                    "answer-start": 11.76,
+                    "answer-end": 18.768
+                },
+                {
+                    "global_index": 3,
+                    "id": "Q03",
+                    "question": "Ist der Hase groß?",
+                    "teacher-answer": "Nein, natürlich nicht! Der Hase ist klein. Ein kleiner Hase!",
+                    "question-start": 18.768,
+                    "question-end": 22.32,
+                    "answer-start": 22.32,
+                    "answer-end": 29.16
+                },
+                {
+                    "global_index": 4,
+                    "id": "Q04",
+                    "question": "Was gibt es?",
+                    "teacher-answer": "Einen kleinen Hasen! Es gibt einen kleinen Hasen. Wahnsinn!",
+                    "question-start": 29.16,
+                    "question-end": 31.992,
+                    "answer-start": 31.992,
+                    "answer-end": 38.76
+                }
+            ]
+        },
+        {
+            "sentence-id": "S02",
+            "original-sentence": "Der Hase möchte ein Fußballprofi sein.",
+            "drills": [
+                {
+                    "global_index": 5,
+                    "id": "Q01",
+                    "question": "Wer möchte ein Fußballprofi sein?",
+                    "teacher-answer": "Der Hase! Der Hase möchte ein Fußballprofi sein.",
+                    "question-start": 38.76,
+                    "question-end": 42.792,
+                    "answer-start": 42.792,
+                    "answer-end": 47.928
+                },
+                {
+                    "global_index": 6,
+                    "id": "Q02",
+                    "question": "Was möchte der Hase sein?",
+                    "teacher-answer": "Ein Fußballprofi! Er möchte ein Fußballprofi sein.",
+                    "question-start": 47.928,
+                    "question-end": 51.648,
+                    "answer-start": 51.648,
+                    "answer-end": 57.432
+                },
+                {
+                    "global_index": 7,
+                    "id": "Q03",
+                    "question": "Möchte der Hase ein Arzt sein?",
+                    "teacher-answer": "Nein, nein! Er möchte kein Arzt sein. Er möchte ein Fußballprofi sein!",
+                    "question-start": 57.432,
+                    "question-end": 61.464,
+                    "answer-start": 61.464,
+                    "answer-end": 69.264
+                },
+                {
+                    "global_index": 8,
+                    "id": "Q04",
+                    "question": "Der Hase möchte ein Fußballprofi sein. Richtig?",
+                    "teacher-answer": "Ja, richtig! Der Hase möchte ein Fußballprofi sein. Ganz genau!",
+                    "question-start": 69.264,
+                    "question-end": 75.48,
+                    "answer-start": 75.48,
+                    "answer-end": 82.872
+                },
+                {
+                    "global_index": 9,
+                    "id": "Q05",
+                    "question": "Möchte der Hase ein Koch oder ein Fußballprofi sein?",
+                    "teacher-answer": "Ein Fußballprofi! Er möchte ein Fußballprofi sein, kein Koch!",
+                    "question-start": 82.872,
+                    "question-end": 88.44,
+                    "answer-start": 88.44,
+                    "answer-end": 94.464
+                }
+            ]
+        },
+        {
+            "sentence-id": "S03",
+            "original-sentence": "Jeden Tag übt er Fußball.",
+            "drills": [
+                {
+                    "global_index": 10,
+                    "id": "Q01",
+                    "question": "Übt der Hase Fußball?",
+                    "teacher-answer": "Ja! Jeden Tag übt er Fußball.",
+                    "question-start": 94.464,
+                    "question-end": 98.112,
+                    "answer-start": 98.112,
+                    "answer-end": 102.528
+                },
+                {
+                    "global_index": 11,
+                    "id": "Q02",
+                    "question": "Übt er Tennis?",
+                    "teacher-answer": "Nein, natürlich nicht! Er übt nicht Tennis. Er übt Fußball!",
+                    "question-start": 102.528,
+                    "question-end": 105.696,
+                    "answer-start": 105.696,
+                    "answer-end": 113.184
+                },
+                {
+                    "global_index": 12,
+                    "id": "Q03",
+                    "question": "Wer übt Fußball?",
+                    "teacher-answer": "Der Hase! Der Hase übt Fußball.",
+                    "question-start": 113.184,
+                    "question-end": 116.424,
+                    "answer-start": 116.424,
+                    "answer-end": 121.32
+                },
+                {
+                    "global_index": 13,
+                    "id": "Q04",
+                    "question": "Wann übt er Fußball?",
+                    "teacher-answer": "Jeden Tag! Er übt jeden Tag Fußball.",
+                    "question-start": 121.32,
+                    "question-end": 124.728,
+                    "answer-start": 124.728,
+                    "answer-end": 129.696
+                },
+                {
+                    "global_index": 14,
+                    "id": "Q05",
+                    "question": "Übt er manchmal oder jeden Tag?",
+                    "teacher-answer": "Jeden Tag! Er übt jeden Tag Fußball. Wahnsinn!",
+                    "question-start": 129.696,
+                    "question-end": 134.208,
+                    "answer-start": 134.208,
+                    "answer-end": 140.736
+                }
+            ]
+        },
+        {
+            "sentence-id": "S04",
+            "original-sentence": "Er übt, den Ball perfekt ins Netz zu schießen.",
+            "drills": [
+                {
+                    "global_index": 15,
+                    "id": "Q01",
+                    "question": "Was übt der Hase?",
+                    "teacher-answer": "Er übt, den Ball ins Netz zu schießen.",
+                    "question-start": 140.736,
+                    "question-end": 144.048,
+                    "answer-start": 144.048,
+                    "answer-end": 147.648
+                },
+                {
+                    "global_index": 16,
+                    "id": "Q02",
+                    "question": "Schießt er den Ball schlecht ins Netz?",
+                    "teacher-answer": "Nein! Er übt, den Ball perfekt ins Netz zu schießen!",
+                    "question-start": 147.648,
+                    "question-end": 151.536,
+                    "answer-start": 151.536,
+                    "answer-end": 157.704
+                },
+                {
+                    "global_index": 17,
+                    "id": "Q03",
+                    "question": "Schießt er den Ball wohin?",
+                    "teacher-answer": "Ins Netz! Er übt, den Ball perfekt ins Netz zu schießen.",
+                    "question-start": 157.704,
+                    "question-end": 161.424,
+                    "answer-start": 161.424,
+                    "answer-end": 167.28
+                },
+                {
+                    "global_index": 18,
+                    "id": "Q04",
+                    "question": "Wer übt, den Ball ins Netz zu schießen?",
+                    "teacher-answer": "Der Hase! Der Hase übt, den Ball perfekt ins Netz zu schießen.",
+                    "question-start": 167.28,
+                    "question-end": 171.48,
+                    "answer-start": 171.48,
+                    "answer-end": 177.408
+                },
+                {
+                    "global_index": 19,
+                    "id": "Q05",
+                    "question": "Perfekt oder schlecht?",
+                    "teacher-answer": "Perfekt! Er übt, den Ball perfekt ins Netz zu schießen. Ganz genau!",
+                    "question-start": 177.408,
+                    "question-end": 181.128,
+                    "answer-start": 181.128,
+                    "answer-end": 188.208
+                },
+                {
+                    "global_index": 20,
+                    "id": "Q06",
+                    "question": "Er übt, den Ball perfekt ins Netz zu schießen. Stimmt das?",
+                    "teacher-answer": "Ja, das stimmt! Er übt, den Ball perfekt ins Netz zu schießen.",
+                    "question-start": 188.208,
+                    "question-end": 195.216,
+                    "answer-start": 195.216,
+                    "answer-end": 201.384
+                }
+            ]
+        },
+        {
+            "sentence-id": "S05",
+            "original-sentence": "Er möchte ein erstklassiger Stürmer sein.",
+            "drills": [
+                {
+                    "global_index": 21,
+                    "id": "Q01",
+                    "question": "Was möchte der Hase sein?",
+                    "teacher-answer": "Ein erstklassiger Stürmer! Er möchte ein erstklassiger Stürmer sein.",
+                    "question-start": 201.384,
+                    "question-end": 204.936,
+                    "answer-start": 204.936,
+                    "answer-end": 210.864
+                },
+                {
+                    "global_index": 22,
+                    "id": "Q02",
+                    "question": "Möchte er ein schlechter Stürmer sein?",
+                    "teacher-answer": "Nein, nein! Er möchte ein erstklassiger Stürmer sein!",
+                    "question-start": 210.864,
+                    "question-end": 214.896,
+                    "answer-start": 214.896,
+                    "answer-end": 220.032
+                },
+                {
+                    "global_index": 23,
+                    "id": "Q03",
+                    "question": "Erstklassig oder zweitklassig?",
+                    "teacher-answer": "Erstklassig! Er möchte ein erstklassiger Stürmer sein.",
+                    "question-start": 220.032,
+                    "question-end": 224.232,
+                    "answer-start": 224.232,
+                    "answer-end": 229.44
+                },
+                {
+                    "global_index": 24,
+                    "id": "Q04",
+                    "question": "Wer möchte ein erstklassiger Stürmer sein?",
+                    "teacher-answer": "Der Hase! Der Hase möchte ein erstklassiger Stürmer sein. Wahnsinn!",
+                    "question-start": 229.44,
+                    "question-end": 234.048,
+                    "answer-start": 234.048,
+                    "answer-end": 241.296
+                },
+                {
+                    "global_index": 25,
+                    "id": "Q05",
+                    "question": "Möchte der Hase Torwart oder Stürmer sein?",
+                    "teacher-answer": "Stürmer! Er möchte ein erstklassiger Stürmer sein, kein Torwart!",
+                    "question-start": 241.296,
+                    "question-end": 246.288,
+                    "answer-start": 246.288,
+                    "answer-end": 252.792
+                }
+            ]
+        },
+        {
+            "sentence-id": "S06",
+            "original-sentence": "Nach 10 Jahren hartem Training beschließt der Hase, sich beim FC Bayern München zu bewerben.",
+            "drills": [
+                {
+                    "global_index": 26,
+                    "id": "Q01",
+                    "question": "Wie lange trainiert der Hase?",
+                    "teacher-answer": "10 Jahre! Nach 10 Jahren hartem Training.",
+                    "question-start": 252.792,
+                    "question-end": 256.44,
+                    "answer-start": 256.44,
+                    "answer-end": 261.096
+                },
+                {
+                    "global_index": 27,
+                    "id": "Q02",
+                    "question": "Ist das Training leicht?",
+                    "teacher-answer": "Nein, nein! Es ist hart. Nach 10 Jahren hartem Training!",
+                    "question-start": 261.096,
+                    "question-end": 264.408,
+                    "answer-start": 264.408,
+                    "answer-end": 272.136
+                },
+                {
+                    "global_index": 28,
+                    "id": "Q03",
+                    "question": "Was beschließt der Hase nach 10 Jahren?",
+                    "teacher-answer": "Sich beim FC Bayern München zu bewerben! Er beschließt das.",
+                    "question-start": 272.136,
+                    "question-end": 276.336,
+                    "answer-start": 276.336,
+                    "answer-end": 281.952
+                },
+                {
+                    "global_index": 29,
+                    "id": "Q04",
+                    "question": "Bewirbt er sich bei Dortmund?",
+                    "teacher-answer": "Nein! Er bewirbt sich beim FC Bayern München, nicht bei Dortmund!",
+                    "question-start": 281.952,
+                    "question-end": 285.6,
+                    "answer-start": 285.6,
+                    "answer-end": 291.624
+                },
+                {
+                    "global_index": 30,
+                    "id": "Q05",
+                    "question": "Wo bewirbt er sich?",
+                    "teacher-answer": "Beim FC Bayern München! Er beschließt, sich dort zu bewerben.",
+                    "question-start": 291.624,
+                    "question-end": 294.792,
+                    "answer-start": 294.792,
+                    "answer-end": 300.72
+                },
+                {
+                    "global_index": 31,
+                    "id": "Q06",
+                    "question": "Wer bewirbt sich beim FC Bayern München?",
+                    "teacher-answer": "Der Hase! Der Hase bewirbt sich nach 10 Jahren dort.",
+                    "question-start": 300.72,
+                    "question-end": 305.16,
+                    "answer-start": 305.16,
+                    "answer-end": 310.776
+                },
+                {
+                    "global_index": 32,
+                    "id": "Q07",
+                    "question": "Nach 10 Jahren hartem Training beschließt der Hase, sich beim FC Bayern München zu bewerben. Richtig?",
+                    "teacher-answer": "Ja, richtig! Ganz genau!",
+                    "question-start": 310.776,
+                    "question-end": 319.464,
+                    "answer-start": 319.464,
+                    "answer-end": 323.4
+                }
+            ]
+        },
+        {
+            "sentence-id": "S07",
+            "original-sentence": "Der FC Bayern München ist die berühmteste Fußballmannschaft in Deutschland.",
+            "drills": [
+                {
+                    "global_index": 33,
+                    "id": "Q01",
+                    "question": "Was ist der FC Bayern München?",
+                    "teacher-answer": "Die berühmteste Fußballmannschaft in Deutschland!",
+                    "question-start": 323.4,
+                    "question-end": 327.288,
+                    "answer-start": 327.288,
+                    "answer-end": 331.128
+                },
+                {
+                    "global_index": 34,
+                    "id": "Q02",
+                    "question": "Ist der FC Bayern München unbekannt?",
+                    "teacher-answer": "Nein, natürlich nicht! Er ist die berühmteste Fußballmannschaft!",
+                    "question-start": 331.128,
+                    "question-end": 335.328,
+                    "answer-start": 335.328,
+                    "answer-end": 341.184
+                },
+                {
+                    "global_index": 35,
+                    "id": "Q03",
+                    "question": "Berühmt oder berüchtigt?",
+                    "teacher-answer": "Berühmt! Die berühmteste Fußballmannschaft in Deutschland!",
+                    "question-start": 341.184,
+                    "question-end": 344.904,
+                    "answer-start": 344.904,
+                    "answer-end": 350.112
+                },
+                {
+                    "global_index": 36,
+                    "id": "Q04",
+                    "question": "Wo ist der FC Bayern München am berühmtesten?",
+                    "teacher-answer": "In Deutschland! Die berühmteste Fußballmannschaft in Deutschland.",
+                    "question-start": 350.112,
+                    "question-end": 354.624,
+                    "answer-start": 354.624,
+                    "answer-end": 359.928
+                },
+                {
+                    "global_index": 37,
+                    "id": "Q05",
+                    "question": "Der FC Bayern München ist die berühmteste Fußballmannschaft in Deutschland. Richtig?",
+                    "teacher-answer": "Ja, richtig! Der FC Bayern München ist die berühmteste Fußballmannschaft in Deutschland!",
+                    "question-start": 359.928,
+                    "question-end": 367.584,
+                    "answer-start": 367.584,
+                    "answer-end": 374.808
+                }
+            ]
+        },
+        {
+            "sentence-id": "S08",
+            "original-sentence": "Er nimmt einen Flug nach München, mietet sich am Flughafen ein Auto und fährt direkt zur Allianz Arena.",
+            "drills": [
+                {
+                    "global_index": 38,
+                    "id": "Q01",
+                    "question": "Was nimmt der Hase?",
+                    "teacher-answer": "Einen Flug! Er nimmt einen Flug nach München.",
+                    "question-start": 374.808,
+                    "question-end": 378.12,
+                    "answer-start": 378.12,
+                    "answer-end": 383.184
+                },
+                {
+                    "global_index": 39,
+                    "id": "Q02",
+                    "question": "Wohin fliegt er?",
+                    "teacher-answer": "Nach München! Er nimmt einen Flug nach München.",
+                    "question-start": 383.184,
+                    "question-end": 386.592,
+                    "answer-start": 386.592,
+                    "answer-end": 391.248
+                },
+                {
+                    "global_index": 40,
+                    "id": "Q03",
+                    "question": "Was mietet er am Flughafen?",
+                    "teacher-answer": "Ein Auto! Er mietet sich am Flughafen ein Auto.",
+                    "question-start": 391.248,
+                    "question-end": 394.968,
+                    "answer-start": 394.968,
+                    "answer-end": 400.416
+                },
+                {
+                    "global_index": 41,
+                    "id": "Q04",
+                    "question": "Mietet er ein Motorrad?",
+                    "teacher-answer": "Nein! Er mietet sich ein Auto, kein Motorrad!",
+                    "question-start": 400.416,
+                    "question-end": 403.896,
+                    "answer-start": 403.896,
+                    "answer-end": 409.032
+                },
+                {
+                    "global_index": 42,
+                    "id": "Q05",
+                    "question": "Wohin fährt er?",
+                    "teacher-answer": "Zur Allianz Arena! Er fährt direkt zur Allianz Arena.",
+                    "question-start": 409.032,
+                    "question-end": 412.032,
+                    "answer-start": 412.032,
+                    "answer-end": 417.816
+                },
+                {
+                    "global_index": 43,
+                    "id": "Q06",
+                    "question": "Was macht er am Flughafen?",
+                    "teacher-answer": "Er mietet sich ein Auto! Am Flughafen mietet er sich ein Auto.",
+                    "question-start": 417.816,
+                    "question-end": 421.536,
+                    "answer-start": 421.536,
+                    "answer-end": 427.392
+                },
+                {
+                    "global_index": 44,
+                    "id": "Q07",
+                    "question": "Nimmt er einen Zug nach München?",
+                    "teacher-answer": "Nein, nein! Er nimmt einen Flug. Einen Flug nach München!",
+                    "question-start": 427.392,
+                    "question-end": 431.112,
+                    "answer-start": 431.112,
+                    "answer-end": 438.024
+                },
+                {
+                    "global_index": 45,
+                    "id": "Q08",
+                    "question": "Er nimmt einen Flug nach München, mietet sich am Flughafen ein Auto und fährt direkt zur Allianz Arena. Richtig?",
+                    "teacher-answer": "Ja, genau! Er nimmt einen Flug, mietet ein Auto und fährt zur Allianz Arena. Wahnsinn!",
+                    "question-start": 438.024,
+                    "question-end": 448.248,
+                    "answer-start": 448.248,
+                    "answer-end": 457.488
+                }
+            ]
+        },
+        {
+            "sentence-id": "S09",
+            "original-sentence": "Er stellt sich bei den Bayern vor, aber die Vereinsführung lehnt ihn ab.",
+            "drills": [
+                {
+                    "global_index": 46,
+                    "id": "Q01",
+                    "question": "Wo stellt sich der Hase vor?",
+                    "teacher-answer": "Bei den Bayern! Er stellt sich bei den Bayern vor.",
+                    "question-start": 457.488,
+                    "question-end": 461.52,
+                    "answer-start": 461.52,
+                    "answer-end": 466.008
+                },
+                {
+                    "global_index": 47,
+                    "id": "Q02",
+                    "question": "Was macht die Vereinsführung?",
+                    "teacher-answer": "Sie lehnt ihn ab! Die Vereinsführung lehnt ihn ab.",
+                    "question-start": 466.008,
+                    "question-end": 469.488,
+                    "answer-start": 469.488,
+                    "answer-end": 475.032
+                },
+                {
+                    "global_index": 48,
+                    "id": "Q03",
+                    "question": "Stellt er sich bei Dortmund vor?",
+                    "teacher-answer": "Nein! Bei den Bayern. Er stellt sich bei den Bayern vor.",
+                    "question-start": 475.032,
+                    "question-end": 478.752,
+                    "answer-start": 478.752,
+                    "answer-end": 484.872
+                },
+                {
+                    "global_index": 49,
+                    "id": "Q04",
+                    "question": "Akzeptieren die Bayern ihn?",
+                    "teacher-answer": "Nein! Sie lehnen ihn ab. Die Vereinsführung lehnt ihn ab.",
+                    "question-start": 484.872,
+                    "question-end": 489.072,
+                    "answer-start": 489.072,
+                    "answer-end": 496.224
+                },
+                {
+                    "global_index": 50,
+                    "id": "Q05",
+                    "question": "Wer lehnt ihn ab?",
+                    "teacher-answer": "Die Vereinsführung! Die Vereinsführung lehnt ihn ab. Armer Hase!",
+                    "question-start": 496.224,
+                    "question-end": 499.296,
+                    "answer-start": 499.296,
+                    "answer-end": 506.376
+                },
+                {
+                    "global_index": 51,
+                    "id": "Q06",
+                    "question": "Er stellt sich vor, aber...?",
+                    "teacher-answer": "...aber die Vereinsführung lehnt ihn ab. Richtig!",
+                    "question-start": 506.376,
+                    "question-end": 510.168,
+                    "answer-start": 510.168,
+                    "answer-end": 514.896
+                }
+            ]
+        },
+        {
+            "sentence-id": "S10",
+            "original-sentence": "Der Manager der Bayern sagt: „Es tut mir leid. Du bist zwar ein erstaunlicher Fußballer, aber wir können keinen Hasen in unsere Profimannschaft aufnehmen.",
+            "drills": [
+                {
+                    "global_index": 52,
+                    "id": "Q01",
+                    "question": "Was sagt der Manager?",
+                    "teacher-answer": "Es tut mir leid! Der Manager sagt: Es tut mir leid.",
+                    "question-start": 514.896,
+                    "question-end": 518.208,
+                    "answer-start": 518.208,
+                    "answer-end": 523.272
+                },
+                {
+                    "global_index": 53,
+                    "id": "Q02",
+                    "question": "Ist der Hase ein schlechter Fußballer?",
+                    "teacher-answer": "Nein! Er ist ein erstaunlicher Fußballer, sagt der Manager.",
+                    "question-start": 523.272,
+                    "question-end": 527.544,
+                    "answer-start": 527.544,
+                    "answer-end": 533.568
+                },
+                {
+                    "global_index": 54,
+                    "id": "Q03",
+                    "question": "Was sagt der Manager über den Hasen?",
+                    "teacher-answer": "Dass er ein erstaunlicher Fußballer ist! Aber sie können ihn nicht aufnehmen.",
+                    "question-start": 533.568,
+                    "question-end": 537.696,
+                    "answer-start": 537.696,
+                    "answer-end": 543.792
+                },
+                {
+                    "global_index": 55,
+                    "id": "Q04",
+                    "question": "Können sie einen Hasen aufnehmen?",
+                    "teacher-answer": "Nein! Sie können keinen Hasen in ihre Profimannschaft aufnehmen.",
+                    "question-start": 543.792,
+                    "question-end": 547.68,
+                    "answer-start": 547.68,
+                    "answer-end": 553.368
+                },
+                {
+                    "global_index": 56,
+                    "id": "Q05",
+                    "question": "Warum lehnen sie ihn ab?",
+                    "teacher-answer": "Weil er ein Hase ist! Sie können keinen Hasen aufnehmen.",
+                    "question-start": 553.368,
+                    "question-end": 557.64,
+                    "answer-start": 557.64,
+                    "answer-end": 562.776
+                },
+                {
+                    "global_index": 57,
+                    "id": "Q06",
+                    "question": "Du bist zwar ein erstaunlicher Fußballer, aber...?",
+                    "teacher-answer": "...aber wir können keinen Hasen in unsere Profimannschaft aufnehmen. So sagt es der Manager!",
+                    "question-start": 562.776,
+                    "question-end": 568.104,
+                    "answer-start": 568.104,
+                    "answer-end": 574.92
+                },
+                {
+                    "global_index": 58,
+                    "id": "Q07",
+                    "question": "Der Manager sagt: „Es tut mir leid. Du bist zwar ein erstaunlicher Fußballer, aber wir können keinen Hasen aufnehmen.“ Richtig?",
+                    "teacher-answer": "Ja, richtig! Der arme Hase!",
+                    "question-start": 574.92,
+                    "question-end": 586.248,
+                    "answer-start": 586.248,
+                    "answer-end": 590.496
+                }
+            ]
+        },
+        {
+            "sentence-id": "S11",
+            "original-sentence": "Der Hase ist sehr unglücklich.",
+            "drills": [
+                {
+                    "global_index": 59,
+                    "id": "Q01",
+                    "question": "Wie ist der Hase?",
+                    "teacher-answer": "Sehr unglücklich! Der Hase ist sehr unglücklich.",
+                    "question-start": 590.496,
+                    "question-end": 594.216,
+                    "answer-start": 594.216,
+                    "answer-end": 599.832
+                },
+                {
+                    "global_index": 60,
+                    "id": "Q02",
+                    "question": "Ist er glücklich?",
+                    "teacher-answer": "Nein, nein! Er ist nicht glücklich. Er ist sehr unglücklich!",
+                    "question-start": 599.832,
+                    "question-end": 603.0,
+                    "answer-start": 603.0,
+                    "answer-end": 610.872
+                },
+                {
+                    "global_index": 61,
+                    "id": "Q03",
+                    "question": "Ist er ein bisschen oder sehr unglücklich?",
+                    "teacher-answer": "Sehr unglücklich! Der Hase ist sehr unglücklich.",
+                    "question-start": 610.872,
+                    "question-end": 615.24,
+                    "answer-start": 615.24,
+                    "answer-end": 620.544
+                },
+                {
+                    "global_index": 62,
+                    "id": "Q04",
+                    "question": "Der Hase ist sehr unglücklich. Warum?",
+                    "teacher-answer": "Weil die Bayern ihn abgelehnt haben! Der arme Hase!",
+                    "question-start": 620.544,
+                    "question-end": 625.968,
+                    "answer-start": 625.968,
+                    "answer-end": 630.936
+                }
+            ]
+        },
+        {
+            "sentence-id": "S12",
+            "original-sentence": "Er geht nach Hause und weint jeden Tag.",
+            "drills": [
+                {
+                    "global_index": 63,
+                    "id": "Q01",
+                    "question": "Wohin geht der Hase?",
+                    "teacher-answer": "Nach Hause! Er geht nach Hause.",
+                    "question-start": 630.936,
+                    "question-end": 634.584,
+                    "answer-start": 634.584,
+                    "answer-end": 640.368
+                },
+                {
+                    "global_index": 64,
+                    "id": "Q02",
+                    "question": "Was macht er zu Hause?",
+                    "teacher-answer": "Er weint! Er weint jeden Tag.",
+                    "question-start": 640.368,
+                    "question-end": 644.4,
+                    "answer-start": 644.4,
+                    "answer-end": 648.336
+                },
+                {
+                    "global_index": 65,
+                    "id": "Q03",
+                    "question": "Wann weint er?",
+                    "teacher-answer": "Jeden Tag! Er weint jeden Tag. Die arme Hase!",
+                    "question-start": 648.336,
+                    "question-end": 651.264,
+                    "answer-start": 651.264,
+                    "answer-end": 657.624
+                },
+                {
+                    "global_index": 66,
+                    "id": "Q04",
+                    "question": "Geht er zum Training?",
+                    "teacher-answer": "Nein! Er geht nach Hause und weint. Nicht zum Training!",
+                    "question-start": 657.624,
+                    "question-end": 660.864,
+                    "answer-start": 660.864,
+                    "answer-end": 667.056
+                },
+                {
+                    "global_index": 67,
+                    "id": "Q05",
+                    "question": "Er geht nach Hause und weint jeden Tag. Stimmt das?",
+                    "teacher-answer": "Ja, das stimmt! Er geht nach Hause und weint jeden Tag.",
+                    "question-start": 667.056,
+                    "question-end": 673.272,
+                    "answer-start": 673.272,
+                    "answer-end": 679.368
+                }
+            ]
+        },
+        {
+            "sentence-id": "S13",
+            "original-sentence": "Schließlich sagt sein Freund zu ihm: „Komm schon, reiß dich zusammen! Hör auf zu weinen und versuche es noch einmal bei einem anderen Verein.",
+            "drills": [
+                {
+                    "global_index": 68,
+                    "id": "Q01",
+                    "question": "Was sagt der Freund?",
+                    "teacher-answer": "Komm schon, reiß dich zusammen! Hör auf zu weinen!",
+                    "question-start": 679.368,
+                    "question-end": 682.44,
+                    "answer-start": 682.44,
+                    "answer-end": 687.816
+                },
+                {
+                    "global_index": 69,
+                    "id": "Q02",
+                    "question": "Sagt der Freund: „Hör auf zu weinen“?",
+                    "teacher-answer": "Ja! Der Freund sagt: Hör auf zu weinen!",
+                    "question-start": 687.816,
+                    "question-end": 692.568,
+                    "answer-start": 692.568,
+                    "answer-end": 697.704
+                },
+                {
+                    "global_index": 70,
+                    "id": "Q03",
+                    "question": "Was soll der Hase nochmal machen?",
+                    "teacher-answer": "Es nochmal versuchen! Bei einem anderen Verein!",
+                    "question-start": 697.704,
+                    "question-end": 701.424,
+                    "answer-start": 701.424,
+                    "answer-end": 705.912
+                },
+                {
+                    "global_index": 71,
+                    "id": "Q04",
+                    "question": "Soll er bei Bayern bleiben?",
+                    "teacher-answer": "Nein! Er soll es bei einem anderen Verein versuchen!",
+                    "question-start": 705.912,
+                    "question-end": 709.632,
+                    "answer-start": 709.632,
+                    "answer-end": 714.84
+                },
+                {
+                    "global_index": 72,
+                    "id": "Q05",
+                    "question": "Der Freund sagt: „Hör auf zu weinen und versuche es noch einmal...“",
+                    "teacher-answer": "...bei einem anderen Verein! Richtig!",
+                    "question-start": 714.84,
+                    "question-end": 721.752,
+                    "answer-start": 721.752,
+                    "answer-end": 725.688
+                },
+                {
+                    "global_index": 73,
+                    "id": "Q06",
+                    "question": "Was sagt der Freund zu ihm?",
+                    "teacher-answer": "Er sagt: Komm schon, reiß dich zusammen! Hör auf zu weinen und versuche es nochmal!",
+                    "question-start": 725.688,
+                    "question-end": 729.576,
+                    "answer-start": 729.576,
+                    "answer-end": 737.52
+                }
+            ]
+        },
+        {
+            "sentence-id": "S14",
+            "original-sentence": "Der Hase hört auf seinen Freund.",
+            "drills": [
+                {
+                    "global_index": 74,
+                    "id": "Q01",
+                    "question": "Wem hört der Hase zu?",
+                    "teacher-answer": "Seinem Freund! Der Hase hört auf seinen Freund.",
+                    "question-start": 737.52,
+                    "question-end": 741.24,
+                    "answer-start": 741.24,
+                    "answer-end": 745.968
+                },
+                {
+                    "global_index": 75,
+                    "id": "Q02",
+                    "question": "Hört er auf seine Mutter?",
+                    "teacher-answer": "Nein! Er hört auf seinen Freund, nicht auf seine Mutter!",
+                    "question-start": 745.968,
+                    "question-end": 749.136,
+                    "answer-start": 749.136,
+                    "answer-end": 754.68
+                },
+                {
+                    "global_index": 76,
+                    "id": "Q03",
+                    "question": "Hört der Hase auf seinen Freund?",
+                    "teacher-answer": "Ja! Der Hase hört auf seinen Freund.",
+                    "question-start": 754.68,
+                    "question-end": 758.472,
+                    "answer-start": 758.472,
+                    "answer-end": 763.368
+                },
+                {
+                    "global_index": 77,
+                    "id": "Q04",
+                    "question": "Der Hase hört auf seinen Freund. Richtig?",
+                    "teacher-answer": "Ja, richtig! Der Hase hört auf seinen Freund.",
+                    "question-start": 763.368,
+                    "question-end": 769.104,
+                    "answer-start": 769.104,
+                    "answer-end": 773.688
+                }
+            ]
+        },
+        {
+            "sentence-id": "S15",
+            "original-sentence": "Er hört auf zu weinen.",
+            "drills": [
+                {
+                    "global_index": 78,
+                    "id": "Q01",
+                    "question": "Womit hört der Hase auf?",
+                    "teacher-answer": "Mit dem Weinen! Er hört auf zu weinen.",
+                    "question-start": 773.688,
+                    "question-end": 777.096,
+                    "answer-start": 777.096,
+                    "answer-end": 781.92
+                },
+                {
+                    "global_index": 79,
+                    "id": "Q02",
+                    "question": "Weint er weiter?",
+                    "teacher-answer": "Nein! Er hört auf zu weinen. Er weint nicht mehr!",
+                    "question-start": 781.92,
+                    "question-end": 785.088,
+                    "answer-start": 785.088,
+                    "answer-end": 791.208
+                },
+                {
+                    "global_index": 80,
+                    "id": "Q03",
+                    "question": "Er hört auf zu weinen. Stimmt das?",
+                    "teacher-answer": "Ja, das stimmt! Er hört auf zu weinen. Gut so!",
+                    "question-start": 791.208,
+                    "question-end": 796.704,
+                    "answer-start": 796.704,
+                    "answer-end": 803.712
+                },
+                {
+                    "global_index": 81,
+                    "id": "Q04",
+                    "question": "Hört er auf zu lachen?",
+                    "teacher-answer": "Nein, nein! Er hört auf zu weinen, nicht zu lachen!",
+                    "question-start": 803.712,
+                    "question-end": 807.024,
+                    "answer-start": 807.024,
+                    "answer-end": 812.88
+                }
+            ]
+        },
+        {
+            "sentence-id": "S16",
+            "original-sentence": "Er übt jeden Tag weiter Torschüsse.",
+            "drills": [
+                {
+                    "global_index": 82,
+                    "id": "Q01",
+                    "question": "Was übt der Hase?",
+                    "teacher-answer": "Torschüsse! Er übt weiter Torschüsse.",
+                    "question-start": 812.88,
+                    "question-end": 816.12,
+                    "answer-start": 816.12,
+                    "answer-end": 820.608
+                },
+                {
+                    "global_index": 83,
+                    "id": "Q02",
+                    "question": "Übt er jeden Tag?",
+                    "teacher-answer": "Ja! Er übt jeden Tag weiter Torschüsse.",
+                    "question-start": 820.608,
+                    "question-end": 823.92,
+                    "answer-start": 823.92,
+                    "answer-end": 829.128
+                },
+                {
+                    "global_index": 84,
+                    "id": "Q03",
+                    "question": "Hört er auf zu üben?",
+                    "teacher-answer": "Nein! Er übt weiter. Er übt jeden Tag weiter!",
+                    "question-start": 829.128,
+                    "question-end": 832.776,
+                    "answer-start": 832.776,
+                    "answer-end": 839.064
+                },
+                {
+                    "global_index": 85,
+                    "id": "Q04",
+                    "question": "Wer übt jeden Tag weiter Torschüsse?",
+                    "teacher-answer": "Der Hase! Der Hase übt jeden Tag weiter Torschüsse. Ganz genau!",
+                    "question-start": 839.064,
+                    "question-end": 843.336,
+                    "answer-start": 843.336,
+                    "answer-end": 851.376
+                },
+                {
+                    "global_index": 86,
+                    "id": "Q05",
+                    "question": "Er übt jeden Tag weiter Torschüsse. Richtig?",
+                    "teacher-answer": "Ja, richtig! Er übt jeden Tag weiter Torschüsse. Wahnsinn!",
+                    "question-start": 851.376,
+                    "question-end": 857.184,
+                    "answer-start": 857.184,
+                    "answer-end": 864.336
+                }
+            ]
+        },
+        {
+            "sentence-id": "S17",
+            "original-sentence": "Eines Tages liest er in der Zeitung, dass Borussia Dortmund dringend neue Stürmer braucht.",
+            "drills": [
+                {
+                    "global_index": 87,
+                    "id": "Q01",
+                    "question": "Wann liest er die Zeitung?",
+                    "teacher-answer": "Eines Tages! Eines Tages liest er in der Zeitung.",
+                    "question-start": 864.336,
+                    "question-end": 867.984,
+                    "answer-start": 867.984,
+                    "answer-end": 872.88
+                },
+                {
+                    "global_index": 88,
+                    "id": "Q02",
+                    "question": "Was liest er?",
+                    "teacher-answer": "Die Zeitung! Er liest in der Zeitung.",
+                    "question-start": 872.88,
+                    "question-end": 876.192,
+                    "answer-start": 876.192,
+                    "answer-end": 880.128
+                },
+                {
+                    "global_index": 89,
+                    "id": "Q03",
+                    "question": "Wer braucht neue Stürmer?",
+                    "teacher-answer": "Borussia Dortmund! Sie brauchen dringend neue Stürmer.",
+                    "question-start": 880.128,
+                    "question-end": 884.16,
+                    "answer-start": 884.16,
+                    "answer-end": 890.736
+                },
+                {
+                    "global_index": 90,
+                    "id": "Q04",
+                    "question": "Brauchen sie Stürmer oder Verteidiger?",
+                    "teacher-answer": "Stürmer! Borussia Dortmund braucht neue Stürmer.",
+                    "question-start": 890.736,
+                    "question-end": 895.344,
+                    "answer-start": 895.344,
+                    "answer-end": 901.272
+                },
+                {
+                    "global_index": 91,
+                    "id": "Q05",
+                    "question": "Was steht in der Zeitung?",
+                    "teacher-answer": "Dass Dortmund neue Stürmer braucht! Er liest, dass sie dringend Stürmer brauchen.",
+                    "question-start": 901.272,
+                    "question-end": 904.992,
+                    "answer-start": 904.992,
+                    "answer-end": 911.568
+                },
+                {
+                    "global_index": 92,
+                    "id": "Q06",
+                    "question": "Dass Borussia Dortmund dringend neue Stürmer braucht...?",
+                    "teacher-answer": "...liest er in der Zeitung! Ganz genau!",
+                    "question-start": 911.568,
+                    "question-end": 916.896,
+                    "answer-start": 916.896,
+                    "answer-end": 921.384
+                }
+            ]
+        },
+        {
+            "sentence-id": "S18",
+            "original-sentence": "Der Hase fährt sofort nach Dortmund.",
+            "drills": [
+                {
+                    "global_index": 93,
+                    "id": "Q01",
+                    "question": "Wohin fährt der Hase?",
+                    "teacher-answer": "Nach Dortmund! Er fährt sofort nach Dortmund.",
+                    "question-start": 921.384,
+                    "question-end": 924.936,
+                    "answer-start": 924.936,
+                    "answer-end": 930.0
+                },
+                {
+                    "global_index": 94,
+                    "id": "Q02",
+                    "question": "Fährt er langsam?",
+                    "teacher-answer": "Nein! Er fährt sofort. Sofort nach Dortmund!",
+                    "question-start": 930.0,
+                    "question-end": 933.408,
+                    "answer-start": 933.408,
+                    "answer-end": 939.12
+                },
+                {
+                    "global_index": 95,
+                    "id": "Q03",
+                    "question": "Fährt er nach München?",
+                    "teacher-answer": "Nein, nein! Er fährt nicht nach München. Er fährt nach Dortmund!",
+                    "question-start": 939.12,
+                    "question-end": 942.288,
+                    "answer-start": 942.288,
+                    "answer-end": 948.48
+                },
+                {
+                    "global_index": 96,
+                    "id": "Q04",
+                    "question": "Wer fährt sofort nach Dortmund?",
+                    "teacher-answer": "Der Hase! Der Hase fährt sofort nach Dortmund.",
+                    "question-start": 948.48,
+                    "question-end": 952.68,
+                    "answer-start": 952.68,
+                    "answer-end": 957.648
+                },
+                {
+                    "global_index": 97,
+                    "id": "Q05",
+                    "question": "Der Hase fährt sofort nach Dortmund. Richtig?",
+                    "teacher-answer": "Ja, richtig! Sofort nach Dortmund!",
+                    "question-start": 957.648,
+                    "question-end": 963.792,
+                    "answer-start": 963.792,
+                    "answer-end": 968.136
+                }
+            ]
+        },
+        {
+            "sentence-id": "S19",
+            "original-sentence": "Er bewirbt sich bei Borussia Dortmund.",
+            "drills": [
+                {
+                    "global_index": 98,
+                    "id": "Q01",
+                    "question": "Wo bewirbt sich der Hase?",
+                    "teacher-answer": "Bei Borussia Dortmund! Er bewirbt sich dort.",
+                    "question-start": 968.136,
+                    "question-end": 971.688,
+                    "answer-start": 971.688,
+                    "answer-end": 976.176
+                },
+                {
+                    "global_index": 99,
+                    "id": "Q02",
+                    "question": "Bewirbt er sich bei Bayern?",
+                    "teacher-answer": "Nein! Er bewirbt sich bei Borussia Dortmund, nicht bei Bayern!",
+                    "question-start": 976.176,
+                    "question-end": 979.968,
+                    "answer-start": 979.968,
+                    "answer-end": 985.824
+                },
+                {
+                    "global_index": 100,
+                    "id": "Q03",
+                    "question": "Wer bewirbt sich bei Borussia Dortmund?",
+                    "teacher-answer": "Der Hase! Der Hase bewirbt sich bei Borussia Dortmund.",
+                    "question-start": 985.824,
+                    "question-end": 990.096,
+                    "answer-start": 990.096,
+                    "answer-end": 995.232
+                },
+                {
+                    "global_index": 101,
+                    "id": "Q04",
+                    "question": "Er bewirbt sich bei Borussia Dortmund. Stimmt das?",
+                    "teacher-answer": "Ja, das stimmt! Er bewirbt sich bei Borussia Dortmund.",
+                    "question-start": 995.232,
+                    "question-end": 1001.04,
+                    "answer-start": 1001.04,
+                    "answer-end": 1006.416
+                }
+            ]
+        },
+        {
+            "sentence-id": "S20",
+            "original-sentence": "Die Dortmunder sind sehr beeindruckt von dem Hasen.",
+            "drills": [
+                {
+                    "global_index": 102,
+                    "id": "Q01",
+                    "question": "Sind die Dortmunder beeindruckt?",
+                    "teacher-answer": "Ja! Sehr beeindruckt! Die Dortmunder sind sehr beeindruckt.",
+                    "question-start": 1006.416,
+                    "question-end": 1010.136,
+                    "answer-start": 1010.136,
+                    "answer-end": 1016.664
+                },
+                {
+                    "global_index": 103,
+                    "id": "Q02",
+                    "question": "Wovon sind sie beeindruckt?",
+                    "teacher-answer": "Von dem Hasen! Sie sind beeindruckt von dem Hasen.",
+                    "question-start": 1016.664,
+                    "question-end": 1020.216,
+                    "answer-start": 1020.216,
+                    "answer-end": 1025.76
+                },
+                {
+                    "global_index": 104,
+                    "id": "Q03",
+                    "question": "Sind sie gelangweilt?",
+                    "teacher-answer": "Nein! Sie sind nicht gelangweilt. Sie sind sehr beeindruckt!",
+                    "question-start": 1025.76,
+                    "question-end": 1029.552,
+                    "answer-start": 1029.552,
+                    "answer-end": 1036.32
+                },
+                {
+                    "global_index": 105,
+                    "id": "Q04",
+                    "question": "Von wem sind sie beeindruckt?",
+                    "teacher-answer": "Von dem Hasen! Die Dortmunder sind sehr beeindruckt von dem Hasen.",
+                    "question-start": 1036.32,
+                    "question-end": 1040.208,
+                    "answer-start": 1040.208,
+                    "answer-end": 1045.824
+                },
+                {
+                    "global_index": 106,
+                    "id": "Q05",
+                    "question": "Die Dortmunder sind sehr beeindruckt von dem Hasen. Richtig?",
+                    "teacher-answer": "Ja, richtig! Die Dortmunder sind sehr beeindruckt von dem Hasen!",
+                    "question-start": 1045.824,
+                    "question-end": 1052.208,
+                    "answer-start": 1052.208,
+                    "answer-end": 1058.304
+                }
+            ]
+        },
+        {
+            "sentence-id": "S21",
+            "original-sentence": "Der Manager sagt: „Wow, du bist der beste Knipser, den ich je gesehen habe!",
+            "drills": [
+                {
+                    "global_index": 107,
+                    "id": "Q01",
+                    "question": "Was sagt der Manager?",
+                    "teacher-answer": "Wow, du bist der beste Knipser!",
+                    "question-start": 1058.304,
+                    "question-end": 1061.616,
+                    "answer-start": 1061.616,
+                    "answer-end": 1064.976
+                },
+                {
+                    "global_index": 108,
+                    "id": "Q02",
+                    "question": "Ist der Hase ein schlechter Knipser?",
+                    "teacher-answer": "Nein! Er ist der beste Knipser! Der Manager sagt: der beste!",
+                    "question-start": 1064.976,
+                    "question-end": 1069.104,
+                    "answer-start": 1069.104,
+                    "answer-end": 1076.352
+                },
+                {
+                    "global_index": 109,
+                    "id": "Q03",
+                    "question": "Was sagt der Manager über den Hasen?",
+                    "teacher-answer": "Dass er der beste Knipser ist! Den er je gesehen hat!",
+                    "question-start": 1076.352,
+                    "question-end": 1080.384,
+                    "answer-start": 1080.384,
+                    "answer-end": 1085.112
+                },
+                {
+                    "global_index": 110,
+                    "id": "Q04",
+                    "question": "Hat der Manager je einen besseren Knipser gesehen?",
+                    "teacher-answer": "Nein! Der Hase ist der beste, den er je gesehen hat!",
+                    "question-start": 1085.112,
+                    "question-end": 1089.96,
+                    "answer-start": 1089.96,
+                    "answer-end": 1095.576
+                },
+                {
+                    "global_index": 111,
+                    "id": "Q05",
+                    "question": "Du bist der beste Knipser, den ich je gesehen habe. Was sagt der Manager?",
+                    "teacher-answer": "Das sagt er! Wow, du bist der beste Knipser, den ich je gesehen habe!",
+                    "question-start": 1095.576,
+                    "question-end": 1103.16,
+                    "answer-start": 1103.16,
+                    "answer-end": 1109.184
+                }
+            ]
+        },
+        {
+            "sentence-id": "S22",
+            "original-sentence": "Die Borussia stellt den Hasen ein und bezahlt ihm anfangs nur ein Taschengeld von 2 Euro.",
+            "drills": [
+                {
+                    "global_index": 112,
+                    "id": "Q01",
+                    "question": "Was macht die Borussia?",
+                    "teacher-answer": "Sie stellt den Hasen ein! Die Borussia stellt den Hasen ein.",
+                    "question-start": 1109.184,
+                    "question-end": 1112.496,
+                    "answer-start": 1112.496,
+                    "answer-end": 1117.872
+                },
+                {
+                    "global_index": 113,
+                    "id": "Q02",
+                    "question": "Was bezahlen sie ihm?",
+                    "teacher-answer": "Ein Taschengeld! Nur ein Taschengeld von 2 Euro.",
+                    "question-start": 1117.872,
+                    "question-end": 1121.352,
+                    "answer-start": 1121.352,
+                    "answer-end": 1126.176
+                },
+                {
+                    "global_index": 114,
+                    "id": "Q03",
+                    "question": "Ist das viel Geld?",
+                    "teacher-answer": "Nein! Es ist nur 2 Euro. Ein kleines Taschengeld!",
+                    "question-start": 1126.176,
+                    "question-end": 1129.416,
+                    "answer-start": 1129.416,
+                    "answer-end": 1136.424
+                },
+                {
+                    "global_index": 115,
+                    "id": "Q04",
+                    "question": "Bezahlen sie ihm 2 Euro oder 200 Euro?",
+                    "teacher-answer": "Nur 2 Euro! Anfangs bezahlen sie ihm nur 2 Euro.",
+                    "question-start": 1136.424,
+                    "question-end": 1141.896,
+                    "answer-start": 1141.896,
+                    "answer-end": 1147.2
+                },
+                {
+                    "global_index": 116,
+                    "id": "Q05",
+                    "question": "Die Borussia stellt den Hasen ein und...?",
+                    "teacher-answer": "...bezahlt ihm anfangs nur ein Taschengeld von 2 Euro! Ganz genau!",
+                    "question-start": 1147.2,
+                    "question-end": 1152.288,
+                    "answer-start": 1152.288,
+                    "answer-end": 1158.936
+                },
+                {
+                    "global_index": 117,
+                    "id": "Q06",
+                    "question": "Was stellen sie ein? Wen?",
+                    "teacher-answer": "Den Hasen! Die Borussia stellt den Hasen ein. Wow!",
+                    "question-start": 1158.936,
+                    "question-end": 1162.656,
+                    "answer-start": 1162.656,
+                    "answer-end": 1169.424
+                }
+            ]
+        },
+        {
+            "sentence-id": "S23",
+            "original-sentence": "In seinem ersten Spiel in der Bundesliga schießt der Hase direkt 5 Tore!",
+            "drills": [
+                {
+                    "global_index": 118,
+                    "id": "Q01",
+                    "question": "Was schießt der Hase?",
+                    "teacher-answer": "5 Tore! Er schießt direkt 5 Tore!",
+                    "question-start": 1169.424,
+                    "question-end": 1172.664,
+                    "answer-start": 1172.664,
+                    "answer-end": 1177.152
+                },
+                {
+                    "global_index": 119,
+                    "id": "Q02",
+                    "question": "Wie viele Tore schießt er?",
+                    "teacher-answer": "5 Tore! In seinem ersten Spiel schießt er 5 Tore!",
+                    "question-start": 1177.152,
+                    "question-end": 1181.112,
+                    "answer-start": 1181.112,
+                    "answer-end": 1187.616
+                },
+                {
+                    "global_index": 120,
+                    "id": "Q03",
+                    "question": "Schießt er 1 oder 5 Tore?",
+                    "teacher-answer": "5 Tore! Nicht nur 1, sondern 5 Tore! Wahnsinn!",
+                    "question-start": 1187.616,
+                    "question-end": 1191.984,
+                    "answer-start": 1191.984,
+                    "answer-end": 1199.472
+                },
+                {
+                    "global_index": 121,
+                    "id": "Q04",
+                    "question": "Wo spielt er?",
+                    "teacher-answer": "In der Bundesliga! In seinem ersten Spiel in der Bundesliga!",
+                    "question-start": 1199.472,
+                    "question-end": 1202.4,
+                    "answer-start": 1202.4,
+                    "answer-end": 1208.736
+                },
+                {
+                    "global_index": 122,
+                    "id": "Q05",
+                    "question": "Ist es sein zehntes Spiel?",
+                    "teacher-answer": "Nein! Es ist sein erstes Spiel. Sein erstes Spiel in der Bundesliga!",
+                    "question-start": 1208.736,
+                    "question-end": 1212.456,
+                    "answer-start": 1212.456,
+                    "answer-end": 1219.776
+                },
+                {
+                    "global_index": 123,
+                    "id": "Q06",
+                    "question": "In seinem ersten Spiel schießt der Hase...?",
+                    "teacher-answer": "...direkt 5 Tore! Richtig! 5 Tore in seinem ersten Spiel!",
+                    "question-start": 1219.776,
+                    "question-end": 1224.384,
+                    "answer-start": 1224.384,
+                    "answer-end": 1231.944
+                }
+            ]
+        },
+        {
+            "sentence-id": "S24",
+            "original-sentence": "Jeder in Dortmund liebt den Hasen!",
+            "drills": [
+                {
+                    "global_index": 124,
+                    "id": "Q01",
+                    "question": "Wer liebt den Hasen?",
+                    "teacher-answer": "Jeder! Jeder in Dortmund liebt den Hasen!",
+                    "question-start": 1231.944,
+                    "question-end": 1235.664,
+                    "answer-start": 1235.664,
+                    "answer-end": 1240.488
+                },
+                {
+                    "global_index": 125,
+                    "id": "Q02",
+                    "question": "Liebt jemand den Hasen?",
+                    "teacher-answer": "Ja! Jeder! Jeder in Dortmund liebt den Hasen!",
+                    "question-start": 1240.488,
+                    "question-end": 1244.04,
+                    "answer-start": 1244.04,
+                    "answer-end": 1250.472
+                },
+                {
+                    "global_index": 126,
+                    "id": "Q03",
+                    "question": "Lieben sie den Hasen oder den Manager?",
+                    "teacher-answer": "Den Hasen! Jeder in Dortmund liebt den Hasen!",
+                    "question-start": 1250.472,
+                    "question-end": 1254.912,
+                    "answer-start": 1254.912,
+                    "answer-end": 1259.976
+                },
+                {
+                    "global_index": 127,
+                    "id": "Q04",
+                    "question": "Wo liebt jeder den Hasen?",
+                    "teacher-answer": "In Dortmund! Jeder in Dortmund liebt den Hasen!",
+                    "question-start": 1259.976,
+                    "question-end": 1263.864,
+                    "answer-start": 1263.864,
+                    "answer-end": 1269.168
+                },
+                {
+                    "global_index": 128,
+                    "id": "Q05",
+                    "question": "Jeder in Dortmund liebt den Hasen! Richtig?",
+                    "teacher-answer": "Ja, richtig! Jeder in Dortmund liebt den Hasen! Fantastisch!",
+                    "question-start": 1269.168,
+                    "question-end": 1274.904,
+                    "answer-start": 1274.904,
+                    "answer-end": 1282.872
+                }
+            ]
+        },
+        {
+            "sentence-id": "S25",
+            "original-sentence": "Die Vereinsbosse geben ihm eine gewaltige Gehaltserhöhung.",
+            "drills": [
+                {
+                    "global_index": 129,
+                    "id": "Q01",
+                    "question": "Was geben ihm die Vereinsbosse?",
+                    "teacher-answer": "Eine Gehaltserhöhung! Eine gewaltige Gehaltserhöhung!",
+                    "question-start": 1282.872,
+                    "question-end": 1286.76,
+                    "answer-start": 1286.76,
+                    "answer-end": 1292.064
+                },
+                {
+                    "global_index": 130,
+                    "id": "Q02",
+                    "question": "Wer gibt ihm die Gehaltserhöhung?",
+                    "teacher-answer": "Die Vereinsbosse! Die Vereinsbosse geben ihm eine Gehaltserhöhung.",
+                    "question-start": 1292.064,
+                    "question-end": 1296.024,
+                    "answer-start": 1296.024,
+                    "answer-end": 1302.6
+                },
+                {
+                    "global_index": 131,
+                    "id": "Q03",
+                    "question": "Ist die Erhöhung klein?",
+                    "teacher-answer": "Nein! Sie ist gewaltig! Eine gewaltige Gehaltserhöhung!",
+                    "question-start": 1302.6,
+                    "question-end": 1306.632,
+                    "answer-start": 1306.632,
+                    "answer-end": 1313.16
+                },
+                {
+                    "global_index": 132,
+                    "id": "Q04",
+                    "question": "Die Vereinsbosse geben ihm eine Gehaltserhöhung. Richtig?",
+                    "teacher-answer": "Ja, richtig! Die Vereinsbosse geben ihm eine gewaltige Gehaltserhöhung!",
+                    "question-start": 1313.16,
+                    "question-end": 1319.688,
+                    "answer-start": 1319.688,
+                    "answer-end": 1326.192
+                },
+                {
+                    "global_index": 133,
+                    "id": "Q05",
+                    "question": "Wem geben sie eine Gehaltserhöhung?",
+                    "teacher-answer": "Dem Hasen! Sie geben dem Hasen eine gewaltige Gehaltserhöhung!",
+                    "question-start": 1326.192,
+                    "question-end": 1330.632,
+                    "answer-start": 1330.632,
+                    "answer-end": 1336.656
+                }
+            ]
+        },
+        {
+            "sentence-id": "S26",
+            "original-sentence": "Sie bezahlen ihm 540 Millionen Euro!",
+            "drills": [
+                {
+                    "global_index": 134,
+                    "id": "Q01",
+                    "question": "Wie viel bezahlen sie ihm?",
+                    "teacher-answer": "540 Millionen Euro! Sie bezahlen ihm 540 Millionen Euro!",
+                    "question-start": 1336.656,
+                    "question-end": 1340.208,
+                    "answer-start": 1340.208,
+                    "answer-end": 1347.744
+                },
+                {
+                    "global_index": 135,
+                    "id": "Q02",
+                    "question": "Bezahlen sie ihm 2 Euro?",
+                    "teacher-answer": "Nein, nein! Nicht nur 2 Euro! 540 Millionen Euro! Wahnsinn!",
+                    "question-start": 1347.744,
+                    "question-end": 1351.464,
+                    "answer-start": 1351.464,
+                    "answer-end": 1361.352
+                },
+                {
+                    "global_index": 136,
+                    "id": "Q03",
+                    "question": "Ist das viel Geld?",
+                    "teacher-answer": "Ja! 540 Millionen Euro! Eine gewaltige Summe!",
+                    "question-start": 1361.352,
+                    "question-end": 1364.424,
+                    "answer-start": 1364.424,
+                    "answer-end": 1371.432
+                },
+                {
+                    "global_index": 137,
+                    "id": "Q04",
+                    "question": "Wer bezahlt 540 Millionen Euro?",
+                    "teacher-answer": "Die Vereinsbosse! Sie bezahlen dem Hasen 540 Millionen Euro!",
+                    "question-start": 1371.432,
+                    "question-end": 1376.352,
+                    "answer-start": 1376.352,
+                    "answer-end": 1382.688
+                },
+                {
+                    "global_index": 138,
+                    "id": "Q05",
+                    "question": "Sie bezahlen ihm 540 Millionen Euro. Stimmt das?",
+                    "teacher-answer": "Ja, das stimmt! 540 Millionen Euro! Der arme Hase ist jetzt reich!",
+                    "question-start": 1382.688,
+                    "question-end": 1389.552,
+                    "answer-start": 1389.552,
+                    "answer-end": 1397.76
+                }
+            ]
+        },
+        {
+            "sentence-id": "S27",
+            "original-sentence": "Der Hase ist reich, berühmt und glücklich.",
+            "drills": [
+                {
+                    "global_index": 139,
+                    "id": "Q01",
+                    "question": "Ist der Hase arm?",
+                    "teacher-answer": "Nein! Er ist nicht arm. Er ist reich!",
+                    "question-start": 1397.76,
+                    "question-end": 1401.0,
+                    "answer-start": 1401.0,
+                    "answer-end": 1406.64
+                },
+                {
+                    "global_index": 140,
+                    "id": "Q02",
+                    "question": "Ist er berühmt?",
+                    "teacher-answer": "Ja! Er ist reich und berühmt und glücklich!",
+                    "question-start": 1406.64,
+                    "question-end": 1409.64,
+                    "answer-start": 1409.64,
+                    "answer-end": 1414.776
+                },
+                {
+                    "global_index": 141,
+                    "id": "Q03",
+                    "question": "Ist er unglücklich?",
+                    "teacher-answer": "Nein, nein! Er ist glücklich! Endlich glücklich!",
+                    "question-start": 1414.776,
+                    "question-end": 1418.016,
+                    "answer-start": 1418.016,
+                    "answer-end": 1424.136
+                },
+                {
+                    "global_index": 142,
+                    "id": "Q04",
+                    "question": "Was ist der Hase?",
+                    "teacher-answer": "Reich, berühmt und glücklich! Der Hase ist reich, berühmt und glücklich!",
+                    "question-start": 1424.136,
+                    "question-end": 1427.136,
+                    "answer-start": 1427.136,
+                    "answer-end": 1434.192
+                },
+                {
+                    "global_index": 143,
+                    "id": "Q05",
+                    "question": "Reich und...?",
+                    "teacher-answer": "...berühmt und glücklich! Der Hase ist reich, berühmt und glücklich! Fantastisch!",
+                    "question-start": 1434.192,
+                    "question-end": 1437.264,
+                    "answer-start": 1437.264,
+                    "answer-end": 1445.472
+                }
+            ]
+        }
+    ]
+}
