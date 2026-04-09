@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated": "2026-04-09T21:47:43.085591",
+    "total": 10,
+    "description": "Indexed catalog of stories with metadata"
+  },
+  "stories": [
+    {
+      "id": "balus-essen-a2",
+      "title": "Balus Essen",
+      "level": "A2",
+      "duration": 105.46,
+      "hasAudio": {
+        "story": true,
+        "drills": true,
+        "lexical": true
+      }
+    },
+    {
+      "id": "bilderratsel-das-geheime-erbe-a2",
+      "title": "Bilderrätsel: Das geheime Erbe",
+      "level": "A2",
+      "duration": 74.28,
+      "hasAudio": {
+        "story": true,
+        "drills": true,
+        "lexical": true
+      }
+    },
+    {
+      "id": "bunter-markt-mit-gewurzen-a2",
+      "title": "Bunter Markt mit Gewürzen",
+      "level": "A2",
+      "duration": 85.03,
+      "hasAudio": {
+        "story": true,
+        "drills": true,
+        "lexical": true
+      }
+    },
+    {
+      "id": "das-geheimnis-der-bibliothek-a2",
+      "title": "Das Geheimnis der Bibliothek",
+      "level": "A2",
+      "duration": 88.08,
+      "hasAudio": {
+        "story": true,
+        "drills": true,
+        "lexical": true
+      }
+    },
+    {
+      "id": "das-licht-des-leuchtturms-a2",
+      "title": "Das Licht des Leuchtturms",
+      "level": "A2",
+      "duration": 54.67,
+      "hasAudio": {
+        "story": true,
+        "drills": true,
+        "lexical": true
+      }
+    },
+    {
+      "id": "der-fussball-hase-a2",
+      "title": "Der Fußball-Hase",
+      "level": "A2",
+      "duration": 132.02,
+      "hasAudio": {
+        "story": true,
+        "drills": true,
+        "lexical": true
+      }
+    },
+    {
+      "id": "ein-kuss-a2",
+      "title": "Ein Kuss",
+      "level": "A2",
+      "duration": 91.7,
+      "hasAudio": {
+        "story": true,
+        "drills": true,
+        "lexical": true
+      }
+    },
+    {
+      "id": "tag-der-toten-a2",
+      "title": "Tag der Toten",
+      "level": "A2",
+      "duration": 103.58,
+      "hasAudio": {
+        "story": true,
+        "drills": true,
+        "lexical": true
+      }
+    },
+    {
+      "id": "veraendert-a2",
+      "title": "Verändert",
+      "level": "A2",
+      "duration": 51.0,
+      "hasAudio": {
+        "story": true,
+        "drills": true,
+        "lexical": true
+      }
+    },
+    {
+      "id": "veraendert-b1",
+      "title": "Verändert",
+      "level": "B1",
+      "duration": 48.82,
+      "hasAudio": {
+        "story": true,
+        "drills": true,
+        "lexical": true
+      }
+    }
+  ]
+}
