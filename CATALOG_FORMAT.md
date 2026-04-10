@@ -1,7 +1,15 @@
 # Catalog.json Format Documentation
 
 ## Overview
-`catalog.json` is an indexed catalog that aggregates metadata from all story files, enabling fast querying and listing of available stories in your app without parsing individual story files.
+`catalog.json` is an indexed catalog that aggregates metadata from all story sources (folders and .mlb bundles), enabling fast querying and listing of available stories in your app without parsing individual story files or bundles.
+
+## Data Sources
+
+The catalog automatically indexes stories from:
+1. **Folder-based stories** — legacy format with `<slug>.json` + three MP3 files
+2. **.mlb bundles** — modern format with all assets packed into a single binary file
+
+When both formats exist for the same story, the **.mlb bundle takes precedence**.
 
 ## Structure
 
@@ -46,8 +54,9 @@ Array of story objects. Each story contains:
 | `hasAudio.story` | boolean | Story narration file exists |
 | `hasAudio.drills` | boolean | Drills audio file exists |
 | `hasAudio.lexical` | boolean | Lexical audio file exists |
+| `source` | string | Data source: `"mlb"` (bundle) or `"folder"` |
 
-**Example Story Entry:**
+**Example Story Entry (from .mlb bundle):**
 ```json
 {
   "id": "balus-essen-a2",
@@ -58,7 +67,24 @@ Array of story objects. Each story contains:
     "story": true,
     "drills": true,
     "lexical": true
-  }
+  },
+  "source": "mlb"
+}
+```
+
+**Example Story Entry (from folder):**
+```json
+{
+  "id": "das-licht-des-leuchtturms-a2",
+  "title": "Das Licht des Leuchtturms",
+  "level": "A2",
+  "duration": 54.67,
+  "hasAudio": {
+    "story": true,
+    "drills": false,
+    "lexical": true
+  },
+  "source": "folder"
 }
 ```
 
@@ -85,30 +111,53 @@ console.log(`${story.title} - ${story.duration}s - ${story.wordCount} words`);
 
 ## Current Contents (10 stories)
 
-| Title | Level | Duration | Audio |
-|-------|-------|----------|-------|
-| Balus Essen | A2 | 105s | ✓ |
-| Bilderrätsel: Das geheime Erbe | A2 | 74s | ✓ |
-| Bunter Markt mit Gewürzen | A2 | 85s | ✓ |
-| Das Geheimnis der Bibliothek | A2 | 88s | ✓ |
-| Das Licht des Leuchtturms | A2 | 55s | ✓ |
-| Der Fußball-Hase | A2 | 132s | ✓ |
-| Ein Kuss | A2 | 92s | ✓ |
-| Tag der Toten | A2 | 104s | ✓ |
-| Verändert | A2 | 51s | ✓ |
-| Verändert | B1 | 49s | ✓ |
+| Title | Level | Duration | Source | Audio |
+|-------|-------|----------|--------|-------|
+| Balus Essen | A2 | 105s | mlb | ✓ |
+| Bilderrätsel: Das geheime Erbe | A2 | 74s | mlb | ✓ |
+| Bunter Markt mit Gewürzen | A2 | 85s | mlb | ✓ |
+| Das Geheimnis der Bibliothek | A2 | 88s | mlb | ✓ |
+| Das Licht des Leuchtturms | A2 | 55s | mlb | ✓ |
+| Der Fußball-Hase | A2 | 132s | mlb | ✓ |
+| Ein Kuss | A2 | 92s | mlb | ✓ |
+| Tag der Toten | A2 | 104s | mlb | ✓ |
+| Verändert | A2 | 51s | mlb | ✓ |
+| Verändert | B1 | 49s | mlb | ✓ |
 
 ## Updating the Catalog
 
-When adding new stories:
+When adding new stories, you can use either approach:
 
-1. Add the story folder with its `{folder-name}.json` file
-2. Run: `python3 generate_catalog.py`
-3. Catalog auto-updates with new story metadata
+**Option 1: Add folder with JSON + 3 MP3 files**
+```
+new-story-a2/
+  ├── new-story-a2.json
+  ├── new-story-a2-story.mp3
+  ├── new-story-a2-drills.mp3
+  └── new-story-a2-lexical.mp3
+```
 
-The script:
-- Scans all folders in `/tmp/`
-- Extracts title, level from story JSON
-- Calculates duration from sentence timings
-- Checks for MP3 file existence (story, drills, lexical)
-- Regenerates `catalog.json` with updated timestamp
+**Option 2: Add .mlb bundle file**
+```
+new-story-a2.mlb    (contains all assets, XOR-obfuscated)
+```
+
+Then regenerate the catalog:
+```bash
+python3 generate_catalog.py
+```
+
+### How the script works:
+
+1. Scans for all `.mlb` bundles in the base directory
+2. Decodes each manifest and extracts title, level, duration
+3. Scans for folder-based stories
+4. Merges results (bundles take precedence if both formats exist for same story)
+5. Regenerates `catalog.json` with updated timestamp
+
+### Implementation details:
+
+- **MLB Reader**: Imports `MAGIC`, `FORMAT_VERSION`, and XOR utilities from `bundle_lesson.py` format spec
+- **Key**: Uses hardcoded passphrase `"Denemeler123."` (from environment setup)
+- **Precedence**: If both `slug.mlb` and `slug/` exist, the bundle is used
+- **Sorting**: Final catalog sorted by level, then by title (alphabetical)
